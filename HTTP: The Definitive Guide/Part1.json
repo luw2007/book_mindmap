@@ -1,12 +1,12 @@
 {
     "id": "f7e05359-717a-4561-b0c3-eea5fd1cbdea",
-    "title": "http权威指南 Part1",
+    "title": "HTTP: The Web’s Foundation",
     "mindmap": {
         "root": {
             "id": "2409a574-a7c9-4a3c-a0ed-d43f86018504",
             "parentId": null,
             "text": {
-                "caption": "http权威指南 Part1",
+                "caption": "HTTP: The Web’s Foundation",
                 "font": {
                     "style": "normal",
                     "weight": "bold",
@@ -20,7 +20,7 @@
                 "y": 0
             },
             "foldChildren": false,
-            "branchColor": "#000000",
+            "branchColor": "#1522d6",
             "children": [
                 {
                     "id": "41d33d77-eff4-4418-a1d4-381d7598f2ec",
@@ -636,8 +636,8 @@
                                                         }
                                                     },
                                                     "offset": {
-                                                        "x": 116.78793334960938,
-                                                        "y": -131.19692993164062
+                                                        "x": 145.783447265625,
+                                                        "y": -96.18328857421875
                                                     },
                                                     "foldChildren": false,
                                                     "branchColor": "#1a2ddf",
@@ -659,8 +659,8 @@
                                                         }
                                                     },
                                                     "offset": {
-                                                        "x": 128.39385986328125,
-                                                        "y": -80.3939208984375
+                                                        "x": 183.383544921875,
+                                                        "y": -42.38330078125
                                                     },
                                                     "foldChildren": false,
                                                     "branchColor": "#1a2ddf",
@@ -682,8 +682,8 @@
                                                         }
                                                     },
                                                     "offset": {
-                                                        "x": 125.5909423828125,
-                                                        "y": -45
+                                                        "x": 162.583251953125,
+                                                        "y": 13
                                                     },
                                                     "foldChildren": false,
                                                     "branchColor": "#1a2ddf",
@@ -694,250 +694,26 @@
                                             ]
                                         },
                                         {
-                                            "id": "e1591dfe-367e-4150-963a-f7c7804113c0",
+                                            "id": "52fe7620-63b0-4f6d-9ccb-d745160831c7",
                                             "parentId": "acdd474a-6a18-42f1-8d95-39b2a9a874f5",
                                             "text": {
                                                 "caption": "protocol stack",
                                                 "font": {
-                                                    "weight": "normal",
                                                     "style": "normal",
+                                                    "weight": "normal",
                                                     "decoration": "none",
                                                     "size": 15,
                                                     "color": "#000000"
                                                 }
                                             },
                                             "offset": {
-                                                "x": 101.6121337890625,
-                                                "y": 8.8484619140625
+                                                "x": 95,
+                                                "y": 16
                                             },
                                             "foldChildren": false,
                                             "branchColor": "#1a2ddf",
                                             "children": [
-                                                {
-                                                    "id": "52019ffc-389a-4e4a-9ad4-67c0ef5f9cb2",
-                                                    "parentId": "e1591dfe-367e-4150-963a-f7c7804113c0",
-                                                    "text": {
-                                                        "caption": "Application layer",
-                                                        "font": {
-                                                            "weight": "normal",
-                                                            "style": "normal",
-                                                            "decoration": "none",
-                                                            "size": 15,
-                                                            "color": "#000000"
-                                                        }
-                                                    },
-                                                    "offset": {
-                                                        "x": 157.98486328125,
-                                                        "y": -17
-                                                    },
-                                                    "foldChildren": false,
-                                                    "branchColor": "#1a2ddf",
-                                                    "children": [
-                                                        {
-                                                            "id": "567094e8-b9ef-43d7-9cbd-0209b88efcdd",
-                                                            "parentId": "52019ffc-389a-4e4a-9ad4-67c0ef5f9cb2",
-                                                            "text": {
-                                                                "caption": "HTTP",
-                                                                "font": {
-                                                                    "weight": "normal",
-                                                                    "style": "normal",
-                                                                    "decoration": "none",
-                                                                    "size": 15,
-                                                                    "color": "#000000"
-                                                                }
-                                                            },
-                                                            "offset": {
-                                                                "x": 173.55586751302084,
-                                                                "y": 0.19195556640625
-                                                            },
-                                                            "foldChildren": false,
-                                                            "branchColor": "#1a2ddf",
-                                                            "children": [
 
-                                                            ]
-                                                        }
-                                                    ]
-                                                },
-                                                {
-                                                    "id": "815216a4-df24-4e91-a0e1-16899507e0f1",
-                                                    "parentId": "e1591dfe-367e-4150-963a-f7c7804113c0",
-                                                    "text": {
-                                                        "caption": "Transport layer",
-                                                        "font": {
-                                                            "weight": "normal",
-                                                            "style": "normal",
-                                                            "decoration": "none",
-                                                            "size": 15,
-                                                            "color": "#000000"
-                                                        }
-                                                    },
-                                                    "offset": {
-                                                        "x": 170.36358642578125,
-                                                        "y": 16.772705078125
-                                                    },
-                                                    "foldChildren": false,
-                                                    "branchColor": "#1a2ddf",
-                                                    "children": [
-                                                        {
-                                                            "id": "37c1b063-292c-49e3-8cda-415afc6aaa6b",
-                                                            "parentId": "815216a4-df24-4e91-a0e1-16899507e0f1",
-                                                            "text": {
-                                                                "caption": "TCP",
-                                                                "font": {
-                                                                    "weight": "normal",
-                                                                    "style": "normal",
-                                                                    "decoration": "none",
-                                                                    "size": 15,
-                                                                    "color": "#000000"
-                                                                }
-                                                            },
-                                                            "offset": {
-                                                                "x": 154.95230538504464,
-                                                                "y": -0.7965436662946429
-                                                            },
-                                                            "foldChildren": false,
-                                                            "branchColor": "#1a2ddf",
-                                                            "children": [
-
-                                                            ]
-                                                        }
-                                                    ]
-                                                },
-                                                {
-                                                    "id": "cf49daa8-7d02-4308-95d2-db44a55ae3ca",
-                                                    "parentId": "e1591dfe-367e-4150-963a-f7c7804113c0",
-                                                    "text": {
-                                                        "caption": "Network layer",
-                                                        "font": {
-                                                            "weight": "normal",
-                                                            "style": "normal",
-                                                            "decoration": "none",
-                                                            "size": 15,
-                                                            "color": "#000000"
-                                                        }
-                                                    },
-                                                    "offset": {
-                                                        "x": 183.947998046875,
-                                                        "y": 50.4501953125
-                                                    },
-                                                    "foldChildren": false,
-                                                    "branchColor": "#1a2ddf",
-                                                    "children": [
-                                                        {
-                                                            "id": "416580a6-a563-4d98-abc6-9e61abd5d0e6",
-                                                            "parentId": "cf49daa8-7d02-4308-95d2-db44a55ae3ca",
-                                                            "text": {
-                                                                "caption": "IP",
-                                                                "font": {
-                                                                    "weight": "normal",
-                                                                    "style": "normal",
-                                                                    "decoration": "none",
-                                                                    "size": 15,
-                                                                    "color": "#000000"
-                                                                }
-                                                            },
-                                                            "offset": {
-                                                                "x": 139.60175432477678,
-                                                                "y": -0.7705601283482143
-                                                            },
-                                                            "foldChildren": false,
-                                                            "branchColor": "#1a2ddf",
-                                                            "children": [
-
-                                                            ]
-                                                        }
-                                                    ]
-                                                },
-                                                {
-                                                    "id": "5b239666-a270-467e-85a7-d1ccf06abd79",
-                                                    "parentId": "e1591dfe-367e-4150-963a-f7c7804113c0",
-                                                    "text": {
-                                                        "caption": "Data link layer",
-                                                        "font": {
-                                                            "weight": "normal",
-                                                            "style": "normal",
-                                                            "decoration": "none",
-                                                            "size": 15,
-                                                            "color": "#000000"
-                                                        }
-                                                    },
-                                                    "offset": {
-                                                        "x": 166.16456821986608,
-                                                        "y": 100.20776803152901
-                                                    },
-                                                    "foldChildren": false,
-                                                    "branchColor": "#1a2ddf",
-                                                    "children": [
-                                                        {
-                                                            "id": "6cc9d903-fe81-48c6-8a78-545f6d22cdef",
-                                                            "parentId": "5b239666-a270-467e-85a7-d1ccf06abd79",
-                                                            "text": {
-                                                                "caption": "Network-specific link interface",
-                                                                "font": {
-                                                                    "weight": "normal",
-                                                                    "style": "normal",
-                                                                    "decoration": "none",
-                                                                    "size": 15,
-                                                                    "color": "#000000"
-                                                                }
-                                                            },
-                                                            "offset": {
-                                                                "x": 118.10377720424107,
-                                                                "y": -16.121241978236608
-                                                            },
-                                                            "foldChildren": false,
-                                                            "branchColor": "#1a2ddf",
-                                                            "children": [
-
-                                                            ]
-                                                        }
-                                                    ]
-                                                },
-                                                {
-                                                    "id": "cc62dadf-dac9-443b-ade7-e2c0392de2f2",
-                                                    "parentId": "e1591dfe-367e-4150-963a-f7c7804113c0",
-                                                    "text": {
-                                                        "caption": "Physical layer",
-                                                        "font": {
-                                                            "weight": "normal",
-                                                            "style": "normal",
-                                                            "decoration": "none",
-                                                            "size": 15,
-                                                            "color": "#000000"
-                                                        }
-                                                    },
-                                                    "offset": {
-                                                        "x": 166.43287876674108,
-                                                        "y": 147.95667811802454
-                                                    },
-                                                    "foldChildren": false,
-                                                    "branchColor": "#1a2ddf",
-                                                    "children": [
-                                                        {
-                                                            "id": "68c5abbb-38c6-43f2-8314-93ea3eba1ed6",
-                                                            "parentId": "cc62dadf-dac9-443b-ade7-e2c0392de2f2",
-                                                            "text": {
-                                                                "caption": "Physical network hardware",
-                                                                "font": {
-                                                                    "weight": "normal",
-                                                                    "style": "normal",
-                                                                    "decoration": "none",
-                                                                    "size": 15,
-                                                                    "color": "#000000"
-                                                                }
-                                                            },
-                                                            "offset": {
-                                                                "x": 115.73135811941964,
-                                                                "y": -17.056361607142858
-                                                            },
-                                                            "foldChildren": false,
-                                                            "branchColor": "#1a2ddf",
-                                                            "children": [
-
-                                                            ]
-                                                        }
-                                                    ]
-                                                }
                                             ]
                                         }
                                     ]
@@ -4327,8 +4103,8 @@
                                 }
                             },
                             "offset": {
-                                "x": -251.25750732421875,
-                                "y": 290.5150680541992
+                                "x": -153.2166748046875,
+                                "y": 642.5
                             },
                             "foldChildren": false,
                             "branchColor": "#1a2ddf",
@@ -4347,8 +4123,8 @@
                                         }
                                     },
                                     "offset": {
-                                        "x": -241.33319091796875,
-                                        "y": -1119.7119941711426
+                                        "x": -297.316650390625,
+                                        "y": -1050.699951171875
                                     },
                                     "foldChildren": false,
                                     "branchColor": "#1a2ddf",
@@ -4620,8 +4396,8 @@
                                         }
                                     },
                                     "offset": {
-                                        "x": -288.15142822265625,
-                                        "y": -770.2423858642578
+                                        "x": -280.13330078125,
+                                        "y": -790.2333984375
                                     },
                                     "foldChildren": false,
                                     "branchColor": "#1a2ddf",
@@ -4640,8 +4416,8 @@
                                                 }
                                             },
                                             "offset": {
-                                                "x": -170.93927001953125,
-                                                "y": -118.28787231445312
+                                                "x": -159.933349609375,
+                                                "y": -120.2332763671875
                                             },
                                             "foldChildren": false,
                                             "branchColor": "#1a2ddf",
@@ -4777,8 +4553,8 @@
                                                 }
                                             },
                                             "offset": {
-                                                "x": -450.90911865234375,
-                                                "y": -48.954437255859375
+                                                "x": -478.9000244140625,
+                                                "y": -43.933349609375
                                             },
                                             "foldChildren": false,
                                             "branchColor": "#1a2ddf",
@@ -4960,8 +4736,8 @@
                                                 }
                                             },
                                             "offset": {
-                                                "x": -234.95452880859375,
-                                                "y": 18.03033447265625
+                                                "x": -296.9500732421875,
+                                                "y": 18.0167236328125
                                             },
                                             "foldChildren": false,
                                             "branchColor": "#1a2ddf",
@@ -5396,8 +5172,8 @@
                                         }
                                     },
                                     "offset": {
-                                        "x": -369.802978515625,
-                                        "y": -239.98477172851562
+                                        "x": -353.7999267578125,
+                                        "y": -236.9832763671875
                                     },
                                     "foldChildren": false,
                                     "branchColor": "#1a2ddf",
@@ -5760,8 +5536,8 @@
                                         }
                                     },
                                     "offset": {
-                                        "x": -276.3787841796875,
-                                        "y": 42.166717529296875
+                                        "x": -353.3665771484375,
+                                        "y": 39.1666259765625
                                     },
                                     "foldChildren": false,
                                     "branchColor": "#1a2ddf",
@@ -6136,16 +5912,1578 @@
                             ]
                         }
                     ]
+                },
+                {
+                    "id": "c9504b61-dba7-4776-b849-11556e0db281",
+                    "parentId": "2409a574-a7c9-4a3c-a0ed-d43f86018504",
+                    "text": {
+                        "caption": "Connection Management",
+                        "font": {
+                            "style": "normal",
+                            "weight": "normal",
+                            "decoration": "none",
+                            "size": 15,
+                            "color": "#000000"
+                        }
+                    },
+                    "offset": {
+                        "x": -365,
+                        "y": -616
+                    },
+                    "foldChildren": false,
+                    "branchColor": "#1a2ddf",
+                    "children": [
+                        {
+                            "id": "5726dcc7-f646-4b4c-ba12-94be4923b234",
+                            "parentId": "c9504b61-dba7-4776-b849-11556e0db281",
+                            "text": {
+                                "caption": "TCP Connections",
+                                "font": {
+                                    "style": "normal",
+                                    "weight": "normal",
+                                    "decoration": "none",
+                                    "size": 15,
+                                    "color": "#000000"
+                                }
+                            },
+                            "offset": {
+                                "x": -167,
+                                "y": -35
+                            },
+                            "foldChildren": false,
+                            "branchColor": "#1a2ddf",
+                            "children": [
+                                {
+                                    "id": "19a38131-eb2f-4fc8-ad19-5943ba6a00be",
+                                    "parentId": "5726dcc7-f646-4b4c-ba12-94be4923b234",
+                                    "text": {
+                                        "caption": "TCP Reliable Data Pipes",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": -473,
+                                        "y": -144
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#1a2ddf",
+                                    "children": [
+
+                                    ]
+                                },
+                                {
+                                    "id": "520fee47-4aa4-46f9-80c7-a8b8425c522f",
+                                    "parentId": "5726dcc7-f646-4b4c-ba12-94be4923b234",
+                                    "text": {
+                                        "caption": "TCP Streams Are Segmented and Shipped by IP Packets",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": -477,
+                                        "y": -226
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#1a2ddf",
+                                    "children": [
+                                        {
+                                            "id": "22d55d52-423c-4574-953c-de66a7b794fc",
+                                            "parentId": "520fee47-4aa4-46f9-80c7-a8b8425c522f",
+                                            "text": {
+                                                "caption": "HTTP",
+                                                "font": {
+                                                    "weight": "normal",
+                                                    "style": "normal",
+                                                    "decoration": "none",
+                                                    "size": 15,
+                                                    "color": "#000000"
+                                                }
+                                            },
+                                            "offset": {
+                                                "x": -127.433349609375,
+                                                "y": -56.23333740234375
+                                            },
+                                            "foldChildren": false,
+                                            "branchColor": "#1a2ddf",
+                                            "children": [
+                                                {
+                                                    "id": "37b11e50-7515-44d6-a1fd-403aef9820f2",
+                                                    "parentId": "22d55d52-423c-4574-953c-de66a7b794fc",
+                                                    "text": {
+                                                        "caption": "Transport layer",
+                                                        "font": {
+                                                            "weight": "normal",
+                                                            "style": "normal",
+                                                            "decoration": "none",
+                                                            "size": 15,
+                                                            "color": "#000000"
+                                                        }
+                                                    },
+                                                    "offset": {
+                                                        "x": -270.61669921875,
+                                                        "y": -15.25
+                                                    },
+                                                    "foldChildren": false,
+                                                    "branchColor": "#1a2ddf",
+                                                    "children": [
+                                                        {
+                                                            "id": "545f601c-69b3-4512-9f07-9b6c73860e2b",
+                                                            "parentId": "37b11e50-7515-44d6-a1fd-403aef9820f2",
+                                                            "text": {
+                                                                "caption": "TCP",
+                                                                "font": {
+                                                                    "weight": "normal",
+                                                                    "style": "normal",
+                                                                    "decoration": "none",
+                                                                    "size": 15,
+                                                                    "color": "#000000"
+                                                                }
+                                                            },
+                                                            "offset": {
+                                                                "x": -97.050048828125,
+                                                                "y": 0.2166748046875
+                                                            },
+                                                            "foldChildren": false,
+                                                            "branchColor": "#1a2ddf",
+                                                            "children": [
+
+                                                            ]
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "id": "af396493-eb71-45a6-aeb9-91874421ab18",
+                                                    "parentId": "22d55d52-423c-4574-953c-de66a7b794fc",
+                                                    "text": {
+                                                        "caption": "Network layer",
+                                                        "font": {
+                                                            "weight": "normal",
+                                                            "style": "normal",
+                                                            "decoration": "none",
+                                                            "size": 15,
+                                                            "color": "#000000"
+                                                        }
+                                                    },
+                                                    "offset": {
+                                                        "x": -259.050048828125,
+                                                        "y": 20.45001220703125
+                                                    },
+                                                    "foldChildren": false,
+                                                    "branchColor": "#1a2ddf",
+                                                    "children": [
+                                                        {
+                                                            "id": "e0686311-f505-435f-b298-979593d55f4d",
+                                                            "parentId": "af396493-eb71-45a6-aeb9-91874421ab18",
+                                                            "text": {
+                                                                "caption": "IP",
+                                                                "font": {
+                                                                    "weight": "normal",
+                                                                    "style": "normal",
+                                                                    "decoration": "none",
+                                                                    "size": 15,
+                                                                    "color": "#000000"
+                                                                }
+                                                            },
+                                                            "offset": {
+                                                                "x": -92.38330078125,
+                                                                "y": 1.23333740234375
+                                                            },
+                                                            "foldChildren": false,
+                                                            "branchColor": "#1a2ddf",
+                                                            "children": [
+
+                                                            ]
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "id": "899af908-c2c5-46e5-85cf-20c8aed8bc3e",
+                                                    "parentId": "22d55d52-423c-4574-953c-de66a7b794fc",
+                                                    "text": {
+                                                        "caption": "Data link layer",
+                                                        "font": {
+                                                            "weight": "normal",
+                                                            "style": "normal",
+                                                            "decoration": "none",
+                                                            "size": 15,
+                                                            "color": "#000000"
+                                                        }
+                                                    },
+                                                    "offset": {
+                                                        "x": -263.800048828125,
+                                                        "y": 72.20001220703125
+                                                    },
+                                                    "foldChildren": false,
+                                                    "branchColor": "#1a2ddf",
+                                                    "children": [
+                                                        {
+                                                            "id": "27721631-3db3-443f-93fc-dd70bb21e83b",
+                                                            "parentId": "899af908-c2c5-46e5-85cf-20c8aed8bc3e",
+                                                            "text": {
+                                                                "caption": "Network-specific link interface",
+                                                                "font": {
+                                                                    "weight": "normal",
+                                                                    "style": "normal",
+                                                                    "decoration": "none",
+                                                                    "size": 15,
+                                                                    "color": "#000000"
+                                                                }
+                                                            },
+                                                            "offset": {
+                                                                "x": -186.88330078125,
+                                                                "y": -16.11669921875
+                                                            },
+                                                            "foldChildren": false,
+                                                            "branchColor": "#1a2ddf",
+                                                            "children": [
+
+                                                            ]
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "id": "ff894258-2070-492a-ba39-dfaf5f77e031",
+                                                    "parentId": "22d55d52-423c-4574-953c-de66a7b794fc",
+                                                    "text": {
+                                                        "caption": "Physical layer",
+                                                        "font": {
+                                                            "weight": "normal",
+                                                            "style": "normal",
+                                                            "decoration": "none",
+                                                            "size": 15,
+                                                            "color": "#000000"
+                                                        }
+                                                    },
+                                                    "offset": {
+                                                        "x": -261.550048828125,
+                                                        "y": 119.95001220703125
+                                                    },
+                                                    "foldChildren": false,
+                                                    "branchColor": "#1a2ddf",
+                                                    "children": [
+                                                        {
+                                                            "id": "f278c4fa-f067-4217-a7bf-dfbfa7dd0f96",
+                                                            "parentId": "ff894258-2070-492a-ba39-dfaf5f77e031",
+                                                            "text": {
+                                                                "caption": "Physical network hardware",
+                                                                "font": {
+                                                                    "weight": "normal",
+                                                                    "style": "normal",
+                                                                    "decoration": "none",
+                                                                    "size": 15,
+                                                                    "color": "#000000"
+                                                                }
+                                                            },
+                                                            "offset": {
+                                                                "x": -171.283203125,
+                                                                "y": -15.050048828125
+                                                            },
+                                                            "foldChildren": false,
+                                                            "branchColor": "#1a2ddf",
+                                                            "children": [
+
+                                                            ]
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "id": "6582a7ed-5f7f-4015-bdb4-62fc4612252c",
+                                                    "parentId": "22d55d52-423c-4574-953c-de66a7b794fc",
+                                                    "text": {
+                                                        "caption": "Application layer",
+                                                        "font": {
+                                                            "weight": "normal",
+                                                            "style": "normal",
+                                                            "decoration": "none",
+                                                            "size": 15,
+                                                            "color": "#000000"
+                                                        }
+                                                    },
+                                                    "offset": {
+                                                        "x": -275,
+                                                        "y": -54
+                                                    },
+                                                    "foldChildren": false,
+                                                    "branchColor": "#1a2ddf",
+                                                    "children": [
+                                                        {
+                                                            "id": "55df0ac2-c75f-42c2-b48d-d857db318087",
+                                                            "parentId": "6582a7ed-5f7f-4015-bdb4-62fc4612252c",
+                                                            "text": {
+                                                                "caption": "HTTP",
+                                                                "font": {
+                                                                    "weight": "normal",
+                                                                    "style": "normal",
+                                                                    "decoration": "none",
+                                                                    "size": 15,
+                                                                    "color": "#000000"
+                                                                }
+                                                            },
+                                                            "offset": {
+                                                                "x": -92.433349609375,
+                                                                "y": 1.20001220703125
+                                                            },
+                                                            "foldChildren": false,
+                                                            "branchColor": "#1a2ddf",
+                                                            "children": [
+
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": "0c55ea2e-a041-49f0-a1ff-3d82bcef1815",
+                                            "parentId": "520fee47-4aa4-46f9-80c7-a8b8425c522f",
+                                            "text": {
+                                                "caption": "HTTPS",
+                                                "font": {
+                                                    "style": "normal",
+                                                    "weight": "normal",
+                                                    "decoration": "none",
+                                                    "size": 15,
+                                                    "color": "#000000"
+                                                }
+                                            },
+                                            "offset": {
+                                                "x": 207,
+                                                "y": -52
+                                            },
+                                            "foldChildren": false,
+                                            "branchColor": "#1a2ddf",
+                                            "children": [
+                                                {
+                                                    "id": "01f2f9f3-50cd-4433-a1ef-1b2ef027c027",
+                                                    "parentId": "0c55ea2e-a041-49f0-a1ff-3d82bcef1815",
+                                                    "text": {
+                                                        "caption": "Application layer",
+                                                        "font": {
+                                                            "weight": "normal",
+                                                            "style": "normal",
+                                                            "decoration": "none",
+                                                            "size": 15,
+                                                            "color": "#000000"
+                                                        }
+                                                    },
+                                                    "offset": {
+                                                        "x": 167.9833984375,
+                                                        "y": -57
+                                                    },
+                                                    "foldChildren": false,
+                                                    "branchColor": "#1a2ddf",
+                                                    "children": [
+                                                        {
+                                                            "id": "c0fe8f2a-8be6-4f24-9ee7-64fb169a05eb",
+                                                            "parentId": "01f2f9f3-50cd-4433-a1ef-1b2ef027c027",
+                                                            "text": {
+                                                                "caption": "HTTP",
+                                                                "font": {
+                                                                    "weight": "normal",
+                                                                    "style": "normal",
+                                                                    "decoration": "none",
+                                                                    "size": 15,
+                                                                    "color": "#000000"
+                                                                }
+                                                            },
+                                                            "offset": {
+                                                                "x": 173.55586751302084,
+                                                                "y": 0.19195556640625
+                                                            },
+                                                            "foldChildren": false,
+                                                            "branchColor": "#1a2ddf",
+                                                            "children": [
+
+                                                            ]
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "id": "c064ef93-f781-4151-b497-a1d916b2a49f",
+                                                    "parentId": "0c55ea2e-a041-49f0-a1ff-3d82bcef1815",
+                                                    "text": {
+                                                        "caption": "Transport layer",
+                                                        "font": {
+                                                            "weight": "normal",
+                                                            "style": "normal",
+                                                            "decoration": "none",
+                                                            "size": 15,
+                                                            "color": "#000000"
+                                                        }
+                                                    },
+                                                    "offset": {
+                                                        "x": 170.36358642578125,
+                                                        "y": 16.772705078125
+                                                    },
+                                                    "foldChildren": false,
+                                                    "branchColor": "#1a2ddf",
+                                                    "children": [
+                                                        {
+                                                            "id": "c4944252-bf16-4522-9685-356029b2d378",
+                                                            "parentId": "c064ef93-f781-4151-b497-a1d916b2a49f",
+                                                            "text": {
+                                                                "caption": "TCP",
+                                                                "font": {
+                                                                    "weight": "normal",
+                                                                    "style": "normal",
+                                                                    "decoration": "none",
+                                                                    "size": 15,
+                                                                    "color": "#000000"
+                                                                }
+                                                            },
+                                                            "offset": {
+                                                                "x": 154.95230538504464,
+                                                                "y": -0.7965436662946429
+                                                            },
+                                                            "foldChildren": false,
+                                                            "branchColor": "#1a2ddf",
+                                                            "children": [
+
+                                                            ]
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "id": "8683d5ee-2ffa-4eff-8582-5310e7e435e0",
+                                                    "parentId": "0c55ea2e-a041-49f0-a1ff-3d82bcef1815",
+                                                    "text": {
+                                                        "caption": "Network layer",
+                                                        "font": {
+                                                            "weight": "normal",
+                                                            "style": "normal",
+                                                            "decoration": "none",
+                                                            "size": 15,
+                                                            "color": "#000000"
+                                                        }
+                                                    },
+                                                    "offset": {
+                                                        "x": 160.933349609375,
+                                                        "y": 56.45001220703125
+                                                    },
+                                                    "foldChildren": false,
+                                                    "branchColor": "#1a2ddf",
+                                                    "children": [
+                                                        {
+                                                            "id": "5fdfba6d-80d9-4112-acb9-2d9b45e5fe7c",
+                                                            "parentId": "8683d5ee-2ffa-4eff-8582-5310e7e435e0",
+                                                            "text": {
+                                                                "caption": "IP",
+                                                                "font": {
+                                                                    "weight": "normal",
+                                                                    "style": "normal",
+                                                                    "decoration": "none",
+                                                                    "size": 15,
+                                                                    "color": "#000000"
+                                                                }
+                                                            },
+                                                            "offset": {
+                                                                "x": 139.60175432477678,
+                                                                "y": -0.7705601283482143
+                                                            },
+                                                            "foldChildren": false,
+                                                            "branchColor": "#1a2ddf",
+                                                            "children": [
+
+                                                            ]
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "id": "62131f69-17ec-406c-b919-fa8085e28a3f",
+                                                    "parentId": "0c55ea2e-a041-49f0-a1ff-3d82bcef1815",
+                                                    "text": {
+                                                        "caption": "Data link layer",
+                                                        "font": {
+                                                            "weight": "normal",
+                                                            "style": "normal",
+                                                            "decoration": "none",
+                                                            "size": 15,
+                                                            "color": "#000000"
+                                                        }
+                                                    },
+                                                    "offset": {
+                                                        "x": 166.16456821986608,
+                                                        "y": 100.20776803152901
+                                                    },
+                                                    "foldChildren": false,
+                                                    "branchColor": "#1a2ddf",
+                                                    "children": [
+                                                        {
+                                                            "id": "1aebc71c-26a5-49d1-b562-f296bcdc477a",
+                                                            "parentId": "62131f69-17ec-406c-b919-fa8085e28a3f",
+                                                            "text": {
+                                                                "caption": "Network-specific link interface",
+                                                                "font": {
+                                                                    "weight": "normal",
+                                                                    "style": "normal",
+                                                                    "decoration": "none",
+                                                                    "size": 15,
+                                                                    "color": "#000000"
+                                                                }
+                                                            },
+                                                            "offset": {
+                                                                "x": 118.10377720424107,
+                                                                "y": -16.121241978236608
+                                                            },
+                                                            "foldChildren": false,
+                                                            "branchColor": "#1a2ddf",
+                                                            "children": [
+
+                                                            ]
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "id": "2a9da8f1-6feb-4d59-90da-595e6fe4da7e",
+                                                    "parentId": "0c55ea2e-a041-49f0-a1ff-3d82bcef1815",
+                                                    "text": {
+                                                        "caption": "Physical layer",
+                                                        "font": {
+                                                            "weight": "normal",
+                                                            "style": "normal",
+                                                            "decoration": "none",
+                                                            "size": 15,
+                                                            "color": "#000000"
+                                                        }
+                                                    },
+                                                    "offset": {
+                                                        "x": 166.43287876674108,
+                                                        "y": 147.95667811802454
+                                                    },
+                                                    "foldChildren": false,
+                                                    "branchColor": "#1a2ddf",
+                                                    "children": [
+                                                        {
+                                                            "id": "e9dbce44-1c2b-45f1-8222-14f74d548ab6",
+                                                            "parentId": "2a9da8f1-6feb-4d59-90da-595e6fe4da7e",
+                                                            "text": {
+                                                                "caption": "Physical network hardware",
+                                                                "font": {
+                                                                    "weight": "normal",
+                                                                    "style": "normal",
+                                                                    "decoration": "none",
+                                                                    "size": 15,
+                                                                    "color": "#000000"
+                                                                }
+                                                            },
+                                                            "offset": {
+                                                                "x": 115.73135811941964,
+                                                                "y": -17.056361607142858
+                                                            },
+                                                            "foldChildren": false,
+                                                            "branchColor": "#1a2ddf",
+                                                            "children": [
+
+                                                            ]
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "id": "5469c39a-c705-4ac6-ac24-0af60ab27257",
+                                                    "parentId": "0c55ea2e-a041-49f0-a1ff-3d82bcef1815",
+                                                    "text": {
+                                                        "caption": "Security layer",
+                                                        "font": {
+                                                            "style": "normal",
+                                                            "weight": "normal",
+                                                            "decoration": "none",
+                                                            "size": 15,
+                                                            "color": "#000000"
+                                                        }
+                                                    },
+                                                    "offset": {
+                                                        "x": 180,
+                                                        "y": -19
+                                                    },
+                                                    "foldChildren": false,
+                                                    "branchColor": "#1a2ddf",
+                                                    "children": [
+                                                        {
+                                                            "id": "2639ffbb-bcff-4b0c-99d5-769e51747013",
+                                                            "parentId": "5469c39a-c705-4ac6-ac24-0af60ab27257",
+                                                            "text": {
+                                                                "caption": "TSL or SSL",
+                                                                "font": {
+                                                                    "style": "normal",
+                                                                    "weight": "normal",
+                                                                    "decoration": "none",
+                                                                    "size": 15,
+                                                                    "color": "#000000"
+                                                                }
+                                                            },
+                                                            "offset": {
+                                                                "x": 137,
+                                                                "y": -2
+                                                            },
+                                                            "foldChildren": false,
+                                                            "branchColor": "#1a2ddf",
+                                                            "children": [
+
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": "c75e4071-0926-4037-ad1a-2cd2c004cbe1",
+                                            "parentId": "520fee47-4aa4-46f9-80c7-a8b8425c522f",
+                                            "text": {
+                                                "caption": "IP packets",
+                                                "font": {
+                                                    "style": "normal",
+                                                    "weight": "normal",
+                                                    "decoration": "none",
+                                                    "size": 15,
+                                                    "color": "#000000"
+                                                }
+                                            },
+                                            "offset": {
+                                                "x": -140,
+                                                "y": 37
+                                            },
+                                            "foldChildren": false,
+                                            "branchColor": "#1a2ddf",
+                                            "children": [
+
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "30637d34-531a-4d33-a664-d852d00468f9",
+                                    "parentId": "5726dcc7-f646-4b4c-ba12-94be4923b234",
+                                    "text": {
+                                        "caption": "Programming with TCP Sockets",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": -474,
+                                        "y": -19
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#1a2ddf",
+                                    "children": [
+
+                                    ]
+                                },
+                                {
+                                    "id": "3f79cccc-caa2-426d-a07a-550fc9d9dcda",
+                                    "parentId": "5726dcc7-f646-4b4c-ba12-94be4923b234",
+                                    "text": {
+                                        "caption": "Keeping TCP Connections Straight",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": -467,
+                                        "y": -86
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#1a2ddf",
+                                    "children": [
+
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "7a661e80-1812-4d9b-b75a-e3d9cd81f745",
+                            "parentId": "c9504b61-dba7-4776-b849-11556e0db281",
+                            "text": {
+                                "caption": "TCP Performance Considerations",
+                                "font": {
+                                    "weight": "normal",
+                                    "style": "normal",
+                                    "decoration": "none",
+                                    "size": 15,
+                                    "color": "#000000"
+                                }
+                            },
+                            "offset": {
+                                "x": -700,
+                                "y": 19
+                            },
+                            "foldChildren": false,
+                            "branchColor": "#1a2ddf",
+                            "children": [
+                                {
+                                    "id": "9cfdd0ae-603e-4c56-92e9-96f949246ea0",
+                                    "parentId": "7a661e80-1812-4d9b-b75a-e3d9cd81f745",
+                                    "text": {
+                                        "caption": "HTTP Transaction Delays",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": -236,
+                                        "y": -130
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#1a2ddf",
+                                    "children": [
+
+                                    ]
+                                },
+                                {
+                                    "id": "b966f07b-65ab-4d58-988f-b1e11766c47c",
+                                    "parentId": "7a661e80-1812-4d9b-b75a-e3d9cd81f745",
+                                    "text": {
+                                        "caption": "Performance Focus Areas",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": -245,
+                                        "y": -75
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#1a2ddf",
+                                    "children": [
+                                        {
+                                            "id": "ac710857-1370-4f4a-a474-e6cfb6e03d88",
+                                            "parentId": "b966f07b-65ab-4d58-988f-b1e11766c47c",
+                                            "text": {
+                                                "caption": "TCP Connection Handshake Delays",
+                                                "font": {
+                                                    "style": "normal",
+                                                    "weight": "normal",
+                                                    "decoration": "none",
+                                                    "size": 15,
+                                                    "color": "#000000"
+                                                }
+                                            },
+                                            "offset": {
+                                                "x": -209,
+                                                "y": -64
+                                            },
+                                            "foldChildren": false,
+                                            "branchColor": "#1a2ddf",
+                                            "children": [
+
+                                            ]
+                                        },
+                                        {
+                                            "id": "87ed2559-084d-43f4-9c3f-dd61c78cd6f9",
+                                            "parentId": "b966f07b-65ab-4d58-988f-b1e11766c47c",
+                                            "text": {
+                                                "caption": "Delayed Acknowledgments",
+                                                "font": {
+                                                    "style": "normal",
+                                                    "weight": "normal",
+                                                    "decoration": "none",
+                                                    "size": 15,
+                                                    "color": "#000000"
+                                                }
+                                            },
+                                            "offset": {
+                                                "x": -213,
+                                                "y": -15
+                                            },
+                                            "foldChildren": false,
+                                            "branchColor": "#1a2ddf",
+                                            "children": [
+
+                                            ]
+                                        },
+                                        {
+                                            "id": "10965ec3-e6db-4d8b-ace2-52109a214b1b",
+                                            "parentId": "b966f07b-65ab-4d58-988f-b1e11766c47c",
+                                            "text": {
+                                                "caption": "TCP Slow Start",
+                                                "font": {
+                                                    "style": "normal",
+                                                    "weight": "normal",
+                                                    "decoration": "none",
+                                                    "size": 15,
+                                                    "color": "#000000"
+                                                }
+                                            },
+                                            "offset": {
+                                                "x": -205,
+                                                "y": 38
+                                            },
+                                            "foldChildren": false,
+                                            "branchColor": "#1a2ddf",
+                                            "children": [
+
+                                            ]
+                                        },
+                                        {
+                                            "id": "3a541800-5bac-4218-9d36-54204a09a000",
+                                            "parentId": "b966f07b-65ab-4d58-988f-b1e11766c47c",
+                                            "text": {
+                                                "caption": "Nagle’s Algorithm and TCP_NODELAY",
+                                                "font": {
+                                                    "style": "normal",
+                                                    "weight": "normal",
+                                                    "decoration": "none",
+                                                    "size": 15,
+                                                    "color": "#000000"
+                                                }
+                                            },
+                                            "offset": {
+                                                "x": -219,
+                                                "y": 70
+                                            },
+                                            "foldChildren": false,
+                                            "branchColor": "#1a2ddf",
+                                            "children": [
+
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "84d57a89-61b1-42cb-83d4-69e3b85229fe",
+                                    "parentId": "7a661e80-1812-4d9b-b75a-e3d9cd81f745",
+                                    "text": {
+                                        "caption": "HTTP Connection Handling",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": -441,
+                                        "y": 55
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#1a2ddf",
+                                    "children": [
+                                        {
+                                            "id": "2e03466a-396c-4d42-9877-218cd592fbb9",
+                                            "parentId": "84d57a89-61b1-42cb-83d4-69e3b85229fe",
+                                            "text": {
+                                                "caption": "The Oft-Misunderstood Connection Header",
+                                                "font": {
+                                                    "style": "normal",
+                                                    "weight": "normal",
+                                                    "decoration": "none",
+                                                    "size": 15,
+                                                    "color": "#000000"
+                                                }
+                                            },
+                                            "offset": {
+                                                "x": -217,
+                                                "y": -17
+                                            },
+                                            "foldChildren": false,
+                                            "branchColor": "#1a2ddf",
+                                            "children": [
+
+                                            ]
+                                        },
+                                        {
+                                            "id": "558ac0ef-3989-410b-97c6-dc1dcc5c6dff",
+                                            "parentId": "84d57a89-61b1-42cb-83d4-69e3b85229fe",
+                                            "text": {
+                                                "caption": "Serial Transaction Delays",
+                                                "font": {
+                                                    "style": "normal",
+                                                    "weight": "normal",
+                                                    "decoration": "none",
+                                                    "size": 15,
+                                                    "color": "#000000"
+                                                }
+                                            },
+                                            "offset": {
+                                                "x": -227,
+                                                "y": 40
+                                            },
+                                            "foldChildren": false,
+                                            "branchColor": "#1a2ddf",
+                                            "children": [
+
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "465daaa7-44a9-46ef-994f-7eb9a60d5d99",
+                                    "parentId": "7a661e80-1812-4d9b-b75a-e3d9cd81f745",
+                                    "text": {
+                                        "caption": "Parallel Connections",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": -362,
+                                        "y": 192
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#1a2ddf",
+                                    "children": [
+                                        {
+                                            "id": "8397e7c7-b4f9-47fb-9893-19d601897eeb",
+                                            "parentId": "465daaa7-44a9-46ef-994f-7eb9a60d5d99",
+                                            "text": {
+                                                "caption": "May Make Pages Load Faster",
+                                                "font": {
+                                                    "style": "normal",
+                                                    "weight": "normal",
+                                                    "decoration": "none",
+                                                    "size": 15,
+                                                    "color": "#000000"
+                                                }
+                                            },
+                                            "offset": {
+                                                "x": -189,
+                                                "y": -39
+                                            },
+                                            "foldChildren": false,
+                                            "branchColor": "#1a2ddf",
+                                            "children": [
+
+                                            ]
+                                        },
+                                        {
+                                            "id": "50051dcf-7fd3-48a4-9b89-eff7ee34e1ca",
+                                            "parentId": "465daaa7-44a9-46ef-994f-7eb9a60d5d99",
+                                            "text": {
+                                                "caption": "Are Not Always Faster",
+                                                "font": {
+                                                    "style": "normal",
+                                                    "weight": "normal",
+                                                    "decoration": "none",
+                                                    "size": 15,
+                                                    "color": "#000000"
+                                                }
+                                            },
+                                            "offset": {
+                                                "x": -203,
+                                                "y": 8
+                                            },
+                                            "foldChildren": false,
+                                            "branchColor": "#1a2ddf",
+                                            "children": [
+
+                                            ]
+                                        },
+                                        {
+                                            "id": "06ea14ef-3035-4894-894e-a87aa33a629b",
+                                            "parentId": "465daaa7-44a9-46ef-994f-7eb9a60d5d99",
+                                            "text": {
+                                                "caption": "May “Feel” Faster",
+                                                "font": {
+                                                    "style": "normal",
+                                                    "weight": "normal",
+                                                    "decoration": "none",
+                                                    "size": 15,
+                                                    "color": "#000000"
+                                                }
+                                            },
+                                            "offset": {
+                                                "x": -183,
+                                                "y": 44
+                                            },
+                                            "foldChildren": false,
+                                            "branchColor": "#1a2ddf",
+                                            "children": [
+
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "57e4a6e6-abf7-421c-8c86-47db18811509",
+                                    "parentId": "7a661e80-1812-4d9b-b75a-e3d9cd81f745",
+                                    "text": {
+                                        "caption": "Persistent  Connections",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": -234,
+                                        "y": 435
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#1a2ddf",
+                                    "children": [
+                                        {
+                                            "id": "f507cf12-0118-47ed-952e-5f7da5ae436e",
+                                            "parentId": "57e4a6e6-abf7-421c-8c86-47db18811509",
+                                            "text": {
+                                                "caption": "Persistent Versus Parallel Connections",
+                                                "font": {
+                                                    "style": "normal",
+                                                    "weight": "normal",
+                                                    "decoration": "none",
+                                                    "size": 15,
+                                                    "color": "#000000"
+                                                }
+                                            },
+                                            "offset": {
+                                                "x": -196,
+                                                "y": -157
+                                            },
+                                            "foldChildren": false,
+                                            "branchColor": "#1a2ddf",
+                                            "children": [
+                                                {
+                                                    "id": "d7a2c922-d3ed-40d0-89f5-a6beeee12c64",
+                                                    "parentId": "f507cf12-0118-47ed-952e-5f7da5ae436e",
+                                                    "text": {
+                                                        "caption": "disadvantages",
+                                                        "font": {
+                                                            "style": "normal",
+                                                            "weight": "normal",
+                                                            "decoration": "none",
+                                                            "size": 15,
+                                                            "color": "#000000"
+                                                        }
+                                                    },
+                                                    "offset": {
+                                                        "x": -113,
+                                                        "y": 17
+                                                    },
+                                                    "foldChildren": false,
+                                                    "branchColor": "#1a2ddf",
+                                                    "children": [
+                                                        {
+                                                            "id": "64222664-958d-4d65-9bd9-7e625c519d3b",
+                                                            "parentId": "d7a2c922-d3ed-40d0-89f5-a6beeee12c64",
+                                                            "text": {
+                                                                "caption": "costing time and bandwidth",
+                                                                "font": {
+                                                                    "style": "normal",
+                                                                    "weight": "normal",
+                                                                    "decoration": "none",
+                                                                    "size": 15,
+                                                                    "color": "#000000"
+                                                                }
+                                                            },
+                                                            "offset": {
+                                                                "x": -195,
+                                                                "y": -55
+                                                            },
+                                                            "foldChildren": false,
+                                                            "branchColor": "#1a2ddf",
+                                                            "children": [
+
+                                                            ]
+                                                        },
+                                                        {
+                                                            "id": "eb39c892-29b5-4b8c-be90-ae0779ebebe3",
+                                                            "parentId": "d7a2c922-d3ed-40d0-89f5-a6beeee12c64",
+                                                            "text": {
+                                                                "caption": "reduced performance",
+                                                                "font": {
+                                                                    "style": "normal",
+                                                                    "weight": "normal",
+                                                                    "decoration": "none",
+                                                                    "size": 15,
+                                                                    "color": "#000000"
+                                                                }
+                                                            },
+                                                            "offset": {
+                                                                "x": -184,
+                                                                "y": 3
+                                                            },
+                                                            "foldChildren": false,
+                                                            "branchColor": "#1a2ddf",
+                                                            "children": [
+
+                                                            ]
+                                                        },
+                                                        {
+                                                            "id": "2a519026-40a6-4924-b82c-6b1b1358d33c",
+                                                            "parentId": "d7a2c922-d3ed-40d0-89f5-a6beeee12c64",
+                                                            "text": {
+                                                                "caption": "practical limit",
+                                                                "font": {
+                                                                    "style": "normal",
+                                                                    "weight": "normal",
+                                                                    "decoration": "none",
+                                                                    "size": 15,
+                                                                    "color": "#000000"
+                                                                }
+                                                            },
+                                                            "offset": {
+                                                                "x": -159,
+                                                                "y": 49
+                                                            },
+                                                            "foldChildren": false,
+                                                            "branchColor": "#1a2ddf",
+                                                            "children": [
+
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": "d9b55197-30bb-4edd-a319-97775c2938f0",
+                                            "parentId": "57e4a6e6-abf7-421c-8c86-47db18811509",
+                                            "text": {
+                                                "caption": "HTTP/1.0+ Keep-Alive Connections",
+                                                "font": {
+                                                    "style": "normal",
+                                                    "weight": "normal",
+                                                    "decoration": "none",
+                                                    "size": 15,
+                                                    "color": "#000000"
+                                                }
+                                            },
+                                            "offset": {
+                                                "x": -199,
+                                                "y": -106
+                                            },
+                                            "foldChildren": false,
+                                            "branchColor": "#1a2ddf",
+                                            "children": [
+
+                                            ]
+                                        },
+                                        {
+                                            "id": "8e4880b5-717e-4b5c-9138-d56306fcb315",
+                                            "parentId": "57e4a6e6-abf7-421c-8c86-47db18811509",
+                                            "text": {
+                                                "caption": "Keep-Alive Operation",
+                                                "font": {
+                                                    "style": "normal",
+                                                    "weight": "normal",
+                                                    "decoration": "none",
+                                                    "size": 15,
+                                                    "color": "#000000"
+                                                }
+                                            },
+                                            "offset": {
+                                                "x": -198,
+                                                "y": -51
+                                            },
+                                            "foldChildren": false,
+                                            "branchColor": "#1a2ddf",
+                                            "children": [
+
+                                            ]
+                                        },
+                                        {
+                                            "id": "a0ba2283-b15e-4809-b274-0c290ccfdc5c",
+                                            "parentId": "57e4a6e6-abf7-421c-8c86-47db18811509",
+                                            "text": {
+                                                "caption": "Keep-Alive Options",
+                                                "font": {
+                                                    "style": "normal",
+                                                    "weight": "normal",
+                                                    "decoration": "none",
+                                                    "size": 15,
+                                                    "color": "#000000"
+                                                }
+                                            },
+                                            "offset": {
+                                                "x": -196,
+                                                "y": -13
+                                            },
+                                            "foldChildren": false,
+                                            "branchColor": "#1a2ddf",
+                                            "children": [
+
+                                            ]
+                                        },
+                                        {
+                                            "id": "870664f3-543e-4ea0-9773-ea8f801baf28",
+                                            "parentId": "57e4a6e6-abf7-421c-8c86-47db18811509",
+                                            "text": {
+                                                "caption": "Keep-Alive Connection Restrictions and Rules",
+                                                "font": {
+                                                    "style": "normal",
+                                                    "weight": "normal",
+                                                    "decoration": "none",
+                                                    "size": 15,
+                                                    "color": "#000000"
+                                                }
+                                            },
+                                            "offset": {
+                                                "x": -200,
+                                                "y": 35
+                                            },
+                                            "foldChildren": false,
+                                            "branchColor": "#1a2ddf",
+                                            "children": [
+
+                                            ]
+                                        },
+                                        {
+                                            "id": "32fe9546-a118-4789-b9e0-719133a6fa57",
+                                            "parentId": "57e4a6e6-abf7-421c-8c86-47db18811509",
+                                            "text": {
+                                                "caption": "Keep-Alive and Dumb Proxies",
+                                                "font": {
+                                                    "style": "normal",
+                                                    "weight": "normal",
+                                                    "decoration": "none",
+                                                    "size": 15,
+                                                    "color": "#000000"
+                                                }
+                                            },
+                                            "offset": {
+                                                "x": -204,
+                                                "y": 94
+                                            },
+                                            "foldChildren": false,
+                                            "branchColor": "#1a2ddf",
+                                            "children": [
+                                                {
+                                                    "id": "8d6119a9-0dfe-4637-92f2-8990f4b4fb6c",
+                                                    "parentId": "32fe9546-a118-4789-b9e0-719133a6fa57",
+                                                    "text": {
+                                                        "caption": "The Connection header and blind relays",
+                                                        "font": {
+                                                            "style": "normal",
+                                                            "weight": "normal",
+                                                            "decoration": "none",
+                                                            "size": 15,
+                                                            "color": "#000000"
+                                                        }
+                                                    },
+                                                    "offset": {
+                                                        "x": -224,
+                                                        "y": -30
+                                                    },
+                                                    "foldChildren": false,
+                                                    "branchColor": "#1a2ddf",
+                                                    "children": [
+
+                                                    ]
+                                                },
+                                                {
+                                                    "id": "95cf8257-305f-4967-8f64-eb4d3f4930db",
+                                                    "parentId": "32fe9546-a118-4789-b9e0-719133a6fa57",
+                                                    "text": {
+                                                        "caption": "Proxies and hop-by-hop headers",
+                                                        "font": {
+                                                            "style": "normal",
+                                                            "weight": "normal",
+                                                            "decoration": "none",
+                                                            "size": 15,
+                                                            "color": "#000000"
+                                                        }
+                                                    },
+                                                    "offset": {
+                                                        "x": -232,
+                                                        "y": 39
+                                                    },
+                                                    "foldChildren": false,
+                                                    "branchColor": "#1a2ddf",
+                                                    "children": [
+
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": "cb0dd063-2dd7-4285-b652-8a055ca6f0d5",
+                                            "parentId": "57e4a6e6-abf7-421c-8c86-47db18811509",
+                                            "text": {
+                                                "caption": "Proxy-Connection Hack",
+                                                "font": {
+                                                    "style": "normal",
+                                                    "weight": "normal",
+                                                    "decoration": "none",
+                                                    "size": 15,
+                                                    "color": "#000000"
+                                                }
+                                            },
+                                            "offset": {
+                                                "x": -197,
+                                                "y": 149
+                                            },
+                                            "foldChildren": false,
+                                            "branchColor": "#1a2ddf",
+                                            "children": [
+
+                                            ]
+                                        },
+                                        {
+                                            "id": "82ad7f47-ea20-4013-9164-7640728a20aa",
+                                            "parentId": "57e4a6e6-abf7-421c-8c86-47db18811509",
+                                            "text": {
+                                                "caption": "HTTP/1.1 Persistent Connections",
+                                                "font": {
+                                                    "style": "normal",
+                                                    "weight": "normal",
+                                                    "decoration": "none",
+                                                    "size": 15,
+                                                    "color": "#000000"
+                                                }
+                                            },
+                                            "offset": {
+                                                "x": -205,
+                                                "y": 204
+                                            },
+                                            "foldChildren": false,
+                                            "branchColor": "#1a2ddf",
+                                            "children": [
+
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "f7e5927a-297b-40bb-b2b2-f60e8c9ace8e",
+                                    "parentId": "7a661e80-1812-4d9b-b75a-e3d9cd81f745",
+                                    "text": {
+                                        "caption": "Pipelined Connections",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": -228,
+                                        "y": 619
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#1a2ddf",
+                                    "children": [
+
+                                    ]
+                                },
+                                {
+                                    "id": "c61fb341-2887-4711-b44f-b34f74df286d",
+                                    "parentId": "7a661e80-1812-4d9b-b75a-e3d9cd81f745",
+                                    "text": {
+                                        "caption": "The Mysteries of Connection Close",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": -228,
+                                        "y": 825
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#1a2ddf",
+                                    "children": [
+                                        {
+                                            "id": "5e498043-eca1-42d7-b98e-d2e4e238d9f4",
+                                            "parentId": "c61fb341-2887-4711-b44f-b34f74df286d",
+                                            "text": {
+                                                "caption": "“At Will” Disconnection",
+                                                "font": {
+                                                    "style": "normal",
+                                                    "weight": "normal",
+                                                    "decoration": "none",
+                                                    "size": 15,
+                                                    "color": "#000000"
+                                                }
+                                            },
+                                            "offset": {
+                                                "x": -200,
+                                                "y": -123
+                                            },
+                                            "foldChildren": false,
+                                            "branchColor": "#1a2ddf",
+                                            "children": [
+
+                                            ]
+                                        },
+                                        {
+                                            "id": "51216b7b-d04c-4ce6-9f40-3cd6cb270f3b",
+                                            "parentId": "c61fb341-2887-4711-b44f-b34f74df286d",
+                                            "text": {
+                                                "caption": "Content-Length and Truncation",
+                                                "font": {
+                                                    "style": "normal",
+                                                    "weight": "normal",
+                                                    "decoration": "none",
+                                                    "size": 15,
+                                                    "color": "#000000"
+                                                }
+                                            },
+                                            "offset": {
+                                                "x": -197,
+                                                "y": -84
+                                            },
+                                            "foldChildren": false,
+                                            "branchColor": "#1a2ddf",
+                                            "children": [
+
+                                            ]
+                                        },
+                                        {
+                                            "id": "527f7f45-9678-447c-ac28-3fe56e480e49",
+                                            "parentId": "c61fb341-2887-4711-b44f-b34f74df286d",
+                                            "text": {
+                                                "caption": "Connection Close Tolerance, Retries, and Idempotency",
+                                                "font": {
+                                                    "style": "normal",
+                                                    "weight": "normal",
+                                                    "decoration": "none",
+                                                    "size": 15,
+                                                    "color": "#000000"
+                                                }
+                                            },
+                                            "offset": {
+                                                "x": -196,
+                                                "y": -31
+                                            },
+                                            "foldChildren": false,
+                                            "branchColor": "#1a2ddf",
+                                            "children": [
+
+                                            ]
+                                        },
+                                        {
+                                            "id": "82e95283-5628-4e81-915b-b6cfd88344f8",
+                                            "parentId": "c61fb341-2887-4711-b44f-b34f74df286d",
+                                            "text": {
+                                                "caption": "Graceful Connection Close",
+                                                "font": {
+                                                    "style": "normal",
+                                                    "weight": "normal",
+                                                    "decoration": "none",
+                                                    "size": 15,
+                                                    "color": "#000000"
+                                                }
+                                            },
+                                            "offset": {
+                                                "x": -192,
+                                                "y": 44
+                                            },
+                                            "foldChildren": false,
+                                            "branchColor": "#1a2ddf",
+                                            "children": [
+                                                {
+                                                    "id": "c611ea49-1db7-4aa2-9a84-65ae735586e4",
+                                                    "parentId": "82e95283-5628-4e81-915b-b6cfd88344f8",
+                                                    "text": {
+                                                        "caption": "Full and half closes",
+                                                        "font": {
+                                                            "style": "normal",
+                                                            "weight": "normal",
+                                                            "decoration": "none",
+                                                            "size": 15,
+                                                            "color": "#000000"
+                                                        }
+                                                    },
+                                                    "offset": {
+                                                        "x": -191,
+                                                        "y": -33
+                                                    },
+                                                    "foldChildren": false,
+                                                    "branchColor": "#1a2ddf",
+                                                    "children": [
+
+                                                    ]
+                                                },
+                                                {
+                                                    "id": "da17cc41-7aad-4afe-a092-5938a819d337",
+                                                    "parentId": "82e95283-5628-4e81-915b-b6cfd88344f8",
+                                                    "text": {
+                                                        "caption": "TCP close and reset errors",
+                                                        "font": {
+                                                            "style": "normal",
+                                                            "weight": "normal",
+                                                            "decoration": "none",
+                                                            "size": 15,
+                                                            "color": "#000000"
+                                                        }
+                                                    },
+                                                    "offset": {
+                                                        "x": -202,
+                                                        "y": 9
+                                                    },
+                                                    "foldChildren": false,
+                                                    "branchColor": "#1a2ddf",
+                                                    "children": [
+
+                                                    ]
+                                                },
+                                                {
+                                                    "id": "90eaec70-9490-4b91-8cf2-0e7cb2383cf1",
+                                                    "parentId": "82e95283-5628-4e81-915b-b6cfd88344f8",
+                                                    "text": {
+                                                        "caption": "Graceful close",
+                                                        "font": {
+                                                            "style": "normal",
+                                                            "weight": "normal",
+                                                            "decoration": "none",
+                                                            "size": 15,
+                                                            "color": "#000000"
+                                                        }
+                                                    },
+                                                    "offset": {
+                                                        "x": -158,
+                                                        "y": 62
+                                                    },
+                                                    "foldChildren": false,
+                                                    "branchColor": "#1a2ddf",
+                                                    "children": [
+
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
                 }
             ]
         }
     },
     "dates": {
         "created": 1357797154184,
-        "modified": 1357813849664
+        "modified": 1357873753368
     },
     "dimensions": {
         "x": 4000,
         "y": 2000
-    }
+    },
+    "autosave": false
 }
