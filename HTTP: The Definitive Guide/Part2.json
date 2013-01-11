@@ -1,0 +1,3295 @@
+{
+    "id": "78b711b6-5080-4b6e-b2a2-3cf08d77a9d8",
+    "title": "HTTP Architecture",
+    "mindmap": {
+        "root": {
+            "id": "f0674063-41aa-4f42-93f8-8d9ddcb191ca",
+            "parentId": null,
+            "text": {
+                "caption": "HTTP Architecture",
+                "font": {
+                    "style": "normal",
+                    "weight": "bold",
+                    "decoration": "none",
+                    "size": 20,
+                    "color": "#000000"
+                }
+            },
+            "offset": {
+                "x": 0,
+                "y": 0
+            },
+            "foldChildren": false,
+            "branchColor": "#000000",
+            "children": [
+                {
+                    "id": "0ec46675-7ca5-43ff-821e-c852c7cfc191",
+                    "parentId": "f0674063-41aa-4f42-93f8-8d9ddcb191ca",
+                    "text": {
+                        "caption": "Web Servers",
+                        "font": {
+                            "style": "normal",
+                            "weight": "normal",
+                            "decoration": "none",
+                            "size": 15,
+                            "color": "#000000"
+                        }
+                    },
+                    "offset": {
+                        "x": 75.800048828125,
+                        "y": -746.2000122070312
+                    },
+                    "foldChildren": false,
+                    "branchColor": "#d12dc1",
+                    "children": [
+                        {
+                            "id": "059c62ff-3634-486e-9c74-e65f4a90b1c9",
+                            "parentId": "0ec46675-7ca5-43ff-821e-c852c7cfc191",
+                            "text": {
+                                "caption": "Web Servers Come in All Shapes and Sizes",
+                                "font": {
+                                    "style": "normal",
+                                    "weight": "normal",
+                                    "decoration": "none",
+                                    "size": 15,
+                                    "color": "#000000"
+                                }
+                            },
+                            "offset": {
+                                "x": 154,
+                                "y": -120.2
+                            },
+                            "foldChildren": false,
+                            "branchColor": "#d12dc1",
+                            "children": [
+                                {
+                                    "id": "8bf54f99-3b2a-492f-84d8-0471575cf584",
+                                    "parentId": "059c62ff-3634-486e-9c74-e65f4a90b1c9",
+                                    "text": {
+                                        "caption": "General-Purpose Software",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": 178,
+                                        "y": -27
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#d12dc1",
+                                    "children": [
+
+                                    ]
+                                },
+                                {
+                                    "id": "08769047-06ff-49b6-97ce-e1571ed88a5a",
+                                    "parentId": "059c62ff-3634-486e-9c74-e65f4a90b1c9",
+                                    "text": {
+                                        "caption": "Implementations",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": 197,
+                                        "y": -70
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#d12dc1",
+                                    "children": [
+
+                                    ]
+                                },
+                                {
+                                    "id": "7bb6ff1c-a81f-4334-8779-e6f80d6d8d02",
+                                    "parentId": "059c62ff-3634-486e-9c74-e65f4a90b1c9",
+                                    "text": {
+                                        "caption": "Appliances",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": 218,
+                                        "y": 27
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#d12dc1",
+                                    "children": [
+
+                                    ]
+                                },
+                                {
+                                    "id": "ce323e8a-bde5-4557-9b20-364385e983b2",
+                                    "parentId": "059c62ff-3634-486e-9c74-e65f4a90b1c9",
+                                    "text": {
+                                        "caption": "Embedded",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": 217,
+                                        "y": 67
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#d12dc1",
+                                    "children": [
+
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "3470c0fb-ff71-4c21-a045-9688253d6b8d",
+                            "parentId": "0ec46675-7ca5-43ff-821e-c852c7cfc191",
+                            "text": {
+                                "caption": "What Real Web Servers Do",
+                                "font": {
+                                    "style": "normal",
+                                    "weight": "normal",
+                                    "decoration": "none",
+                                    "size": 15,
+                                    "color": "#000000"
+                                }
+                            },
+                            "offset": {
+                                "x": 310,
+                                "y": 88.2
+                            },
+                            "foldChildren": false,
+                            "branchColor": "#d12dc1",
+                            "children": [
+                                {
+                                    "id": "83758f23-78d8-44f3-b943-36d881356d32",
+                                    "parentId": "3470c0fb-ff71-4c21-a045-9688253d6b8d",
+                                    "text": {
+                                        "caption": "Step 1: Accepting Client Connections",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": 220,
+                                        "y": -298
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#d12dc1",
+                                    "children": [
+                                        {
+                                            "id": "cd01508a-af4f-41f4-a148-c2918e878c0e",
+                                            "parentId": "83758f23-78d8-44f3-b943-36d881356d32",
+                                            "text": {
+                                                "caption": "Handling New Connections",
+                                                "font": {
+                                                    "style": "normal",
+                                                    "weight": "normal",
+                                                    "decoration": "none",
+                                                    "size": 15,
+                                                    "color": "#000000"
+                                                }
+                                            },
+                                            "offset": {
+                                                "x": 225,
+                                                "y": -45
+                                            },
+                                            "foldChildren": false,
+                                            "branchColor": "#d12dc1",
+                                            "children": [
+
+                                            ]
+                                        },
+                                        {
+                                            "id": "834a3402-795d-4f56-b9d0-e9486bb5647c",
+                                            "parentId": "83758f23-78d8-44f3-b943-36d881356d32",
+                                            "text": {
+                                                "caption": "Client Hostname Identification",
+                                                "font": {
+                                                    "style": "normal",
+                                                    "weight": "normal",
+                                                    "decoration": "none",
+                                                    "size": 15,
+                                                    "color": "#000000"
+                                                }
+                                            },
+                                            "offset": {
+                                                "x": 231,
+                                                "y": 8
+                                            },
+                                            "foldChildren": false,
+                                            "branchColor": "#d12dc1",
+                                            "children": [
+
+                                            ]
+                                        },
+                                        {
+                                            "id": "171c986f-a426-4d6f-aaf7-d34f11c1cce3",
+                                            "parentId": "83758f23-78d8-44f3-b943-36d881356d32",
+                                            "text": {
+                                                "caption": "Determining the Client User Through ident",
+                                                "font": {
+                                                    "style": "normal",
+                                                    "weight": "normal",
+                                                    "decoration": "none",
+                                                    "size": 15,
+                                                    "color": "#000000"
+                                                }
+                                            },
+                                            "offset": {
+                                                "x": 239,
+                                                "y": 61
+                                            },
+                                            "foldChildren": false,
+                                            "branchColor": "#d12dc1",
+                                            "children": [
+
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "0bd0aba0-ef61-48d9-a346-7e13ee4b9b58",
+                                    "parentId": "3470c0fb-ff71-4c21-a045-9688253d6b8d",
+                                    "text": {
+                                        "caption": "Step 2: Receiving Request Messages",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": 230,
+                                        "y": -115
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#d12dc1",
+                                    "children": [
+                                        {
+                                            "id": "d5b3b654-3ae4-47ce-937d-f08e2b9c4dcc",
+                                            "parentId": "0bd0aba0-ef61-48d9-a346-7e13ee4b9b58",
+                                            "text": {
+                                                "caption": "Connection Input/Output Processing Architectures",
+                                                "font": {
+                                                    "style": "normal",
+                                                    "weight": "normal",
+                                                    "decoration": "none",
+                                                    "size": 15,
+                                                    "color": "#000000"
+                                                }
+                                            },
+                                            "offset": {
+                                                "x": 246,
+                                                "y": 2
+                                            },
+                                            "foldChildren": false,
+                                            "branchColor": "#d12dc1",
+                                            "children": [
+
+                                            ]
+                                        },
+                                        {
+                                            "id": "201ef564-1be2-4b98-8396-1f57be54679c",
+                                            "parentId": "0bd0aba0-ef61-48d9-a346-7e13ee4b9b58",
+                                            "text": {
+                                                "caption": "Internal Representations of Messages",
+                                                "font": {
+                                                    "style": "normal",
+                                                    "weight": "normal",
+                                                    "decoration": "none",
+                                                    "size": 15,
+                                                    "color": "#000000"
+                                                }
+                                            },
+                                            "offset": {
+                                                "x": 239,
+                                                "y": -69
+                                            },
+                                            "foldChildren": false,
+                                            "branchColor": "#d12dc1",
+                                            "children": [
+
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "8e725705-1c93-4b37-b34b-e26a0c8d57c3",
+                                    "parentId": "3470c0fb-ff71-4c21-a045-9688253d6b8d",
+                                    "text": {
+                                        "caption": "Step 3: Processing Requests",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": 228,
+                                        "y": -44
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#d12dc1",
+                                    "children": [
+
+                                    ]
+                                },
+                                {
+                                    "id": "d0f1c631-2cd0-4a48-9835-eb5ae8b12aeb",
+                                    "parentId": "3470c0fb-ff71-4c21-a045-9688253d6b8d",
+                                    "text": {
+                                        "caption": "Step 4: Mapping and Accessing Resources",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": 233,
+                                        "y": 39
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#d12dc1",
+                                    "children": [
+                                        {
+                                            "id": "5976fb1f-7ae4-44a9-8118-958b2bf0bb0e",
+                                            "parentId": "d0f1c631-2cd0-4a48-9835-eb5ae8b12aeb",
+                                            "text": {
+                                                "caption": "Docroots",
+                                                "font": {
+                                                    "style": "normal",
+                                                    "weight": "normal",
+                                                    "decoration": "none",
+                                                    "size": 15,
+                                                    "color": "#000000"
+                                                }
+                                            },
+                                            "offset": {
+                                                "x": 239,
+                                                "y": -60
+                                            },
+                                            "foldChildren": false,
+                                            "branchColor": "#d12dc1",
+                                            "children": [
+                                                {
+                                                    "id": "a8e66099-f782-4bb7-8574-44a6f670d451",
+                                                    "parentId": "5976fb1f-7ae4-44a9-8118-958b2bf0bb0e",
+                                                    "text": {
+                                                        "caption": "Virtually hosted docroots",
+                                                        "font": {
+                                                            "weight": "normal",
+                                                            "style": "normal",
+                                                            "decoration": "none",
+                                                            "size": 15,
+                                                            "color": "#000000"
+                                                        }
+                                                    },
+                                                    "offset": {
+                                                        "x": 141,
+                                                        "y": -18
+                                                    },
+                                                    "foldChildren": false,
+                                                    "branchColor": "#d12dc1",
+                                                    "children": [
+
+                                                    ]
+                                                },
+                                                {
+                                                    "id": "5e493bae-173f-4ccd-9962-a11fd86819a4",
+                                                    "parentId": "5976fb1f-7ae4-44a9-8118-958b2bf0bb0e",
+                                                    "text": {
+                                                        "caption": "User home directory docroots",
+                                                        "font": {
+                                                            "weight": "normal",
+                                                            "style": "normal",
+                                                            "decoration": "none",
+                                                            "size": 15,
+                                                            "color": "#000000"
+                                                        }
+                                                    },
+                                                    "offset": {
+                                                        "x": 151,
+                                                        "y": 54
+                                                    },
+                                                    "foldChildren": false,
+                                                    "branchColor": "#d12dc1",
+                                                    "children": [
+
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": "baae27ce-a85b-452f-8984-dedb3e32fe56",
+                                            "parentId": "d0f1c631-2cd0-4a48-9835-eb5ae8b12aeb",
+                                            "text": {
+                                                "caption": "Directory Listings",
+                                                "font": {
+                                                    "style": "normal",
+                                                    "weight": "normal",
+                                                    "decoration": "none",
+                                                    "size": 15,
+                                                    "color": "#000000"
+                                                }
+                                            },
+                                            "offset": {
+                                                "x": 221,
+                                                "y": -17
+                                            },
+                                            "foldChildren": false,
+                                            "branchColor": "#d12dc1",
+                                            "children": [
+
+                                            ]
+                                        },
+                                        {
+                                            "id": "7266ed9d-2dae-403f-8118-be486e5f9631",
+                                            "parentId": "d0f1c631-2cd0-4a48-9835-eb5ae8b12aeb",
+                                            "text": {
+                                                "caption": "Dynamic Content Resource Mapping",
+                                                "font": {
+                                                    "style": "normal",
+                                                    "weight": "normal",
+                                                    "decoration": "none",
+                                                    "size": 15,
+                                                    "color": "#000000"
+                                                }
+                                            },
+                                            "offset": {
+                                                "x": 205,
+                                                "y": 18
+                                            },
+                                            "foldChildren": false,
+                                            "branchColor": "#d12dc1",
+                                            "children": [
+
+                                            ]
+                                        },
+                                        {
+                                            "id": "f57c65a1-57ab-4a1b-89c0-d27d67d40cdf",
+                                            "parentId": "d0f1c631-2cd0-4a48-9835-eb5ae8b12aeb",
+                                            "text": {
+                                                "caption": "Server-Side Includes (SSI)",
+                                                "font": {
+                                                    "style": "normal",
+                                                    "weight": "normal",
+                                                    "decoration": "none",
+                                                    "size": 15,
+                                                    "color": "#000000"
+                                                }
+                                            },
+                                            "offset": {
+                                                "x": 207,
+                                                "y": 71
+                                            },
+                                            "foldChildren": false,
+                                            "branchColor": "#d12dc1",
+                                            "children": [
+
+                                            ]
+                                        },
+                                        {
+                                            "id": "fe85d4ef-ca76-4091-9081-39c2b2b7fa40",
+                                            "parentId": "d0f1c631-2cd0-4a48-9835-eb5ae8b12aeb",
+                                            "text": {
+                                                "caption": "Access Controls",
+                                                "font": {
+                                                    "style": "normal",
+                                                    "weight": "normal",
+                                                    "decoration": "none",
+                                                    "size": 15,
+                                                    "color": "#000000"
+                                                }
+                                            },
+                                            "offset": {
+                                                "x": 225,
+                                                "y": 126
+                                            },
+                                            "foldChildren": false,
+                                            "branchColor": "#d12dc1",
+                                            "children": [
+
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "2f14f6c5-8d3a-41dc-98ef-05415bbc07e2",
+                                    "parentId": "3470c0fb-ff71-4c21-a045-9688253d6b8d",
+                                    "text": {
+                                        "caption": "Step 5: Building Responses",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": 245,
+                                        "y": 192
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#d12dc1",
+                                    "children": [
+                                        {
+                                            "id": "37d02072-c635-438b-922a-bcbd641f5870",
+                                            "parentId": "2f14f6c5-8d3a-41dc-98ef-05415bbc07e2",
+                                            "text": {
+                                                "caption": "Response Entities",
+                                                "font": {
+                                                    "style": "normal",
+                                                    "weight": "normal",
+                                                    "decoration": "none",
+                                                    "size": 15,
+                                                    "color": "#000000"
+                                                }
+                                            },
+                                            "offset": {
+                                                "x": 263,
+                                                "y": 9
+                                            },
+                                            "foldChildren": false,
+                                            "branchColor": "#d12dc1",
+                                            "children": [
+
+                                            ]
+                                        },
+                                        {
+                                            "id": "92f8a0b4-59fa-467d-9a60-14f7638788ea",
+                                            "parentId": "2f14f6c5-8d3a-41dc-98ef-05415bbc07e2",
+                                            "text": {
+                                                "caption": "MIME Typing",
+                                                "font": {
+                                                    "style": "normal",
+                                                    "weight": "normal",
+                                                    "decoration": "none",
+                                                    "size": 15,
+                                                    "color": "#000000"
+                                                }
+                                            },
+                                            "offset": {
+                                                "x": 265,
+                                                "y": 51
+                                            },
+                                            "foldChildren": false,
+                                            "branchColor": "#d12dc1",
+                                            "children": [
+
+                                            ]
+                                        },
+                                        {
+                                            "id": "6a4a0edf-9af3-46fc-9a2b-dcc243fe411f",
+                                            "parentId": "2f14f6c5-8d3a-41dc-98ef-05415bbc07e2",
+                                            "text": {
+                                                "caption": "Redirection",
+                                                "font": {
+                                                    "style": "normal",
+                                                    "weight": "normal",
+                                                    "decoration": "none",
+                                                    "size": 15,
+                                                    "color": "#000000"
+                                                }
+                                            },
+                                            "offset": {
+                                                "x": 264,
+                                                "y": 101
+                                            },
+                                            "foldChildren": false,
+                                            "branchColor": "#d12dc1",
+                                            "children": [
+
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "b29cb8a6-3757-4884-9f55-9cf5d0095192",
+                                    "parentId": "3470c0fb-ff71-4c21-a045-9688253d6b8d",
+                                    "text": {
+                                        "caption": "Step 6: Sending Responses",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": 242,
+                                        "y": 259
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#d12dc1",
+                                    "children": [
+
+                                    ]
+                                },
+                                {
+                                    "id": "d2f9ddbd-1bf1-4637-9f57-db6988817298",
+                                    "parentId": "3470c0fb-ff71-4c21-a045-9688253d6b8d",
+                                    "text": {
+                                        "caption": "Step 7: Logging",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": 263,
+                                        "y": 324
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#d12dc1",
+                                    "children": [
+
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "68708b67-1c95-4247-aa0d-19bd1300f696",
+                    "parentId": "f0674063-41aa-4f42-93f8-8d9ddcb191ca",
+                    "text": {
+                        "caption": "Proxies",
+                        "font": {
+                            "style": "normal",
+                            "weight": "normal",
+                            "decoration": "none",
+                            "size": 15,
+                            "color": "#000000"
+                        }
+                    },
+                    "offset": {
+                        "x": 1033.63330078125,
+                        "y": -326
+                    },
+                    "foldChildren": false,
+                    "branchColor": "#0af1f0",
+                    "children": [
+                        {
+                            "id": "29a0e22d-305d-4888-be93-2f2fbae9b71b",
+                            "parentId": "68708b67-1c95-4247-aa0d-19bd1300f696",
+                            "text": {
+                                "caption": "Web Intermediaries",
+                                "font": {
+                                    "style": "normal",
+                                    "weight": "normal",
+                                    "decoration": "none",
+                                    "size": 15,
+                                    "color": "#000000"
+                                }
+                            },
+                            "offset": {
+                                "x": 203.66666666666666,
+                                "y": -571
+                            },
+                            "foldChildren": false,
+                            "branchColor": "#0af1f0",
+                            "children": [
+                                {
+                                    "id": "005eb15e-52f0-49f0-adab-55bb4234e129",
+                                    "parentId": "29a0e22d-305d-4888-be93-2f2fbae9b71b",
+                                    "text": {
+                                        "caption": "Private and Shared Proxies",
+                                        "font": {
+                                            "weight": "normal",
+                                            "style": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": 167,
+                                        "y": -55
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#0af1f0",
+                                    "children": [
+                                        {
+                                            "id": "75de85bc-79ca-401f-9acb-c3325bb1f621",
+                                            "parentId": "005eb15e-52f0-49f0-adab-55bb4234e129",
+                                            "text": {
+                                                "caption": "Public proxies",
+                                                "font": {
+                                                    "weight": "normal",
+                                                    "style": "normal",
+                                                    "decoration": "none",
+                                                    "size": 15,
+                                                    "color": "#000000"
+                                                }
+                                            },
+                                            "offset": {
+                                                "x": 222,
+                                                "y": -21
+                                            },
+                                            "foldChildren": false,
+                                            "branchColor": "#0af1f0",
+                                            "children": [
+
+                                            ]
+                                        },
+                                        {
+                                            "id": "2776f5f8-e891-4a2a-9d65-fa55a6f214d1",
+                                            "parentId": "005eb15e-52f0-49f0-adab-55bb4234e129",
+                                            "text": {
+                                                "caption": "Private proxies",
+                                                "font": {
+                                                    "weight": "normal",
+                                                    "style": "normal",
+                                                    "decoration": "none",
+                                                    "size": 15,
+                                                    "color": "#000000"
+                                                }
+                                            },
+                                            "offset": {
+                                                "x": 222,
+                                                "y": 23
+                                            },
+                                            "foldChildren": false,
+                                            "branchColor": "#0af1f0",
+                                            "children": [
+
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "97389d26-6ead-4b05-b1cb-281960036289",
+                                    "parentId": "29a0e22d-305d-4888-be93-2f2fbae9b71b",
+                                    "text": {
+                                        "caption": "Proxies Versus Gateways",
+                                        "font": {
+                                            "weight": "normal",
+                                            "style": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": 171,
+                                        "y": 13
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#0af1f0",
+                                    "children": [
+
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "f52835a1-05e9-4d95-b21f-f7814a62f977",
+                            "parentId": "68708b67-1c95-4247-aa0d-19bd1300f696",
+                            "text": {
+                                "caption": "Why Use Proxies?",
+                                "font": {
+                                    "style": "normal",
+                                    "weight": "normal",
+                                    "decoration": "none",
+                                    "size": 15,
+                                    "color": "#000000"
+                                }
+                            },
+                            "offset": {
+                                "x": 356,
+                                "y": -429.63330078125
+                            },
+                            "foldChildren": false,
+                            "branchColor": "#0af1f0",
+                            "children": [
+                                {
+                                    "id": "22e33f13-5013-4b49-a2cd-2a97fcded65d",
+                                    "parentId": "f52835a1-05e9-4d95-b21f-f7814a62f977",
+                                    "text": {
+                                        "caption": "Child filter",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": 248,
+                                        "y": -134
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#0af1f0",
+                                    "children": [
+
+                                    ]
+                                },
+                                {
+                                    "id": "934bad64-cf89-4c72-b55b-278e821be5f7",
+                                    "parentId": "f52835a1-05e9-4d95-b21f-f7814a62f977",
+                                    "text": {
+                                        "caption": "Document access controller",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": 233,
+                                        "y": -89.66666666666667
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#0af1f0",
+                                    "children": [
+
+                                    ]
+                                },
+                                {
+                                    "id": "17fd1aac-07ef-4e08-a7b4-77d21531f230",
+                                    "parentId": "f52835a1-05e9-4d95-b21f-f7814a62f977",
+                                    "text": {
+                                        "caption": "Security firewall",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": 234.33333333333334,
+                                        "y": -36
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#0af1f0",
+                                    "children": [
+
+                                    ]
+                                },
+                                {
+                                    "id": "8e9488b0-97d5-4768-bc3d-4a16403b9e62",
+                                    "parentId": "f52835a1-05e9-4d95-b21f-f7814a62f977",
+                                    "text": {
+                                        "caption": "Web cache",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": 250,
+                                        "y": 5.333333333333333
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#0af1f0",
+                                    "children": [
+
+                                    ]
+                                },
+                                {
+                                    "id": "a607f9ed-10a5-4585-be65-26036e49545c",
+                                    "parentId": "f52835a1-05e9-4d95-b21f-f7814a62f977",
+                                    "text": {
+                                        "caption": "Surrogate",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": 250.33333333333334,
+                                        "y": 44.666666666666664
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#0af1f0",
+                                    "children": [
+
+                                    ]
+                                },
+                                {
+                                    "id": "6b1a48ca-cc91-4992-a9bf-d8a432559fcb",
+                                    "parentId": "f52835a1-05e9-4d95-b21f-f7814a62f977",
+                                    "text": {
+                                        "caption": "Content router",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": 254,
+                                        "y": 82
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#0af1f0",
+                                    "children": [
+
+                                    ]
+                                },
+                                {
+                                    "id": "85b6d164-187a-408f-8b34-755038f56602",
+                                    "parentId": "f52835a1-05e9-4d95-b21f-f7814a62f977",
+                                    "text": {
+                                        "caption": "Anonymizer",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": 258.6666666666667,
+                                        "y": 124
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#0af1f0",
+                                    "children": [
+
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "e8571860-9a92-4872-a63e-b91a262f364d",
+                            "parentId": "68708b67-1c95-4247-aa0d-19bd1300f696",
+                            "text": {
+                                "caption": "Where Do Proxies Go",
+                                "font": {
+                                    "style": "normal",
+                                    "weight": "normal",
+                                    "decoration": "none",
+                                    "size": 15,
+                                    "color": "#000000"
+                                }
+                            },
+                            "offset": {
+                                "x": 235.66650390625,
+                                "y": -168.66668701171875
+                            },
+                            "foldChildren": false,
+                            "branchColor": "#0af1f0",
+                            "children": [
+                                {
+                                    "id": "e018a79f-05f0-4dbd-a086-73d965b14088",
+                                    "parentId": "e8571860-9a92-4872-a63e-b91a262f364d",
+                                    "text": {
+                                        "caption": "Proxy Server Deployment",
+                                        "font": {
+                                            "weight": "normal",
+                                            "style": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": 316,
+                                        "y": -74.66666666666667
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#0af1f0",
+                                    "children": [
+                                        {
+                                            "id": "4b3c1260-667c-4729-b553-c70b1dc60710",
+                                            "parentId": "e018a79f-05f0-4dbd-a086-73d965b14088",
+                                            "text": {
+                                                "caption": "Egress proxy",
+                                                "font": {
+                                                    "weight": "normal",
+                                                    "style": "normal",
+                                                    "decoration": "none",
+                                                    "size": 15,
+                                                    "color": "#000000"
+                                                }
+                                            },
+                                            "offset": {
+                                                "x": 197,
+                                                "y": -83.99993896484375
+                                            },
+                                            "foldChildren": false,
+                                            "branchColor": "#0af1f0",
+                                            "children": [
+
+                                            ]
+                                        },
+                                        {
+                                            "id": "d05453d3-59ed-48b2-a565-547b271ad1a5",
+                                            "parentId": "e018a79f-05f0-4dbd-a086-73d965b14088",
+                                            "text": {
+                                                "caption": "Access (ingress) proxy",
+                                                "font": {
+                                                    "weight": "normal",
+                                                    "style": "normal",
+                                                    "decoration": "none",
+                                                    "size": 15,
+                                                    "color": "#000000"
+                                                }
+                                            },
+                                            "offset": {
+                                                "x": 195,
+                                                "y": -43
+                                            },
+                                            "foldChildren": false,
+                                            "branchColor": "#0af1f0",
+                                            "children": [
+
+                                            ]
+                                        },
+                                        {
+                                            "id": "5e798f84-a55c-45d5-bc1f-6cf68065ea97",
+                                            "parentId": "e018a79f-05f0-4dbd-a086-73d965b14088",
+                                            "text": {
+                                                "caption": "Surrogates",
+                                                "font": {
+                                                    "weight": "normal",
+                                                    "style": "normal",
+                                                    "decoration": "none",
+                                                    "size": 15,
+                                                    "color": "#000000"
+                                                }
+                                            },
+                                            "offset": {
+                                                "x": 211,
+                                                "y": -10
+                                            },
+                                            "foldChildren": false,
+                                            "branchColor": "#0af1f0",
+                                            "children": [
+
+                                            ]
+                                        },
+                                        {
+                                            "id": "f227e632-9f29-49cc-a4f3-2f1175103d0e",
+                                            "parentId": "e018a79f-05f0-4dbd-a086-73d965b14088",
+                                            "text": {
+                                                "caption": "Network exchange proxy",
+                                                "font": {
+                                                    "weight": "normal",
+                                                    "style": "normal",
+                                                    "decoration": "none",
+                                                    "size": 15,
+                                                    "color": "#000000"
+                                                }
+                                            },
+                                            "offset": {
+                                                "x": 192,
+                                                "y": 34.000030517578125
+                                            },
+                                            "foldChildren": false,
+                                            "branchColor": "#0af1f0",
+                                            "children": [
+
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "de13e194-9d1a-4157-88ff-45850e47f679",
+                                    "parentId": "e8571860-9a92-4872-a63e-b91a262f364d",
+                                    "text": {
+                                        "caption": "Proxy Hierarchies",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": 242,
+                                        "y": 32.66668701171875
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#0af1f0",
+                                    "children": [
+                                        {
+                                            "id": "e99d0a97-cac6-4ff9-9464-5efa8513a1b6",
+                                            "parentId": "de13e194-9d1a-4157-88ff-45850e47f679",
+                                            "text": {
+                                                "caption": "Proxy hierarchy content routing",
+                                                "font": {
+                                                    "style": "normal",
+                                                    "weight": "normal",
+                                                    "decoration": "none",
+                                                    "size": 15,
+                                                    "color": "#000000"
+                                                }
+                                            },
+                                            "offset": {
+                                                "x": 222.66666666666666,
+                                                "y": -13.333333333333334
+                                            },
+                                            "foldChildren": false,
+                                            "branchColor": "#0af1f0",
+                                            "children": [
+
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "f3a18377-5125-4e50-a1b8-3525b98754c4",
+                                    "parentId": "e8571860-9a92-4872-a63e-b91a262f364d",
+                                    "text": {
+                                        "caption": "How Proxies Get Traffic",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": 232,
+                                        "y": 111.33331298828125
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#0af1f0",
+                                    "children": [
+                                        {
+                                            "id": "e960fc2b-19b6-4b53-a615-3bfddf9f8437",
+                                            "parentId": "f3a18377-5125-4e50-a1b8-3525b98754c4",
+                                            "text": {
+                                                "caption": "client",
+                                                "font": {
+                                                    "style": "normal",
+                                                    "weight": "normal",
+                                                    "decoration": "none",
+                                                    "size": 15,
+                                                    "color": "#000000"
+                                                }
+                                            },
+                                            "offset": {
+                                                "x": 222.66666666666666,
+                                                "y": -36
+                                            },
+                                            "foldChildren": false,
+                                            "branchColor": "#0af1f0",
+                                            "children": [
+
+                                            ]
+                                        },
+                                        {
+                                            "id": "dab6f0c7-f3ae-4033-801a-2434e7c98564",
+                                            "parentId": "f3a18377-5125-4e50-a1b8-3525b98754c4",
+                                            "text": {
+                                                "caption": "network",
+                                                "font": {
+                                                    "style": "normal",
+                                                    "weight": "normal",
+                                                    "decoration": "none",
+                                                    "size": 15,
+                                                    "color": "#000000"
+                                                }
+                                            },
+                                            "offset": {
+                                                "x": 226.66666666666666,
+                                                "y": 1.3333333333333333
+                                            },
+                                            "foldChildren": false,
+                                            "branchColor": "#0af1f0",
+                                            "children": [
+
+                                            ]
+                                        },
+                                        {
+                                            "id": "309f96f3-e3a5-4018-84ef-322ca0027385",
+                                            "parentId": "f3a18377-5125-4e50-a1b8-3525b98754c4",
+                                            "text": {
+                                                "caption": "DNS namespace",
+                                                "font": {
+                                                    "style": "normal",
+                                                    "weight": "normal",
+                                                    "decoration": "none",
+                                                    "size": 15,
+                                                    "color": "#000000"
+                                                }
+                                            },
+                                            "offset": {
+                                                "x": 221.33333333333334,
+                                                "y": 46.666666666666664
+                                            },
+                                            "foldChildren": false,
+                                            "branchColor": "#0af1f0",
+                                            "children": [
+
+                                            ]
+                                        },
+                                        {
+                                            "id": "911601c8-2970-4edd-98a6-cb5d5da232a2",
+                                            "parentId": "f3a18377-5125-4e50-a1b8-3525b98754c4",
+                                            "text": {
+                                                "caption": "web server",
+                                                "font": {
+                                                    "style": "normal",
+                                                    "weight": "normal",
+                                                    "decoration": "none",
+                                                    "size": 15,
+                                                    "color": "#000000"
+                                                }
+                                            },
+                                            "offset": {
+                                                "x": 232,
+                                                "y": 86.66666666666667
+                                            },
+                                            "foldChildren": false,
+                                            "branchColor": "#0af1f0",
+                                            "children": [
+
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "22a4d04e-7e65-4001-92cc-869767890de4",
+                            "parentId": "68708b67-1c95-4247-aa0d-19bd1300f696",
+                            "text": {
+                                "caption": "Client Proxy Settings",
+                                "font": {
+                                    "style": "normal",
+                                    "weight": "normal",
+                                    "decoration": "none",
+                                    "size": 15,
+                                    "color": "#000000"
+                                }
+                            },
+                            "offset": {
+                                "x": 146,
+                                "y": -15.333333333333334
+                            },
+                            "foldChildren": false,
+                            "branchColor": "#0af1f0",
+                            "children": [
+                                {
+                                    "id": "c82c55d7-4092-4510-91b7-b225b90180f9",
+                                    "parentId": "22a4d04e-7e65-4001-92cc-869767890de4",
+                                    "text": {
+                                        "caption": "Manual",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": 217.33333333333334,
+                                        "y": -48
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#0af1f0",
+                                    "children": [
+
+                                    ]
+                                },
+                                {
+                                    "id": "87ab92b7-43fb-41f8-bfbe-3424d1cd2a6a",
+                                    "parentId": "22a4d04e-7e65-4001-92cc-869767890de4",
+                                    "text": {
+                                        "caption": "PAC Files",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": 222.66666666666666,
+                                        "y": -6.666666666666667
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#0af1f0",
+                                    "children": [
+
+                                    ]
+                                },
+                                {
+                                    "id": "e7c9cbf4-da3c-4198-a864-f0fdfe115771",
+                                    "parentId": "22a4d04e-7e65-4001-92cc-869767890de4",
+                                    "text": {
+                                        "caption": "WPAD",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": 220,
+                                        "y": 37.333333333333336
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#0af1f0",
+                                    "children": [
+
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "ab0f552b-99cc-46c9-903f-eb59945d93c9",
+                            "parentId": "68708b67-1c95-4247-aa0d-19bd1300f696",
+                            "text": {
+                                "caption": "Tricky Things About Proxy Requests",
+                                "font": {
+                                    "style": "normal",
+                                    "weight": "normal",
+                                    "decoration": "none",
+                                    "size": 15,
+                                    "color": "#000000"
+                                }
+                            },
+                            "offset": {
+                                "x": 593.666748046875,
+                                "y": 108.6666259765625
+                            },
+                            "foldChildren": false,
+                            "branchColor": "#0af1f0",
+                            "children": [
+                                {
+                                    "id": "31a6bfd8-ba93-4794-a5e7-d9260c8da21d",
+                                    "parentId": "ab0f552b-99cc-46c9-903f-eb59945d93c9",
+                                    "text": {
+                                        "caption": "Proxy URIs Differ from Server URIs",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": 318.6666666666667,
+                                        "y": -257.3333333333333
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#0af1f0",
+                                    "children": [
+
+                                    ]
+                                },
+                                {
+                                    "id": "f30b0f6e-bb5b-4589-a0ab-8552fcd5bc97",
+                                    "parentId": "ab0f552b-99cc-46c9-903f-eb59945d93c9",
+                                    "text": {
+                                        "caption": "The Same Problem with Virtual Hosting",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": 316,
+                                        "y": -197.33333333333334
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#0af1f0",
+                                    "children": [
+
+                                    ]
+                                },
+                                {
+                                    "id": "d6045217-64e9-4cdb-89f4-075d2c3f9ff7",
+                                    "parentId": "ab0f552b-99cc-46c9-903f-eb59945d93c9",
+                                    "text": {
+                                        "caption": "Intercepting Proxies Get Partial URIs",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": 318.6666666666667,
+                                        "y": -138.66666666666666
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#0af1f0",
+                                    "children": [
+
+                                    ]
+                                },
+                                {
+                                    "id": "ce8f80e9-2a67-4c47-96f8-4b0e2960c4b1",
+                                    "parentId": "ab0f552b-99cc-46c9-903f-eb59945d93c9",
+                                    "text": {
+                                        "caption": "Proxies Can Handle Both Proxy and Server Requests",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": 322.6666666666667,
+                                        "y": -80
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#0af1f0",
+                                    "children": [
+
+                                    ]
+                                },
+                                {
+                                    "id": "5f67c2ce-514e-4079-a28b-668718b69f9b",
+                                    "parentId": "ab0f552b-99cc-46c9-903f-eb59945d93c9",
+                                    "text": {
+                                        "caption": "In-Flight URI Modification",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": 316,
+                                        "y": -6.666666666666667
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#0af1f0",
+                                    "children": [
+
+                                    ]
+                                },
+                                {
+                                    "id": "5738bd7b-8c14-47ba-a4fb-fe6ce199767c",
+                                    "parentId": "ab0f552b-99cc-46c9-903f-eb59945d93c9",
+                                    "text": {
+                                        "caption": "URI Client Auto-Expansion and Hostname Resolution",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": 326.6666666666667,
+                                        "y": 54.666666666666664
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#0af1f0",
+                                    "children": [
+
+                                    ]
+                                },
+                                {
+                                    "id": "ade37ef9-6863-4f2a-90c5-5f7cae99be75",
+                                    "parentId": "ab0f552b-99cc-46c9-903f-eb59945d93c9",
+                                    "text": {
+                                        "caption": "URI Resolution Without a Proxy",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": 328.33349609375,
+                                        "y": 129
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#0af1f0",
+                                    "children": [
+
+                                    ]
+                                },
+                                {
+                                    "id": "ff3ac146-0c7d-49bf-b7b3-bdeb1684697e",
+                                    "parentId": "ab0f552b-99cc-46c9-903f-eb59945d93c9",
+                                    "text": {
+                                        "caption": "URI Resolution with an Explicit Proxy",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": 326,
+                                        "y": 183.316650390625
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#0af1f0",
+                                    "children": [
+
+                                    ]
+                                },
+                                {
+                                    "id": "0c0d1866-3e85-44ee-8403-730c58453912",
+                                    "parentId": "ab0f552b-99cc-46c9-903f-eb59945d93c9",
+                                    "text": {
+                                        "caption": "URI Resolution with an Intercepting Proxy",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": 325,
+                                        "y": 238
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#0af1f0",
+                                    "children": [
+
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "434ed274-eea7-46d7-b76f-234c25de9b17",
+                            "parentId": "68708b67-1c95-4247-aa0d-19bd1300f696",
+                            "text": {
+                                "caption": "Tracing Messages",
+                                "font": {
+                                    "style": "normal",
+                                    "weight": "normal",
+                                    "decoration": "none",
+                                    "size": 15,
+                                    "color": "#000000"
+                                }
+                            },
+                            "offset": {
+                                "x": 411.66650390625,
+                                "y": 308.3333740234375
+                            },
+                            "foldChildren": false,
+                            "branchColor": "#0af1f0",
+                            "children": [
+                                {
+                                    "id": "1e225421-ab33-4e63-9c83-d50ae3dfe3da",
+                                    "parentId": "434ed274-eea7-46d7-b76f-234c25de9b17",
+                                    "text": {
+                                        "caption": "The Via Header",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": 203,
+                                        "y": -114
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#0af1f0",
+                                    "children": [
+
+                                    ]
+                                },
+                                {
+                                    "id": "58e16700-4cb7-4d49-ab74-db80e15ea060",
+                                    "parentId": "434ed274-eea7-46d7-b76f-234c25de9b17",
+                                    "text": {
+                                        "caption": "Via request and response paths",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": 188,
+                                        "y": -79
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#0af1f0",
+                                    "children": [
+
+                                    ]
+                                },
+                                {
+                                    "id": "d14d672e-4c6a-4e1c-953d-e069fd805b25",
+                                    "parentId": "434ed274-eea7-46d7-b76f-234c25de9b17",
+                                    "text": {
+                                        "caption": "Via and gateways",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": 194,
+                                        "y": -26
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#0af1f0",
+                                    "children": [
+
+                                    ]
+                                },
+                                {
+                                    "id": "0a98fc93-523c-48e8-a26c-e90c3db0d92f",
+                                    "parentId": "434ed274-eea7-46d7-b76f-234c25de9b17",
+                                    "text": {
+                                        "caption": "The Server and Via headers",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": 171,
+                                        "y": 14
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#0af1f0",
+                                    "children": [
+
+                                    ]
+                                },
+                                {
+                                    "id": "dca2fb6b-3e6b-416d-9b68-3e2480976369",
+                                    "parentId": "434ed274-eea7-46d7-b76f-234c25de9b17",
+                                    "text": {
+                                        "caption": "Privacy and security implications of Via",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": 186,
+                                        "y": 68
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#0af1f0",
+                                    "children": [
+
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "96649de1-8a8f-4a32-8ed3-eda13bed1e58",
+                            "parentId": "68708b67-1c95-4247-aa0d-19bd1300f696",
+                            "text": {
+                                "caption": "The TRACE Method",
+                                "font": {
+                                    "style": "normal",
+                                    "weight": "normal",
+                                    "decoration": "none",
+                                    "size": 15,
+                                    "color": "#000000"
+                                }
+                            },
+                            "offset": {
+                                "x": 447,
+                                "y": 431.3333740234375
+                            },
+                            "foldChildren": false,
+                            "branchColor": "#0af1f0",
+                            "children": [
+                                {
+                                    "id": "c42393b4-7ce2-41e4-a861-a15d9bff6511",
+                                    "parentId": "96649de1-8a8f-4a32-8ed3-eda13bed1e58",
+                                    "text": {
+                                        "caption": "Max-Forwards",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": 185.983154296875,
+                                        "y": -1
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#0af1f0",
+                                    "children": [
+
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "a725f069-df63-41db-99d9-210fae592601",
+                            "parentId": "68708b67-1c95-4247-aa0d-19bd1300f696",
+                            "text": {
+                                "caption": "Proxy Authentication",
+                                "font": {
+                                    "style": "normal",
+                                    "weight": "normal",
+                                    "decoration": "none",
+                                    "size": 15,
+                                    "color": "#000000"
+                                }
+                            },
+                            "offset": {
+                                "x": 473,
+                                "y": 508.6500244140625
+                            },
+                            "foldChildren": false,
+                            "branchColor": "#0af1f0",
+                            "children": [
+                                {
+                                    "id": "36938510-903b-4ef9-9ae9-21c961afc742",
+                                    "parentId": "a725f069-df63-41db-99d9-210fae592601",
+                                    "text": {
+                                        "caption": "Handling Unsupported Headers and Methods",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": 333.983154296875,
+                                        "y": -85
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#0af1f0",
+                                    "children": [
+
+                                    ]
+                                },
+                                {
+                                    "id": "f74aed60-7555-4124-9afc-a0b6866dc4b5",
+                                    "parentId": "a725f069-df63-41db-99d9-210fae592601",
+                                    "text": {
+                                        "caption": "OPTIONS: Discovering Optional Feature Support",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": 329.6220703125,
+                                        "y": 3.3333333333333335
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#0af1f0",
+                                    "children": [
+
+                                    ]
+                                },
+                                {
+                                    "id": "eb8556e8-63f1-4224-a26e-19d6d84a32a0",
+                                    "parentId": "a725f069-df63-41db-99d9-210fae592601",
+                                    "text": {
+                                        "caption": "The Allow Header",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": 340.64453125,
+                                        "y": 96
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#0af1f0",
+                                    "children": [
+
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "511334d3-7143-4087-882c-a2b79bdd0d1c",
+                    "parentId": "f0674063-41aa-4f42-93f8-8d9ddcb191ca",
+                    "text": {
+                        "caption": "Caching",
+                        "font": {
+                            "style": "normal",
+                            "weight": "normal",
+                            "decoration": "none",
+                            "size": 15,
+                            "color": "#000000"
+                        }
+                    },
+                    "offset": {
+                        "x": 358,
+                        "y": 289.3333740234375
+                    },
+                    "foldChildren": false,
+                    "branchColor": "#93b6b6",
+                    "children": [
+                        {
+                            "id": "038e566d-c507-4b17-af4e-43d475aceed0",
+                            "parentId": "511334d3-7143-4087-882c-a2b79bdd0d1c",
+                            "text": {
+                                "caption": "Redundant Data Transfers",
+                                "font": {
+                                    "style": "normal",
+                                    "weight": "normal",
+                                    "decoration": "none",
+                                    "size": 15,
+                                    "color": "#000000"
+                                }
+                            },
+                            "offset": {
+                                "x": 211,
+                                "y": -501
+                            },
+                            "foldChildren": false,
+                            "branchColor": "#93b6b6",
+                            "children": [
+
+                            ]
+                        },
+                        {
+                            "id": "50c45f86-a541-4405-bc26-52a0ca0c2f79",
+                            "parentId": "511334d3-7143-4087-882c-a2b79bdd0d1c",
+                            "text": {
+                                "caption": "Bandwidth Bottlenecks",
+                                "font": {
+                                    "style": "normal",
+                                    "weight": "normal",
+                                    "decoration": "none",
+                                    "size": 15,
+                                    "color": "#000000"
+                                }
+                            },
+                            "offset": {
+                                "x": 228,
+                                "y": -451
+                            },
+                            "foldChildren": false,
+                            "branchColor": "#93b6b6",
+                            "children": [
+
+                            ]
+                        },
+                        {
+                            "id": "c2900de9-ce7a-4e52-84a3-c4021011890d",
+                            "parentId": "511334d3-7143-4087-882c-a2b79bdd0d1c",
+                            "text": {
+                                "caption": "Flash Crowds",
+                                "font": {
+                                    "style": "normal",
+                                    "weight": "normal",
+                                    "decoration": "none",
+                                    "size": 15,
+                                    "color": "#000000"
+                                }
+                            },
+                            "offset": {
+                                "x": 260,
+                                "y": -403
+                            },
+                            "foldChildren": false,
+                            "branchColor": "#93b6b6",
+                            "children": [
+
+                            ]
+                        },
+                        {
+                            "id": "cc12c1db-b390-4cd9-8fdd-f5feb4d4ccc6",
+                            "parentId": "511334d3-7143-4087-882c-a2b79bdd0d1c",
+                            "text": {
+                                "caption": "Distance Delays",
+                                "font": {
+                                    "style": "normal",
+                                    "weight": "normal",
+                                    "decoration": "none",
+                                    "size": 15,
+                                    "color": "#000000"
+                                }
+                            },
+                            "offset": {
+                                "x": 262,
+                                "y": -357
+                            },
+                            "foldChildren": false,
+                            "branchColor": "#93b6b6",
+                            "children": [
+
+                            ]
+                        },
+                        {
+                            "id": "e51da65b-58fb-45af-8ad9-6b994b7c565e",
+                            "parentId": "511334d3-7143-4087-882c-a2b79bdd0d1c",
+                            "text": {
+                                "caption": "Hits and Misses",
+                                "font": {
+                                    "style": "normal",
+                                    "weight": "normal",
+                                    "decoration": "none",
+                                    "size": 15,
+                                    "color": "#000000"
+                                }
+                            },
+                            "offset": {
+                                "x": 291,
+                                "y": -308
+                            },
+                            "foldChildren": false,
+                            "branchColor": "#93b6b6",
+                            "children": [
+                                {
+                                    "id": "40501140-c233-47ee-a73a-2bc25628848d",
+                                    "parentId": "e51da65b-58fb-45af-8ad9-6b994b7c565e",
+                                    "text": {
+                                        "caption": "Revalidations",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": 274,
+                                        "y": -183
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#93b6b6",
+                                    "children": [
+
+                                    ]
+                                },
+                                {
+                                    "id": "baf30282-aae6-4843-b376-e27531db5ee2",
+                                    "parentId": "e51da65b-58fb-45af-8ad9-6b994b7c565e",
+                                    "text": {
+                                        "caption": "Hit Rate",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": 280,
+                                        "y": -138
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#93b6b6",
+                                    "children": [
+
+                                    ]
+                                },
+                                {
+                                    "id": "2f803651-f9df-45f9-99b4-a35446b6e86a",
+                                    "parentId": "e51da65b-58fb-45af-8ad9-6b994b7c565e",
+                                    "text": {
+                                        "caption": "Byte Hit Rate",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": 271,
+                                        "y": -90
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#93b6b6",
+                                    "children": [
+
+                                    ]
+                                },
+                                {
+                                    "id": "6f11485a-c370-47e7-b478-fe190bc50134",
+                                    "parentId": "e51da65b-58fb-45af-8ad9-6b994b7c565e",
+                                    "text": {
+                                        "caption": "Distinguishing Hits and Misses",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": 193,
+                                        "y": -19
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#93b6b6",
+                                    "children": [
+
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "2291ee2f-74a7-40f9-ade4-eb9bbee184ed",
+                            "parentId": "511334d3-7143-4087-882c-a2b79bdd0d1c",
+                            "text": {
+                                "caption": "Cache Topologies",
+                                "font": {
+                                    "style": "normal",
+                                    "weight": "normal",
+                                    "decoration": "none",
+                                    "size": 15,
+                                    "color": "#000000"
+                                }
+                            },
+                            "offset": {
+                                "x": 495,
+                                "y": -273
+                            },
+                            "foldChildren": false,
+                            "branchColor": "#93b6b6",
+                            "children": [
+                                {
+                                    "id": "a622d2f9-2b90-414b-8eea-83b78efa31f2",
+                                    "parentId": "2291ee2f-74a7-40f9-ade4-eb9bbee184ed",
+                                    "text": {
+                                        "caption": "Private Caches",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": 246,
+                                        "y": -78
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#93b6b6",
+                                    "children": [
+
+                                    ]
+                                },
+                                {
+                                    "id": "872961c6-910f-4e2f-b4a6-3b5284ee08b3",
+                                    "parentId": "2291ee2f-74a7-40f9-ade4-eb9bbee184ed",
+                                    "text": {
+                                        "caption": "Public Proxy Caches",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": 240,
+                                        "y": -31
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#93b6b6",
+                                    "children": [
+
+                                    ]
+                                },
+                                {
+                                    "id": "f9edbb47-e20e-442c-b4da-c8bb1ad3912f",
+                                    "parentId": "2291ee2f-74a7-40f9-ade4-eb9bbee184ed",
+                                    "text": {
+                                        "caption": "Proxy Cache Hierarchies",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": 228,
+                                        "y": 5
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#93b6b6",
+                                    "children": [
+
+                                    ]
+                                },
+                                {
+                                    "id": "ad398cdd-1afd-4109-8bc3-b0bb8866af29",
+                                    "parentId": "2291ee2f-74a7-40f9-ade4-eb9bbee184ed",
+                                    "text": {
+                                        "caption": "Cache Meshes, Content Routing, and Peering",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": 229,
+                                        "y": 59
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#93b6b6",
+                                    "children": [
+
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "89902727-d98f-487c-9c1f-e7d35e243318",
+                            "parentId": "511334d3-7143-4087-882c-a2b79bdd0d1c",
+                            "text": {
+                                "caption": "Cache Processing Steps",
+                                "font": {
+                                    "style": "normal",
+                                    "weight": "normal",
+                                    "decoration": "none",
+                                    "size": 15,
+                                    "color": "#000000"
+                                }
+                            },
+                            "offset": {
+                                "x": 246,
+                                "y": -120
+                            },
+                            "foldChildren": false,
+                            "branchColor": "#93b6b6",
+                            "children": [
+                                {
+                                    "id": "99a59d3f-8508-4cf7-81e2-2f691379dc35",
+                                    "parentId": "89902727-d98f-487c-9c1f-e7d35e243318",
+                                    "text": {
+                                        "caption": "Receiving",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": 316,
+                                        "y": -100
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#93b6b6",
+                                    "children": [
+
+                                    ]
+                                },
+                                {
+                                    "id": "0df68d23-4348-445c-bd99-dcdd9c9a3eb8",
+                                    "parentId": "89902727-d98f-487c-9c1f-e7d35e243318",
+                                    "text": {
+                                        "caption": "Parsing",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": 315,
+                                        "y": -67
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#93b6b6",
+                                    "children": [
+
+                                    ]
+                                },
+                                {
+                                    "id": "0a7810e5-0566-4461-8e42-7c1cf3434266",
+                                    "parentId": "89902727-d98f-487c-9c1f-e7d35e243318",
+                                    "text": {
+                                        "caption": "Lookup",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": 316,
+                                        "y": -29
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#93b6b6",
+                                    "children": [
+
+                                    ]
+                                },
+                                {
+                                    "id": "bcd2a143-a41b-4457-b2a0-8bba403738b9",
+                                    "parentId": "89902727-d98f-487c-9c1f-e7d35e243318",
+                                    "text": {
+                                        "caption": "Freshness Check",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": 288,
+                                        "y": 5
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#93b6b6",
+                                    "children": [
+
+                                    ]
+                                },
+                                {
+                                    "id": "a011b73a-ed8d-4d51-8cfd-c5d1f6b0e9ef",
+                                    "parentId": "89902727-d98f-487c-9c1f-e7d35e243318",
+                                    "text": {
+                                        "caption": "Response Creation",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": 282,
+                                        "y": 42
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#93b6b6",
+                                    "children": [
+
+                                    ]
+                                },
+                                {
+                                    "id": "b65f84f7-fbd0-43f2-a9c2-7206ee268191",
+                                    "parentId": "89902727-d98f-487c-9c1f-e7d35e243318",
+                                    "text": {
+                                        "caption": "Sending",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": 312,
+                                        "y": 83
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#93b6b6",
+                                    "children": [
+
+                                    ]
+                                },
+                                {
+                                    "id": "d0432c44-505b-4837-ae98-4d2d38225ec5",
+                                    "parentId": "89902727-d98f-487c-9c1f-e7d35e243318",
+                                    "text": {
+                                        "caption": "Logging",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": 313,
+                                        "y": 119
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#93b6b6",
+                                    "children": [
+
+                                    ]
+                                },
+                                {
+                                    "id": "c6f0bb82-2fb1-4e38-a7b7-2191f490b6cd",
+                                    "parentId": "89902727-d98f-487c-9c1f-e7d35e243318",
+                                    "text": {
+                                        "caption": "Cache Processing Flowchart",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": 273.6,
+                                        "y": 157.6
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#93b6b6",
+                                    "children": [
+
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "df8e1ac1-2d07-4dbc-bb09-ba7939e8578e",
+                            "parentId": "511334d3-7143-4087-882c-a2b79bdd0d1c",
+                            "text": {
+                                "caption": "Keeping Copies Fresh",
+                                "font": {
+                                    "style": "normal",
+                                    "weight": "normal",
+                                    "decoration": "none",
+                                    "size": 15,
+                                    "color": "#000000"
+                                }
+                            },
+                            "offset": {
+                                "x": 621,
+                                "y": 96.75
+                            },
+                            "foldChildren": false,
+                            "branchColor": "#93b6b6",
+                            "children": [
+                                {
+                                    "id": "eaafc67c-ba54-4fd9-89b0-99e6453bad66",
+                                    "parentId": "df8e1ac1-2d07-4dbc-bb09-ba7939e8578e",
+                                    "text": {
+                                        "caption": "Document Expiration",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": 226,
+                                        "y": -229
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#93b6b6",
+                                    "children": [
+
+                                    ]
+                                },
+                                {
+                                    "id": "f5ba08ec-615a-46ae-967d-218e3f609c82",
+                                    "parentId": "df8e1ac1-2d07-4dbc-bb09-ba7939e8578e",
+                                    "text": {
+                                        "caption": "Expiration Dates and Ages",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": 230,
+                                        "y": -184
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#93b6b6",
+                                    "children": [
+
+                                    ]
+                                },
+                                {
+                                    "id": "7ff89abc-1153-48db-a81a-67701d7db5df",
+                                    "parentId": "df8e1ac1-2d07-4dbc-bb09-ba7939e8578e",
+                                    "text": {
+                                        "caption": "Server Revalidation",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": 244,
+                                        "y": -124
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#93b6b6",
+                                    "children": [
+
+                                    ]
+                                },
+                                {
+                                    "id": "e371f83b-3932-447a-a054-7513a322c842",
+                                    "parentId": "df8e1ac1-2d07-4dbc-bb09-ba7939e8578e",
+                                    "text": {
+                                        "caption": "Revalidation with Conditional Methods",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": 241,
+                                        "y": -79
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#93b6b6",
+                                    "children": [
+
+                                    ]
+                                },
+                                {
+                                    "id": "fd81b839-78b3-4258-9f37-f0b019ed70c5",
+                                    "parentId": "df8e1ac1-2d07-4dbc-bb09-ba7939e8578e",
+                                    "text": {
+                                        "caption": "If-Modified-Since: Date Revalidation",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": 241.39990234375,
+                                        "y": -19.2000732421875
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#93b6b6",
+                                    "children": [
+
+                                    ]
+                                },
+                                {
+                                    "id": "c9536a27-187e-46ba-971b-24124b8c35de",
+                                    "parentId": "df8e1ac1-2d07-4dbc-bb09-ba7939e8578e",
+                                    "text": {
+                                        "caption": "If-None-Match: Entity Tag Revalidation",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": 246,
+                                        "y": 39.7999267578125
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#93b6b6",
+                                    "children": [
+
+                                    ]
+                                },
+                                {
+                                    "id": "1d40009c-a9ee-4b1b-b119-f8789dc83218",
+                                    "parentId": "df8e1ac1-2d07-4dbc-bb09-ba7939e8578e",
+                                    "text": {
+                                        "caption": "Weak and Strong Validators",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": 243.60009765625,
+                                        "y": 96.5999755859375
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#93b6b6",
+                                    "children": [
+
+                                    ]
+                                },
+                                {
+                                    "id": "75d36cc9-60b1-42d2-92df-ca92f3e3d534",
+                                    "parentId": "df8e1ac1-2d07-4dbc-bb09-ba7939e8578e",
+                                    "text": {
+                                        "caption": "Entity Tags and Last-Modified Dates",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": 250.199951171875,
+                                        "y": 156.583251953125
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#93b6b6",
+                                    "children": [
+
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "e027610d-3b71-4ddf-8153-81227704d661",
+                            "parentId": "511334d3-7143-4087-882c-a2b79bdd0d1c",
+                            "text": {
+                                "caption": "Controlling Cachability",
+                                "font": {
+                                    "style": "normal",
+                                    "weight": "normal",
+                                    "decoration": "none",
+                                    "size": 15,
+                                    "color": "#000000"
+                                }
+                            },
+                            "offset": {
+                                "x": 882.36669921875,
+                                "y": 331.5833740234375
+                            },
+                            "foldChildren": false,
+                            "branchColor": "#93b6b6",
+                            "children": [
+                                {
+                                    "id": "eaa1fdc2-f82e-496e-8d01-4a8dad432cb9",
+                                    "parentId": "e027610d-3b71-4ddf-8153-81227704d661",
+                                    "text": {
+                                        "caption": "No-Cache and No-Store Response Headers",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": 271.2,
+                                        "y": -164.8
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#93b6b6",
+                                    "children": [
+
+                                    ]
+                                },
+                                {
+                                    "id": "42823c31-3c2c-4100-8313-7ba0882447ae",
+                                    "parentId": "e027610d-3b71-4ddf-8153-81227704d661",
+                                    "text": {
+                                        "caption": "Max-Age Response Headers",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": 268,
+                                        "y": -95.2
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#93b6b6",
+                                    "children": [
+
+                                    ]
+                                },
+                                {
+                                    "id": "d0682c63-6692-46aa-a71d-990b3f71a9b7",
+                                    "parentId": "e027610d-3b71-4ddf-8153-81227704d661",
+                                    "text": {
+                                        "caption": "Expires Response Headers",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": 272,
+                                        "y": -39.2
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#93b6b6",
+                                    "children": [
+
+                                    ]
+                                },
+                                {
+                                    "id": "e9de0de2-6fca-4503-a1bf-82a1bac9542a",
+                                    "parentId": "e027610d-3b71-4ddf-8153-81227704d661",
+                                    "text": {
+                                        "caption": "Must-Revalidate Response Headers",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": 268.8,
+                                        "y": 8
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#93b6b6",
+                                    "children": [
+
+                                    ]
+                                },
+                                {
+                                    "id": "b53746c2-7f1a-4153-a105-d3da04225424",
+                                    "parentId": "e027610d-3b71-4ddf-8153-81227704d661",
+                                    "text": {
+                                        "caption": "Heuristic Expiration",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": 277.066796875,
+                                        "y": 55.2
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#93b6b6",
+                                    "children": [
+
+                                    ]
+                                },
+                                {
+                                    "id": "01d109d8-e716-4616-a4c0-188f333669c4",
+                                    "parentId": "e027610d-3b71-4ddf-8153-81227704d661",
+                                    "text": {
+                                        "caption": "Client Freshness Constraints",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": 264,
+                                        "y": 89
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#93b6b6",
+                                    "children": [
+
+                                    ]
+                                },
+                                {
+                                    "id": "7dc37759-a2c4-4ccd-9fa4-293a08905b33",
+                                    "parentId": "e027610d-3b71-4ddf-8153-81227704d661",
+                                    "text": {
+                                        "caption": "Cautions",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": 292,
+                                        "y": 153
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#93b6b6",
+                                    "children": [
+
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "cd29b80d-3837-4874-bb7d-d9835f199e00",
+                            "parentId": "511334d3-7143-4087-882c-a2b79bdd0d1c",
+                            "text": {
+                                "caption": "Setting  Cache Controls",
+                                "font": {
+                                    "style": "normal",
+                                    "weight": "normal",
+                                    "decoration": "none",
+                                    "size": 15,
+                                    "color": "#000000"
+                                }
+                            },
+                            "offset": {
+                                "x": 546,
+                                "y": 426.9666748046875
+                            },
+                            "foldChildren": false,
+                            "branchColor": "#93b6b6",
+                            "children": [
+                                {
+                                    "id": "6f029173-ab91-4470-ba2b-59274b872680",
+                                    "parentId": "cd29b80d-3837-4874-bb7d-d9835f199e00",
+                                    "text": {
+                                        "caption": "Controlling HTTP Headers with Apache",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": 218,
+                                        "y": -51
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#93b6b6",
+                                    "children": [
+
+                                    ]
+                                },
+                                {
+                                    "id": "43922b37-6996-424c-871a-378d408ba63e",
+                                    "parentId": "cd29b80d-3837-4874-bb7d-d9835f199e00",
+                                    "text": {
+                                        "caption": "Controlling HTML Caching Through HTTP-EQUIV",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": 221,
+                                        "y": 14
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#93b6b6",
+                                    "children": [
+
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "1431f17b-62f4-4afe-83a7-f5087fcfffdc",
+                            "parentId": "511334d3-7143-4087-882c-a2b79bdd0d1c",
+                            "text": {
+                                "caption": "Detailed Algorithms",
+                                "font": {
+                                    "style": "normal",
+                                    "weight": "normal",
+                                    "decoration": "none",
+                                    "size": 15,
+                                    "color": "#000000"
+                                }
+                            },
+                            "offset": {
+                                "x": 139,
+                                "y": 712.9666748046875
+                            },
+                            "foldChildren": false,
+                            "branchColor": "#93b6b6",
+                            "children": [
+                                {
+                                    "id": "ce574f03-a4a2-44ea-b50a-56890a54a60c",
+                                    "parentId": "1431f17b-62f4-4afe-83a7-f5087fcfffdc",
+                                    "text": {
+                                        "caption": "Age and Freshness Lifetime",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": 179,
+                                        "y": -241
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#93b6b6",
+                                    "children": [
+
+                                    ]
+                                },
+                                {
+                                    "id": "9ffd2b3f-3521-4c2a-87fc-606ff5156d02",
+                                    "parentId": "1431f17b-62f4-4afe-83a7-f5087fcfffdc",
+                                    "text": {
+                                        "caption": "Age Computation",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": 308.8,
+                                        "y": -45.6
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#93b6b6",
+                                    "children": [
+                                        {
+                                            "id": "9aaddb43-092b-41a9-b672-d2f3886e5f54",
+                                            "parentId": "9ffd2b3f-3521-4c2a-87fc-606ff5156d02",
+                                            "text": {
+                                                "caption": "Apparent age is based on the Date header",
+                                                "font": {
+                                                    "style": "normal",
+                                                    "weight": "normal",
+                                                    "decoration": "none",
+                                                    "size": 15,
+                                                    "color": "#000000"
+                                                }
+                                            },
+                                            "offset": {
+                                                "x": 197,
+                                                "y": -88
+                                            },
+                                            "foldChildren": false,
+                                            "branchColor": "#93b6b6",
+                                            "children": [
+
+                                            ]
+                                        },
+                                        {
+                                            "id": "cfebb728-dc98-4b71-8ca6-1e627a056fd3",
+                                            "parentId": "9ffd2b3f-3521-4c2a-87fc-606ff5156d02",
+                                            "text": {
+                                                "caption": "Hop-by-hop age calculations",
+                                                "font": {
+                                                    "style": "normal",
+                                                    "weight": "normal",
+                                                    "decoration": "none",
+                                                    "size": 15,
+                                                    "color": "#000000"
+                                                }
+                                            },
+                                            "offset": {
+                                                "x": 210,
+                                                "y": -31
+                                            },
+                                            "foldChildren": false,
+                                            "branchColor": "#93b6b6",
+                                            "children": [
+
+                                            ]
+                                        },
+                                        {
+                                            "id": "867055bc-3d72-4bed-8a9b-b4c4bf211582",
+                                            "parentId": "9ffd2b3f-3521-4c2a-87fc-606ff5156d02",
+                                            "text": {
+                                                "caption": "Compensating for network delays",
+                                                "font": {
+                                                    "style": "normal",
+                                                    "weight": "normal",
+                                                    "decoration": "none",
+                                                    "size": 15,
+                                                    "color": "#000000"
+                                                }
+                                            },
+                                            "offset": {
+                                                "x": 210.8,
+                                                "y": 23.4
+                                            },
+                                            "foldChildren": false,
+                                            "branchColor": "#93b6b6",
+                                            "children": [
+
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "8bec2176-b639-4ae0-b3ee-2536b1ddd870",
+                                    "parentId": "1431f17b-62f4-4afe-83a7-f5087fcfffdc",
+                                    "text": {
+                                        "caption": "Complete Age-Calculation Algorithm",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": 256.8,
+                                        "y": 0
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#93b6b6",
+                                    "children": [
+
+                                    ]
+                                },
+                                {
+                                    "id": "8d1b084c-af61-4427-aebc-251c44b9245a",
+                                    "parentId": "1431f17b-62f4-4afe-83a7-f5087fcfffdc",
+                                    "text": {
+                                        "caption": "Freshness Lifetime Computation",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": 252,
+                                        "y": -129
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#93b6b6",
+                                    "children": [
+
+                                    ]
+                                },
+                                {
+                                    "id": "09d94e02-b0d4-4052-b7fc-ebb3dbd55562",
+                                    "parentId": "1431f17b-62f4-4afe-83a7-f5087fcfffdc",
+                                    "text": {
+                                        "caption": "Complete Server-Freshness Algorithm",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": 239,
+                                        "y": -183
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#93b6b6",
+                                    "children": [
+
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "e8f400bc-9b0e-4eec-99a0-627e9494ef08",
+                            "parentId": "511334d3-7143-4087-882c-a2b79bdd0d1c",
+                            "text": {
+                                "caption": "Caches and Advertising",
+                                "font": {
+                                    "style": "normal",
+                                    "weight": "normal",
+                                    "decoration": "none",
+                                    "size": 15,
+                                    "color": "#000000"
+                                }
+                            },
+                            "offset": {
+                                "x": 718,
+                                "y": 519.9666748046875
+                            },
+                            "foldChildren": false,
+                            "branchColor": "#93b6b6",
+                            "children": [
+                                {
+                                    "id": "b3b767ac-5a30-493f-960f-14c37d212514",
+                                    "parentId": "e8f400bc-9b0e-4eec-99a0-627e9494ef08",
+                                    "text": {
+                                        "caption": "The Advertiser’s Dilemma",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": 233,
+                                        "y": -62
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#93b6b6",
+                                    "children": [
+
+                                    ]
+                                },
+                                {
+                                    "id": "7b3c39d4-1f91-4401-a48a-824ef0696ac8",
+                                    "parentId": "e8f400bc-9b0e-4eec-99a0-627e9494ef08",
+                                    "text": {
+                                        "caption": "The Publisher’s Response",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": 245,
+                                        "y": -2
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#93b6b6",
+                                    "children": [
+
+                                    ]
+                                },
+                                {
+                                    "id": "34e58ad3-f52f-4d36-8d45-39e74ae6ea1b",
+                                    "parentId": "e8f400bc-9b0e-4eec-99a0-627e9494ef08",
+                                    "text": {
+                                        "caption": "Log Migration",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": 283,
+                                        "y": 58
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#93b6b6",
+                                    "children": [
+
+                                    ]
+                                },
+                                {
+                                    "id": "d38c66d9-b797-4ee0-8225-d08f1252275a",
+                                    "parentId": "e8f400bc-9b0e-4eec-99a0-627e9494ef08",
+                                    "text": {
+                                        "caption": "Hit Metering and Usage Limiting",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": 270,
+                                        "y": 100.9666748046875
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#93b6b6",
+                                    "children": [
+
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "e0f89aa7-5158-4914-a04c-f32d8c87f491",
+                    "parentId": "f0674063-41aa-4f42-93f8-8d9ddcb191ca",
+                    "text": {
+                        "caption": "Integration Points",
+                        "font": {
+                            "style": "normal",
+                            "weight": "normal",
+                            "decoration": "none",
+                            "size": 15,
+                            "color": "#000000"
+                        }
+                    },
+                    "offset": {
+                        "x": -700,
+                        "y": -879
+                    },
+                    "foldChildren": false,
+                    "branchColor": "#f1075b",
+                    "children": [
+
+                    ]
+                },
+                {
+                    "id": "f7a60e73-48e2-4f00-a841-73e192ef0130",
+                    "parentId": "f0674063-41aa-4f42-93f8-8d9ddcb191ca",
+                    "text": {
+                        "caption": "Web Robots",
+                        "font": {
+                            "style": "normal",
+                            "weight": "normal",
+                            "decoration": "none",
+                            "size": 15,
+                            "color": "#000000"
+                        }
+                    },
+                    "offset": {
+                        "x": -162,
+                        "y": 585
+                    },
+                    "foldChildren": false,
+                    "branchColor": "#e662db",
+                    "children": [
+
+                    ]
+                },
+                {
+                    "id": "196cd879-e0f4-4651-9d53-f9c8a489a49c",
+                    "parentId": "f0674063-41aa-4f42-93f8-8d9ddcb191ca",
+                    "text": {
+                        "caption": "HTTP-NG",
+                        "font": {
+                            "style": "normal",
+                            "weight": "normal",
+                            "decoration": "none",
+                            "size": 15,
+                            "color": "#000000"
+                        }
+                    },
+                    "offset": {
+                        "x": -493,
+                        "y": 35
+                    },
+                    "foldChildren": false,
+                    "branchColor": "#058ba5",
+                    "children": [
+
+                    ]
+                }
+            ]
+        }
+    },
+    "dates": {
+        "created": 1357870363798,
+        "modified": 1357880123249
+    },
+    "dimensions": {
+        "x": 4000,
+        "y": 2000
+    },
+    "autosave": true
+}
