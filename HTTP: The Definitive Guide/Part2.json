@@ -3225,13 +3225,467 @@
                         }
                     },
                     "offset": {
-                        "x": -700,
-                        "y": -879
+                        "x": -589,
+                        "y": -901
                     },
                     "foldChildren": false,
                     "branchColor": "#f1075b",
                     "children": [
+                        {
+                            "id": "f1a73724-cf01-40a4-8352-888ae2dc6d03",
+                            "parentId": "e0f89aa7-5158-4914-a04c-f32d8c87f491",
+                            "text": {
+                                "caption": "Gateways",
+                                "font": {
+                                    "style": "normal",
+                                    "weight": "normal",
+                                    "decoration": "none",
+                                    "size": 15,
+                                    "color": "#000000"
+                                }
+                            },
+                            "offset": {
+                                "x": -330,
+                                "y": -74
+                            },
+                            "foldChildren": false,
+                            "branchColor": "#f1075b",
+                            "children": [
+                                {
+                                    "id": "d938364e-63d1-48ae-9de2-3bee6b1c3771",
+                                    "parentId": "f1a73724-cf01-40a4-8352-888ae2dc6d03",
+                                    "text": {
+                                        "caption": "Client-Side and Server-Side Gateways",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": -186,
+                                        "y": -13
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#f1075b",
+                                    "children": [
 
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "e11f5f77-3fef-42f5-802c-aa80465a7bf8",
+                            "parentId": "e0f89aa7-5158-4914-a04c-f32d8c87f491",
+                            "text": {
+                                "caption": "Application interfaces",
+                                "font": {
+                                    "style": "normal",
+                                    "weight": "normal",
+                                    "decoration": "none",
+                                    "size": 15,
+                                    "color": "#000000"
+                                }
+                            },
+                            "offset": {
+                                "x": -315,
+                                "y": 104
+                            },
+                            "foldChildren": false,
+                            "branchColor": "#f1075b",
+                            "children": [
+
+                            ]
+                        },
+                        {
+                            "id": "3887bc79-059a-4eaa-ae91-77332bdea59d",
+                            "parentId": "e0f89aa7-5158-4914-a04c-f32d8c87f491",
+                            "text": {
+                                "caption": "Tunnels",
+                                "font": {
+                                    "style": "normal",
+                                    "weight": "normal",
+                                    "decoration": "none",
+                                    "size": 15,
+                                    "color": "#000000"
+                                }
+                            },
+                            "offset": {
+                                "x": -338,
+                                "y": 214
+                            },
+                            "foldChildren": false,
+                            "branchColor": "#f1075b",
+                            "children": [
+                                {
+                                    "id": "2fa7cba5-2a9b-4fc2-9867-894b8d1b43d8",
+                                    "parentId": "3887bc79-059a-4eaa-ae91-77332bdea59d",
+                                    "text": {
+                                        "caption": "Establishing HTTP Tunnels with CONNECT",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": -228,
+                                        "y": -87
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#f1075b",
+                                    "children": [
+                                        {
+                                            "id": "6819ce00-b17a-4142-9c95-b4f248e33614",
+                                            "parentId": "2fa7cba5-2a9b-4fc2-9867-894b8d1b43d8",
+                                            "text": {
+                                                "caption": "CONNECT requests",
+                                                "font": {
+                                                    "style": "normal",
+                                                    "weight": "normal",
+                                                    "decoration": "none",
+                                                    "size": 15,
+                                                    "color": "#000000"
+                                                }
+                                            },
+                                            "offset": {
+                                                "x": -181,
+                                                "y": 13
+                                            },
+                                            "foldChildren": false,
+                                            "branchColor": "#f1075b",
+                                            "children": [
+
+                                            ]
+                                        },
+                                        {
+                                            "id": "c69b2b1e-2fc7-469c-b932-a7b38b6ba973",
+                                            "parentId": "2fa7cba5-2a9b-4fc2-9867-894b8d1b43d8",
+                                            "text": {
+                                                "caption": "CONNECT responses",
+                                                "font": {
+                                                    "style": "normal",
+                                                    "weight": "normal",
+                                                    "decoration": "none",
+                                                    "size": 15,
+                                                    "color": "#000000"
+                                                }
+                                            },
+                                            "offset": {
+                                                "x": -186,
+                                                "y": 50
+                                            },
+                                            "foldChildren": false,
+                                            "branchColor": "#f1075b",
+                                            "children": [
+
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "015c2417-7e4b-4532-ae74-d05785c44f22",
+                                    "parentId": "3887bc79-059a-4eaa-ae91-77332bdea59d",
+                                    "text": {
+                                        "caption": "Data Tunneling, Timing, and Connection Management",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": -234,
+                                        "y": -17
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#f1075b",
+                                    "children": [
+
+                                    ]
+                                },
+                                {
+                                    "id": "74ea9520-57c7-458a-b7ca-b0026f400e38",
+                                    "parentId": "3887bc79-059a-4eaa-ae91-77332bdea59d",
+                                    "text": {
+                                        "caption": "SSL Tunneling",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": -221,
+                                        "y": 67
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#f1075b",
+                                    "children": [
+
+                                    ]
+                                },
+                                {
+                                    "id": "d8e0d350-2836-4b88-b841-91ccf426ade5",
+                                    "parentId": "3887bc79-059a-4eaa-ae91-77332bdea59d",
+                                    "text": {
+                                        "caption": "SSL Tunneling Versus HTTP/HTTPS Gateways",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": -243,
+                                        "y": 104
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#f1075b",
+                                    "children": [
+
+                                    ]
+                                },
+                                {
+                                    "id": "c8868a35-d0dd-456d-a7bf-c787b0618d34",
+                                    "parentId": "3887bc79-059a-4eaa-ae91-77332bdea59d",
+                                    "text": {
+                                        "caption": "Tunnel Authentication",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": -231,
+                                        "y": 173
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#f1075b",
+                                    "children": [
+
+                                    ]
+                                },
+                                {
+                                    "id": "fd9fbd78-8360-465f-a8e3-a6cf73c5d731",
+                                    "parentId": "3887bc79-059a-4eaa-ae91-77332bdea59d",
+                                    "text": {
+                                        "caption": "Tunnel Security Considerations",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": -232,
+                                        "y": 210
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#f1075b",
+                                    "children": [
+
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "bb2850dd-05f4-49c3-8745-48fbf0138cf2",
+                            "parentId": "e0f89aa7-5158-4914-a04c-f32d8c87f491",
+                            "text": {
+                                "caption": "Relays",
+                                "font": {
+                                    "style": "normal",
+                                    "weight": "normal",
+                                    "decoration": "none",
+                                    "size": 15,
+                                    "color": "#000000"
+                                }
+                            },
+                            "offset": {
+                                "x": -325,
+                                "y": 162
+                            },
+                            "foldChildren": false,
+                            "branchColor": "#f1075b",
+                            "children": [
+
+                            ]
+                        },
+                        {
+                            "id": "99931eaa-dd92-4a67-a2fb-d4f30a5cbef9",
+                            "parentId": "e0f89aa7-5158-4914-a04c-f32d8c87f491",
+                            "text": {
+                                "caption": "Protocol Gateways",
+                                "font": {
+                                    "style": "normal",
+                                    "weight": "normal",
+                                    "decoration": "none",
+                                    "size": 15,
+                                    "color": "#000000"
+                                }
+                            },
+                            "offset": {
+                                "x": -524,
+                                "y": -17
+                            },
+                            "foldChildren": false,
+                            "branchColor": "#f1075b",
+                            "children": [
+                                {
+                                    "id": "ed1ed8d9-dce0-4a01-b837-b497c54a1ff9",
+                                    "parentId": "99931eaa-dd92-4a67-a2fb-d4f30a5cbef9",
+                                    "text": {
+                                        "caption": "HTTP/*: Server-Side Web Gateways",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": -188,
+                                        "y": -67
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#f1075b",
+                                    "children": [
+
+                                    ]
+                                },
+                                {
+                                    "id": "eaafff8b-f333-44e2-be98-8e19d01fbc5c",
+                                    "parentId": "99931eaa-dd92-4a67-a2fb-d4f30a5cbef9",
+                                    "text": {
+                                        "caption": "HTTP/HTTPS: Server-Side Security Gateways",
+                                        "font": {
+                                            "weight": "normal",
+                                            "style": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": -191,
+                                        "y": -8
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#f1075b",
+                                    "children": [
+
+                                    ]
+                                },
+                                {
+                                    "id": "bcffeb8e-9939-4464-b4a4-a24342b68378",
+                                    "parentId": "99931eaa-dd92-4a67-a2fb-d4f30a5cbef9",
+                                    "text": {
+                                        "caption": "HTTPS/HTTP: Client-Side Security Accelerator Gateways",
+                                        "font": {
+                                            "weight": "normal",
+                                            "style": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": -195,
+                                        "y": 58
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#f1075b",
+                                    "children": [
+
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "65af2fba-8a6a-4a1b-8e59-82f9f9fbad13",
+                            "parentId": "e0f89aa7-5158-4914-a04c-f32d8c87f491",
+                            "text": {
+                                "caption": "Resource Gateways",
+                                "font": {
+                                    "style": "normal",
+                                    "weight": "normal",
+                                    "decoration": "none",
+                                    "size": 15,
+                                    "color": "#000000"
+                                }
+                            },
+                            "offset": {
+                                "x": -324,
+                                "y": 53
+                            },
+                            "foldChildren": false,
+                            "branchColor": "#f1075b",
+                            "children": [
+                                {
+                                    "id": "3a266f17-0aa8-4a24-ba0e-3958c8536000",
+                                    "parentId": "65af2fba-8a6a-4a1b-8e59-82f9f9fbad13",
+                                    "text": {
+                                        "caption": "Server Extension APIs",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": -192,
+                                        "y": 31
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#f1075b",
+                                    "children": [
+
+                                    ]
+                                },
+                                {
+                                    "id": "919bceb7-95c3-4861-b9e0-6d1436c1aaa5",
+                                    "parentId": "65af2fba-8a6a-4a1b-8e59-82f9f9fbad13",
+                                    "text": {
+                                        "caption": "Common Gateway Interface (CGI)",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": -188,
+                                        "y": -28
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#f1075b",
+                                    "children": [
+
+                                    ]
+                                }
+                            ]
+                        }
                     ]
                 },
                 {
@@ -3248,13 +3702,1335 @@
                         }
                     },
                     "offset": {
-                        "x": -162,
-                        "y": 585
+                        "x": -270,
+                        "y": -203
                     },
                     "foldChildren": false,
                     "branchColor": "#e662db",
                     "children": [
+                        {
+                            "id": "dcb277ba-0135-4005-ab81-24b42fd4d2e7",
+                            "parentId": "f7a60e73-48e2-4f00-a841-73e192ef0130",
+                            "text": {
+                                "caption": "Crawlers and Crawling",
+                                "font": {
+                                    "style": "normal",
+                                    "weight": "normal",
+                                    "decoration": "none",
+                                    "size": 15,
+                                    "color": "#000000"
+                                }
+                            },
+                            "offset": {
+                                "x": -207,
+                                "y": -371
+                            },
+                            "foldChildren": false,
+                            "branchColor": "#e662db",
+                            "children": [
+                                {
+                                    "id": "f29520ba-5a5c-4354-8dc9-d44aa10fdca5",
+                                    "parentId": "dcb277ba-0135-4005-ab81-24b42fd4d2e7",
+                                    "text": {
+                                        "caption": "Where to Start: The “Root Set”",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": -223,
+                                        "y": -165
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#e662db",
+                                    "children": [
 
+                                    ]
+                                },
+                                {
+                                    "id": "76520fb2-e420-4d9b-9ff5-b24005077b16",
+                                    "parentId": "dcb277ba-0135-4005-ab81-24b42fd4d2e7",
+                                    "text": {
+                                        "caption": "Extracting Links and Normalizing Relative Links",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": -222,
+                                        "y": -108
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#e662db",
+                                    "children": [
+
+                                    ]
+                                },
+                                {
+                                    "id": "3e19b913-000d-4ced-a3de-77a6505f6b0d",
+                                    "parentId": "dcb277ba-0135-4005-ab81-24b42fd4d2e7",
+                                    "text": {
+                                        "caption": "Cycle Avoidance",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": -198,
+                                        "y": -41
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#e662db",
+                                    "children": [
+
+                                    ]
+                                },
+                                {
+                                    "id": "f53b5c9c-a935-4be8-8a81-36c82a2a69b0",
+                                    "parentId": "dcb277ba-0135-4005-ab81-24b42fd4d2e7",
+                                    "text": {
+                                        "caption": "Loops and Dups",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": -203,
+                                        "y": -3
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#e662db",
+                                    "children": [
+
+                                    ]
+                                },
+                                {
+                                    "id": "63ce0b4c-309c-461e-a30e-40d3691591e2",
+                                    "parentId": "dcb277ba-0135-4005-ab81-24b42fd4d2e7",
+                                    "text": {
+                                        "caption": "Trails of Breadcrumbs",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": -210,
+                                        "y": 38
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#e662db",
+                                    "children": [
+                                        {
+                                            "id": "7b80bada-8a99-47e8-84a5-57240cdc66a5",
+                                            "parentId": "63ce0b4c-309c-461e-a30e-40d3691591e2",
+                                            "text": {
+                                                "caption": "Trees and hash tables",
+                                                "font": {
+                                                    "style": "normal",
+                                                    "weight": "normal",
+                                                    "decoration": "none",
+                                                    "size": 15,
+                                                    "color": "#000000"
+                                                }
+                                            },
+                                            "offset": {
+                                                "x": -208,
+                                                "y": -89
+                                            },
+                                            "foldChildren": false,
+                                            "branchColor": "#e662db",
+                                            "children": [
+
+                                            ]
+                                        },
+                                        {
+                                            "id": "81d41e09-38bc-4233-97de-6cacedcf98b9",
+                                            "parentId": "63ce0b4c-309c-461e-a30e-40d3691591e2",
+                                            "text": {
+                                                "caption": "Lossy presence bit maps",
+                                                "font": {
+                                                    "style": "normal",
+                                                    "weight": "normal",
+                                                    "decoration": "none",
+                                                    "size": 15,
+                                                    "color": "#000000"
+                                                }
+                                            },
+                                            "offset": {
+                                                "x": -206,
+                                                "y": -50
+                                            },
+                                            "foldChildren": false,
+                                            "branchColor": "#e662db",
+                                            "children": [
+
+                                            ]
+                                        },
+                                        {
+                                            "id": "d1968ec2-2536-41fe-8fcd-9b9dcbf04830",
+                                            "parentId": "63ce0b4c-309c-461e-a30e-40d3691591e2",
+                                            "text": {
+                                                "caption": "Checkpoints",
+                                                "font": {
+                                                    "style": "normal",
+                                                    "weight": "normal",
+                                                    "decoration": "none",
+                                                    "size": 15,
+                                                    "color": "#000000"
+                                                }
+                                            },
+                                            "offset": {
+                                                "x": -193,
+                                                "y": 1
+                                            },
+                                            "foldChildren": false,
+                                            "branchColor": "#e662db",
+                                            "children": [
+
+                                            ]
+                                        },
+                                        {
+                                            "id": "78cef905-0940-4fef-bfc1-362ff62bbb79",
+                                            "parentId": "63ce0b4c-309c-461e-a30e-40d3691591e2",
+                                            "text": {
+                                                "caption": "Partitioning",
+                                                "font": {
+                                                    "style": "normal",
+                                                    "weight": "normal",
+                                                    "decoration": "none",
+                                                    "size": 15,
+                                                    "color": "#000000"
+                                                }
+                                            },
+                                            "offset": {
+                                                "x": -188,
+                                                "y": 42
+                                            },
+                                            "foldChildren": false,
+                                            "branchColor": "#e662db",
+                                            "children": [
+
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "41261e3c-fe71-4882-ac6a-7aeb0a4725c8",
+                                    "parentId": "dcb277ba-0135-4005-ab81-24b42fd4d2e7",
+                                    "text": {
+                                        "caption": "Aliases and Robot Cycles",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": -209,
+                                        "y": 77
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#e662db",
+                                    "children": [
+
+                                    ]
+                                },
+                                {
+                                    "id": "ecefeaa5-84da-42fe-948f-76bac981ce67",
+                                    "parentId": "dcb277ba-0135-4005-ab81-24b42fd4d2e7",
+                                    "text": {
+                                        "caption": "Canonicalizing URLs",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": -199,
+                                        "y": 133
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#e662db",
+                                    "children": [
+
+                                    ]
+                                },
+                                {
+                                    "id": "3f386cdc-3cbc-4142-a380-b70945452dfa",
+                                    "parentId": "dcb277ba-0135-4005-ab81-24b42fd4d2e7",
+                                    "text": {
+                                        "caption": "Filesystem Link Cycles",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": -199,
+                                        "y": 173
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#e662db",
+                                    "children": [
+
+                                    ]
+                                },
+                                {
+                                    "id": "75fff8ad-32fb-4faa-a63a-196ff96fe4ac",
+                                    "parentId": "dcb277ba-0135-4005-ab81-24b42fd4d2e7",
+                                    "text": {
+                                        "caption": "Dynamic Virtual Web Spaces",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": -198,
+                                        "y": 211
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#e662db",
+                                    "children": [
+
+                                    ]
+                                },
+                                {
+                                    "id": "c2483c96-38e4-43ca-ad9c-49968c8da876",
+                                    "parentId": "dcb277ba-0135-4005-ab81-24b42fd4d2e7",
+                                    "text": {
+                                        "caption": "Avoiding Loops and Dups",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": -199,
+                                        "y": 263
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#e662db",
+                                    "children": [
+
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "843ff443-7005-4720-b55e-b1d20ef2bf13",
+                            "parentId": "f7a60e73-48e2-4f00-a841-73e192ef0130",
+                            "text": {
+                                "caption": "Robotic HTTP",
+                                "font": {
+                                    "style": "normal",
+                                    "weight": "normal",
+                                    "decoration": "none",
+                                    "size": 15,
+                                    "color": "#000000"
+                                }
+                            },
+                            "offset": {
+                                "x": -216,
+                                "y": 85
+                            },
+                            "foldChildren": false,
+                            "branchColor": "#e662db",
+                            "children": [
+                                {
+                                    "id": "a6629f54-67fa-4be6-8f76-1f89f3de0f7e",
+                                    "parentId": "843ff443-7005-4720-b55e-b1d20ef2bf13",
+                                    "text": {
+                                        "caption": "Identifying Request Headers",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": -203,
+                                        "y": -136
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#e662db",
+                                    "children": [
+                                        {
+                                            "id": "3463977c-3724-4ab9-9b8d-2bd5d533780a",
+                                            "parentId": "a6629f54-67fa-4be6-8f76-1f89f3de0f7e",
+                                            "text": {
+                                                "caption": "User-Agent",
+                                                "font": {
+                                                    "style": "normal",
+                                                    "weight": "normal",
+                                                    "decoration": "none",
+                                                    "size": 15,
+                                                    "color": "#000000"
+                                                }
+                                            },
+                                            "offset": {
+                                                "x": -101,
+                                                "y": -27
+                                            },
+                                            "foldChildren": false,
+                                            "branchColor": "#e662db",
+                                            "children": [
+
+                                            ]
+                                        },
+                                        {
+                                            "id": "361cc899-ed8f-43a6-bf8d-57726b30e833",
+                                            "parentId": "a6629f54-67fa-4be6-8f76-1f89f3de0f7e",
+                                            "text": {
+                                                "caption": "From",
+                                                "font": {
+                                                    "style": "normal",
+                                                    "weight": "normal",
+                                                    "decoration": "none",
+                                                    "size": 15,
+                                                    "color": "#000000"
+                                                }
+                                            },
+                                            "offset": {
+                                                "x": -100,
+                                                "y": 5
+                                            },
+                                            "foldChildren": false,
+                                            "branchColor": "#e662db",
+                                            "children": [
+
+                                            ]
+                                        },
+                                        {
+                                            "id": "75abb79e-a588-4afd-b9c3-1671f1de9279",
+                                            "parentId": "a6629f54-67fa-4be6-8f76-1f89f3de0f7e",
+                                            "text": {
+                                                "caption": "Accept",
+                                                "font": {
+                                                    "style": "normal",
+                                                    "weight": "normal",
+                                                    "decoration": "none",
+                                                    "size": 15,
+                                                    "color": "#000000"
+                                                }
+                                            },
+                                            "offset": {
+                                                "x": -99,
+                                                "y": 35
+                                            },
+                                            "foldChildren": false,
+                                            "branchColor": "#e662db",
+                                            "children": [
+
+                                            ]
+                                        },
+                                        {
+                                            "id": "c6e427d4-0562-4285-a576-a7564b9d1a27",
+                                            "parentId": "a6629f54-67fa-4be6-8f76-1f89f3de0f7e",
+                                            "text": {
+                                                "caption": "Referer",
+                                                "font": {
+                                                    "style": "normal",
+                                                    "weight": "normal",
+                                                    "decoration": "none",
+                                                    "size": 15,
+                                                    "color": "#000000"
+                                                }
+                                            },
+                                            "offset": {
+                                                "x": -97,
+                                                "y": 67
+                                            },
+                                            "foldChildren": false,
+                                            "branchColor": "#e662db",
+                                            "children": [
+
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "8334e6eb-b23f-47de-a080-28dfe8af65eb",
+                                    "parentId": "843ff443-7005-4720-b55e-b1d20ef2bf13",
+                                    "text": {
+                                        "caption": "Virtual Hosting",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": -183,
+                                        "y": -79
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#e662db",
+                                    "children": [
+
+                                    ]
+                                },
+                                {
+                                    "id": "9ba1dd09-e0a4-4c31-94d9-58eea90e89d8",
+                                    "parentId": "843ff443-7005-4720-b55e-b1d20ef2bf13",
+                                    "text": {
+                                        "caption": "Conditional Requests",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": -206,
+                                        "y": -38
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#e662db",
+                                    "children": [
+
+                                    ]
+                                },
+                                {
+                                    "id": "a6915c4e-10fd-4636-8bcc-dfa8746ea16e",
+                                    "parentId": "843ff443-7005-4720-b55e-b1d20ef2bf13",
+                                    "text": {
+                                        "caption": "Response Handling",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": -194,
+                                        "y": -4
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#e662db",
+                                    "children": [
+                                        {
+                                            "id": "5d72954c-4588-4148-b048-c04672fd1c77",
+                                            "parentId": "a6915c4e-10fd-4636-8bcc-dfa8746ea16e",
+                                            "text": {
+                                                "caption": "Status codes",
+                                                "font": {
+                                                    "style": "normal",
+                                                    "weight": "normal",
+                                                    "decoration": "none",
+                                                    "size": 15,
+                                                    "color": "#000000"
+                                                }
+                                            },
+                                            "offset": {
+                                                "x": -118,
+                                                "y": -28
+                                            },
+                                            "foldChildren": false,
+                                            "branchColor": "#e662db",
+                                            "children": [
+
+                                            ]
+                                        },
+                                        {
+                                            "id": "6fef8d64-0560-4714-a8b2-b4fa12b285b7",
+                                            "parentId": "a6915c4e-10fd-4636-8bcc-dfa8746ea16e",
+                                            "text": {
+                                                "caption": "Entities",
+                                                "font": {
+                                                    "style": "normal",
+                                                    "weight": "normal",
+                                                    "decoration": "none",
+                                                    "size": 15,
+                                                    "color": "#000000"
+                                                }
+                                            },
+                                            "offset": {
+                                                "x": -112,
+                                                "y": 4
+                                            },
+                                            "foldChildren": false,
+                                            "branchColor": "#e662db",
+                                            "children": [
+
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "a95fb8ae-757f-4a59-8efb-994df635bfb5",
+                                    "parentId": "843ff443-7005-4720-b55e-b1d20ef2bf13",
+                                    "text": {
+                                        "caption": "User-Agent Targeting",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": -190,
+                                        "y": 39
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#e662db",
+                                    "children": [
+
+                                    ]
+                                },
+                                {
+                                    "id": "8969cb5d-a655-456d-888c-98d4c4ccdc75",
+                                    "parentId": "843ff443-7005-4720-b55e-b1d20ef2bf13",
+                                    "text": {
+                                        "caption": "Misbehaving Robots",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": -197,
+                                        "y": 77
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#e662db",
+                                    "children": [
+                                        {
+                                            "id": "f4fc9c77-2d6e-4ed6-b119-58fc380faf00",
+                                            "parentId": "8969cb5d-a655-456d-888c-98d4c4ccdc75",
+                                            "text": {
+                                                "caption": "Runaway robots",
+                                                "font": {
+                                                    "style": "normal",
+                                                    "weight": "normal",
+                                                    "decoration": "none",
+                                                    "size": 15,
+                                                    "color": "#000000"
+                                                }
+                                            },
+                                            "offset": {
+                                                "x": -130,
+                                                "y": -33
+                                            },
+                                            "foldChildren": false,
+                                            "branchColor": "#e662db",
+                                            "children": [
+
+                                            ]
+                                        },
+                                        {
+                                            "id": "e4ab834f-d20e-4b79-a88a-180ee97b6378",
+                                            "parentId": "8969cb5d-a655-456d-888c-98d4c4ccdc75",
+                                            "text": {
+                                                "caption": "Stale URLs",
+                                                "font": {
+                                                    "style": "normal",
+                                                    "weight": "normal",
+                                                    "decoration": "none",
+                                                    "size": 15,
+                                                    "color": "#000000"
+                                                }
+                                            },
+                                            "offset": {
+                                                "x": -123,
+                                                "y": 2
+                                            },
+                                            "foldChildren": false,
+                                            "branchColor": "#e662db",
+                                            "children": [
+
+                                            ]
+                                        },
+                                        {
+                                            "id": "2cc91fdd-d19d-4477-bc5a-fb98e3b70383",
+                                            "parentId": "8969cb5d-a655-456d-888c-98d4c4ccdc75",
+                                            "text": {
+                                                "caption": "Long, wrong URLs",
+                                                "font": {
+                                                    "style": "normal",
+                                                    "weight": "normal",
+                                                    "decoration": "none",
+                                                    "size": 15,
+                                                    "color": "#000000"
+                                                }
+                                            },
+                                            "offset": {
+                                                "x": -140,
+                                                "y": 35
+                                            },
+                                            "foldChildren": false,
+                                            "branchColor": "#e662db",
+                                            "children": [
+
+                                            ]
+                                        },
+                                        {
+                                            "id": "4bd86fa7-588b-454a-8d3d-b3e53bc38fd7",
+                                            "parentId": "8969cb5d-a655-456d-888c-98d4c4ccdc75",
+                                            "text": {
+                                                "caption": "Nosy robots*",
+                                                "font": {
+                                                    "style": "normal",
+                                                    "weight": "normal",
+                                                    "decoration": "none",
+                                                    "size": 15,
+                                                    "color": "#000000"
+                                                }
+                                            },
+                                            "offset": {
+                                                "x": -127,
+                                                "y": 68
+                                            },
+                                            "foldChildren": false,
+                                            "branchColor": "#e662db",
+                                            "children": [
+
+                                            ]
+                                        },
+                                        {
+                                            "id": "d0d4b127-0726-454c-92ee-4747ff3cf582",
+                                            "parentId": "8969cb5d-a655-456d-888c-98d4c4ccdc75",
+                                            "text": {
+                                                "caption": "Dynamic gateway access",
+                                                "font": {
+                                                    "style": "normal",
+                                                    "weight": "normal",
+                                                    "decoration": "none",
+                                                    "size": 15,
+                                                    "color": "#000000"
+                                                }
+                                            },
+                                            "offset": {
+                                                "x": -170,
+                                                "y": 101
+                                            },
+                                            "foldChildren": false,
+                                            "branchColor": "#e662db",
+                                            "children": [
+
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "a70ca3b2-2bb7-4116-bc3a-4b4b070d3049",
+                                    "parentId": "843ff443-7005-4720-b55e-b1d20ef2bf13",
+                                    "text": {
+                                        "caption": "Excluding Robots",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": -349,
+                                        "y": 242
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#e662db",
+                                    "children": [
+                                        {
+                                            "id": "2bac100d-45fe-498f-acf4-fa96a0cde0c0",
+                                            "parentId": "a70ca3b2-2bb7-4116-bc3a-4b4b070d3049",
+                                            "text": {
+                                                "caption": "The Robots Exclusion Standard",
+                                                "font": {
+                                                    "style": "normal",
+                                                    "weight": "normal",
+                                                    "decoration": "none",
+                                                    "size": 15,
+                                                    "color": "#000000"
+                                                }
+                                            },
+                                            "offset": {
+                                                "x": -256,
+                                                "y": -220
+                                            },
+                                            "foldChildren": false,
+                                            "branchColor": "#e662db",
+                                            "children": [
+
+                                            ]
+                                        },
+                                        {
+                                            "id": "a7408ff4-4bf4-4c52-9cbb-d99fa980cca0",
+                                            "parentId": "a70ca3b2-2bb7-4116-bc3a-4b4b070d3049",
+                                            "text": {
+                                                "caption": "Web Sites and robots.txt Files",
+                                                "font": {
+                                                    "style": "normal",
+                                                    "weight": "normal",
+                                                    "decoration": "none",
+                                                    "size": 15,
+                                                    "color": "#000000"
+                                                }
+                                            },
+                                            "offset": {
+                                                "x": -265,
+                                                "y": -168
+                                            },
+                                            "foldChildren": false,
+                                            "branchColor": "#e662db",
+                                            "children": [
+                                                {
+                                                    "id": "c7611ebf-83ee-4bfb-a388-f3176bd3f582",
+                                                    "parentId": "a7408ff4-4bf4-4c52-9cbb-d99fa980cca0",
+                                                    "text": {
+                                                        "caption": "Fetching robots.txt",
+                                                        "font": {
+                                                            "style": "normal",
+                                                            "weight": "normal",
+                                                            "decoration": "none",
+                                                            "size": 15,
+                                                            "color": "#000000"
+                                                        }
+                                                    },
+                                                    "offset": {
+                                                        "x": -167,
+                                                        "y": 0
+                                                    },
+                                                    "foldChildren": false,
+                                                    "branchColor": "#e662db",
+                                                    "children": [
+
+                                                    ]
+                                                },
+                                                {
+                                                    "id": "023cd8e7-dae8-4093-a076-10a89757bfb9",
+                                                    "parentId": "a7408ff4-4bf4-4c52-9cbb-d99fa980cca0",
+                                                    "text": {
+                                                        "caption": "Response codes",
+                                                        "font": {
+                                                            "style": "normal",
+                                                            "weight": "normal",
+                                                            "decoration": "none",
+                                                            "size": 15,
+                                                            "color": "#000000"
+                                                        }
+                                                    },
+                                                    "offset": {
+                                                        "x": -164,
+                                                        "y": 31
+                                                    },
+                                                    "foldChildren": false,
+                                                    "branchColor": "#e662db",
+                                                    "children": [
+
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": "dc14265f-29b7-483d-ba36-5a6c7cb5fdea",
+                                            "parentId": "a70ca3b2-2bb7-4116-bc3a-4b4b070d3049",
+                                            "text": {
+                                                "caption": "robots.txt File Format",
+                                                "font": {
+                                                    "style": "normal",
+                                                    "weight": "normal",
+                                                    "decoration": "none",
+                                                    "size": 15,
+                                                    "color": "#000000"
+                                                }
+                                            },
+                                            "offset": {
+                                                "x": -247,
+                                                "y": -61
+                                            },
+                                            "foldChildren": false,
+                                            "branchColor": "#e662db",
+                                            "children": [
+                                                {
+                                                    "id": "d03d799c-a546-4561-8af3-32ab5e32bd7e",
+                                                    "parentId": "dc14265f-29b7-483d-ba36-5a6c7cb5fdea",
+                                                    "text": {
+                                                        "caption": "The User-Agent line",
+                                                        "font": {
+                                                            "style": "normal",
+                                                            "weight": "normal",
+                                                            "decoration": "none",
+                                                            "size": 15,
+                                                            "color": "#000000"
+                                                        }
+                                                    },
+                                                    "offset": {
+                                                        "x": -177,
+                                                        "y": -40
+                                                    },
+                                                    "foldChildren": false,
+                                                    "branchColor": "#e662db",
+                                                    "children": [
+
+                                                    ]
+                                                },
+                                                {
+                                                    "id": "e931082a-74df-409b-823c-5c0ff537924b",
+                                                    "parentId": "dc14265f-29b7-483d-ba36-5a6c7cb5fdea",
+                                                    "text": {
+                                                        "caption": "The Disallow and Allow lines",
+                                                        "font": {
+                                                            "style": "normal",
+                                                            "weight": "normal",
+                                                            "decoration": "none",
+                                                            "size": 15,
+                                                            "color": "#000000"
+                                                        }
+                                                    },
+                                                    "offset": {
+                                                        "x": -195,
+                                                        "y": -6
+                                                    },
+                                                    "foldChildren": false,
+                                                    "branchColor": "#e662db",
+                                                    "children": [
+
+                                                    ]
+                                                },
+                                                {
+                                                    "id": "3110469f-0433-480a-a905-b1a8e21c55bc",
+                                                    "parentId": "dc14265f-29b7-483d-ba36-5a6c7cb5fdea",
+                                                    "text": {
+                                                        "caption": "Disallow/Allow prefix matching",
+                                                        "font": {
+                                                            "style": "normal",
+                                                            "weight": "normal",
+                                                            "decoration": "none",
+                                                            "size": 15,
+                                                            "color": "#000000"
+                                                        }
+                                                    },
+                                                    "offset": {
+                                                        "x": -193,
+                                                        "y": 43
+                                                    },
+                                                    "foldChildren": false,
+                                                    "branchColor": "#e662db",
+                                                    "children": [
+
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": "e6b1ecab-d1fb-4d04-9484-de87e3756013",
+                                            "parentId": "a70ca3b2-2bb7-4116-bc3a-4b4b070d3049",
+                                            "text": {
+                                                "caption": "Other robots.txt Wisdom",
+                                                "font": {
+                                                    "style": "normal",
+                                                    "weight": "normal",
+                                                    "decoration": "none",
+                                                    "size": 15,
+                                                    "color": "#000000"
+                                                }
+                                            },
+                                            "offset": {
+                                                "x": -234,
+                                                "y": -24
+                                            },
+                                            "foldChildren": false,
+                                            "branchColor": "#e662db",
+                                            "children": [
+
+                                            ]
+                                        },
+                                        {
+                                            "id": "b5df2682-6a93-4717-92d4-cd4b41b64315",
+                                            "parentId": "a70ca3b2-2bb7-4116-bc3a-4b4b070d3049",
+                                            "text": {
+                                                "caption": "Caching and Expiration of robots.txt",
+                                                "font": {
+                                                    "style": "normal",
+                                                    "weight": "normal",
+                                                    "decoration": "none",
+                                                    "size": 15,
+                                                    "color": "#000000"
+                                                }
+                                            },
+                                            "offset": {
+                                                "x": -227,
+                                                "y": 30
+                                            },
+                                            "foldChildren": false,
+                                            "branchColor": "#e662db",
+                                            "children": [
+
+                                            ]
+                                        },
+                                        {
+                                            "id": "8898ffac-6e04-4843-b464-28dfc1fc65e6",
+                                            "parentId": "a70ca3b2-2bb7-4116-bc3a-4b4b070d3049",
+                                            "text": {
+                                                "caption": "Robot Exclusion Perl Code",
+                                                "font": {
+                                                    "style": "normal",
+                                                    "weight": "normal",
+                                                    "decoration": "none",
+                                                    "size": 15,
+                                                    "color": "#000000"
+                                                }
+                                            },
+                                            "offset": {
+                                                "x": -228,
+                                                "y": 84
+                                            },
+                                            "foldChildren": false,
+                                            "branchColor": "#e662db",
+                                            "children": [
+
+                                            ]
+                                        },
+                                        {
+                                            "id": "afacaeed-0658-45e1-b80d-8c4e633a87fc",
+                                            "parentId": "a70ca3b2-2bb7-4116-bc3a-4b4b070d3049",
+                                            "text": {
+                                                "caption": "HTML Robot-Control META Tags",
+                                                "font": {
+                                                    "style": "normal",
+                                                    "weight": "normal",
+                                                    "decoration": "none",
+                                                    "size": 15,
+                                                    "color": "#000000"
+                                                }
+                                            },
+                                            "offset": {
+                                                "x": -239,
+                                                "y": 138
+                                            },
+                                            "foldChildren": false,
+                                            "branchColor": "#e662db",
+                                            "children": [
+                                                {
+                                                    "id": "9b685158-b16c-4c40-8364-7bec5cb00c95",
+                                                    "parentId": "afacaeed-0658-45e1-b80d-8c4e633a87fc",
+                                                    "text": {
+                                                        "caption": "Robot META directives",
+                                                        "font": {
+                                                            "style": "normal",
+                                                            "weight": "normal",
+                                                            "decoration": "none",
+                                                            "size": 15,
+                                                            "color": "#000000"
+                                                        }
+                                                    },
+                                                    "offset": {
+                                                        "x": -193,
+                                                        "y": -5
+                                                    },
+                                                    "foldChildren": false,
+                                                    "branchColor": "#e662db",
+                                                    "children": [
+
+                                                    ]
+                                                },
+                                                {
+                                                    "id": "016bfcf1-836d-4610-ae9c-c7759a8b41d2",
+                                                    "parentId": "afacaeed-0658-45e1-b80d-8c4e633a87fc",
+                                                    "text": {
+                                                        "caption": "Search engine META tags",
+                                                        "font": {
+                                                            "style": "normal",
+                                                            "weight": "normal",
+                                                            "decoration": "none",
+                                                            "size": 15,
+                                                            "color": "#000000"
+                                                        }
+                                                    },
+                                                    "offset": {
+                                                        "x": -200,
+                                                        "y": 27
+                                                    },
+                                                    "foldChildren": false,
+                                                    "branchColor": "#e662db",
+                                                    "children": [
+
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "id": "31ff2618-8cd8-415e-98e6-3cd316e09f1d",
+                                            "parentId": "a70ca3b2-2bb7-4116-bc3a-4b4b070d3049",
+                                            "text": {
+                                                "caption": "Robot Etiquette",
+                                                "font": {
+                                                    "style": "normal",
+                                                    "weight": "normal",
+                                                    "decoration": "none",
+                                                    "size": 15,
+                                                    "color": "#000000"
+                                                }
+                                            },
+                                            "offset": {
+                                                "x": -207,
+                                                "y": 203
+                                            },
+                                            "foldChildren": false,
+                                            "branchColor": "#e662db",
+                                            "children": [
+
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "912cc6d0-a765-417c-976b-227ed544e5c6",
+                                    "parentId": "843ff443-7005-4720-b55e-b1d20ef2bf13",
+                                    "text": {
+                                        "caption": "Robot Etiquette",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": -321,
+                                        "y": 290
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#e662db",
+                                    "children": [
+
+                                    ]
+                                },
+                                {
+                                    "id": "76077287-13a7-4fc5-9f35-d00344eb026e",
+                                    "parentId": "843ff443-7005-4720-b55e-b1d20ef2bf13",
+                                    "text": {
+                                        "caption": "Search Engines",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": -181,
+                                        "y": 374
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#e662db",
+                                    "children": [
+                                        {
+                                            "id": "faf1205d-f5f7-4d98-bc24-e77d3886282a",
+                                            "parentId": "76077287-13a7-4fc5-9f35-d00344eb026e",
+                                            "text": {
+                                                "caption": "Think Big",
+                                                "font": {
+                                                    "style": "normal",
+                                                    "weight": "normal",
+                                                    "decoration": "none",
+                                                    "size": 15,
+                                                    "color": "#000000"
+                                                }
+                                            },
+                                            "offset": {
+                                                "x": -137,
+                                                "y": -38
+                                            },
+                                            "foldChildren": false,
+                                            "branchColor": "#e662db",
+                                            "children": [
+
+                                            ]
+                                        },
+                                        {
+                                            "id": "8f755ab1-0738-4008-935c-de142a3b568c",
+                                            "parentId": "76077287-13a7-4fc5-9f35-d00344eb026e",
+                                            "text": {
+                                                "caption": "Modern Search Engine Architecture",
+                                                "font": {
+                                                    "style": "normal",
+                                                    "weight": "normal",
+                                                    "decoration": "none",
+                                                    "size": 15,
+                                                    "color": "#000000"
+                                                }
+                                            },
+                                            "offset": {
+                                                "x": -201,
+                                                "y": -7
+                                            },
+                                            "foldChildren": false,
+                                            "branchColor": "#e662db",
+                                            "children": [
+
+                                            ]
+                                        },
+                                        {
+                                            "id": "6043f7cc-bd9f-4032-96d7-af5c5fc864d5",
+                                            "parentId": "76077287-13a7-4fc5-9f35-d00344eb026e",
+                                            "text": {
+                                                "caption": "Full-Text Index",
+                                                "font": {
+                                                    "style": "normal",
+                                                    "weight": "normal",
+                                                    "decoration": "none",
+                                                    "size": 15,
+                                                    "color": "#000000"
+                                                }
+                                            },
+                                            "offset": {
+                                                "x": -155,
+                                                "y": 42
+                                            },
+                                            "foldChildren": false,
+                                            "branchColor": "#e662db",
+                                            "children": [
+
+                                            ]
+                                        },
+                                        {
+                                            "id": "92d9747e-0f20-4084-966b-cb3c7a6dd417",
+                                            "parentId": "76077287-13a7-4fc5-9f35-d00344eb026e",
+                                            "text": {
+                                                "caption": "Posting the Query",
+                                                "font": {
+                                                    "style": "normal",
+                                                    "weight": "normal",
+                                                    "decoration": "none",
+                                                    "size": 15,
+                                                    "color": "#000000"
+                                                }
+                                            },
+                                            "offset": {
+                                                "x": -174,
+                                                "y": 78
+                                            },
+                                            "foldChildren": false,
+                                            "branchColor": "#e662db",
+                                            "children": [
+
+                                            ]
+                                        },
+                                        {
+                                            "id": "5b036ee2-0173-40d7-86dc-16792313ed6b",
+                                            "parentId": "76077287-13a7-4fc5-9f35-d00344eb026e",
+                                            "text": {
+                                                "caption": "Sorting and Presenting the Results",
+                                                "font": {
+                                                    "style": "normal",
+                                                    "weight": "normal",
+                                                    "decoration": "none",
+                                                    "size": 15,
+                                                    "color": "#000000"
+                                                }
+                                            },
+                                            "offset": {
+                                                "x": -199,
+                                                "y": 112
+                                            },
+                                            "foldChildren": false,
+                                            "branchColor": "#e662db",
+                                            "children": [
+
+                                            ]
+                                        },
+                                        {
+                                            "id": "d899b2c2-7259-46d9-8bf3-bf7e28551d31",
+                                            "parentId": "76077287-13a7-4fc5-9f35-d00344eb026e",
+                                            "text": {
+                                                "caption": "Sorting and Presenting the Results",
+                                                "font": {
+                                                    "style": "normal",
+                                                    "weight": "normal",
+                                                    "decoration": "none",
+                                                    "size": 15,
+                                                    "color": "#000000"
+                                                }
+                                            },
+                                            "offset": {
+                                                "x": -201,
+                                                "y": 161
+                                            },
+                                            "foldChildren": false,
+                                            "branchColor": "#e662db",
+                                            "children": [
+
+                                            ]
+                                        },
+                                        {
+                                            "id": "cda93848-4d4e-477d-96b9-813e206b9116",
+                                            "parentId": "76077287-13a7-4fc5-9f35-d00344eb026e",
+                                            "text": {
+                                                "caption": "Spoofing",
+                                                "font": {
+                                                    "style": "normal",
+                                                    "weight": "normal",
+                                                    "decoration": "none",
+                                                    "size": 15,
+                                                    "color": "#000000"
+                                                }
+                                            },
+                                            "offset": {
+                                                "x": -145,
+                                                "y": 213
+                                            },
+                                            "foldChildren": false,
+                                            "branchColor": "#e662db",
+                                            "children": [
+
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
                     ]
                 },
                 {
@@ -3271,13 +5047,511 @@
                         }
                     },
                     "offset": {
-                        "x": -493,
-                        "y": 35
+                        "x": -193,
+                        "y": 720
                     },
                     "foldChildren": false,
                     "branchColor": "#058ba5",
                     "children": [
+                        {
+                            "id": "f9965cbf-54eb-424d-8e20-036383b182a8",
+                            "parentId": "196cd879-e0f4-4651-9d53-f9c8a489a49c",
+                            "text": {
+                                "caption": "HTTP’s Growing Pains",
+                                "font": {
+                                    "style": "normal",
+                                    "weight": "normal",
+                                    "decoration": "none",
+                                    "size": 15,
+                                    "color": "#000000"
+                                }
+                            },
+                            "offset": {
+                                "x": -304,
+                                "y": -312
+                            },
+                            "foldChildren": false,
+                            "branchColor": "#058ba5",
+                            "children": [
+                                {
+                                    "id": "9d09f918-e64e-4833-8dff-5017bb3161c7",
+                                    "parentId": "f9965cbf-54eb-424d-8e20-036383b182a8",
+                                    "text": {
+                                        "caption": "Complexity",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": -152,
+                                        "y": -55
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#058ba5",
+                                    "children": [
 
+                                    ]
+                                },
+                                {
+                                    "id": "4820a8b9-3944-42e0-a08a-7a190e5086ee",
+                                    "parentId": "f9965cbf-54eb-424d-8e20-036383b182a8",
+                                    "text": {
+                                        "caption": "Extensibility",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": -153,
+                                        "y": -17
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#058ba5",
+                                    "children": [
+
+                                    ]
+                                },
+                                {
+                                    "id": "d4f0a459-f5f0-42f5-9a94-788becdb29d7",
+                                    "parentId": "f9965cbf-54eb-424d-8e20-036383b182a8",
+                                    "text": {
+                                        "caption": "Performance",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": -159,
+                                        "y": 19
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#058ba5",
+                                    "children": [
+
+                                    ]
+                                },
+                                {
+                                    "id": "f670ee0f-a4ef-4b5d-9c65-bbad3fd00131",
+                                    "parentId": "f9965cbf-54eb-424d-8e20-036383b182a8",
+                                    "text": {
+                                        "caption": "Transport dependence",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": -183,
+                                        "y": 56
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#058ba5",
+                                    "children": [
+
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "5af9f0ab-fb04-430f-a7b4-cbbab84cc4c2",
+                            "parentId": "196cd879-e0f4-4651-9d53-f9c8a489a49c",
+                            "text": {
+                                "caption": "HTTP-NG Activity",
+                                "font": {
+                                    "style": "normal",
+                                    "weight": "normal",
+                                    "decoration": "none",
+                                    "size": 15,
+                                    "color": "#000000"
+                                }
+                            },
+                            "offset": {
+                                "x": -291,
+                                "y": -212
+                            },
+                            "foldChildren": false,
+                            "branchColor": "#058ba5",
+                            "children": [
+
+                            ]
+                        },
+                        {
+                            "id": "a9b850a8-7937-4b08-a456-d1427e083d7b",
+                            "parentId": "196cd879-e0f4-4651-9d53-f9c8a489a49c",
+                            "text": {
+                                "caption": "Modularize and Enhance",
+                                "font": {
+                                    "style": "normal",
+                                    "weight": "normal",
+                                    "decoration": "none",
+                                    "size": 15,
+                                    "color": "#000000"
+                                }
+                            },
+                            "offset": {
+                                "x": -294,
+                                "y": -136
+                            },
+                            "foldChildren": false,
+                            "branchColor": "#058ba5",
+                            "children": [
+                                {
+                                    "id": "cbf9a45a-64cb-4092-83ee-443e9495fef2",
+                                    "parentId": "a9b850a8-7937-4b08-a456-d1427e083d7b",
+                                    "text": {
+                                        "caption": "message transport layer",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": -190,
+                                        "y": -47
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#058ba5",
+                                    "children": [
+                                        {
+                                            "id": "7a69844d-3cd3-44bf-8e37-9c0b82277268",
+                                            "parentId": "cbf9a45a-64cb-4092-83ee-443e9495fef2",
+                                            "text": {
+                                                "caption": "Web application functions",
+                                                "font": {
+                                                    "style": "normal",
+                                                    "weight": "normal",
+                                                    "decoration": "none",
+                                                    "size": 15,
+                                                    "color": "#000000"
+                                                }
+                                            },
+                                            "offset": {
+                                                "x": -171,
+                                                "y": 1
+                                            },
+                                            "foldChildren": false,
+                                            "branchColor": "#058ba5",
+                                            "children": [
+
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "9b331039-6b92-4459-a909-341cc41d91a5",
+                                    "parentId": "a9b850a8-7937-4b08-a456-d1427e083d7b",
+                                    "text": {
+                                        "caption": "remote invocation layer",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": -185,
+                                        "y": 14
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#058ba5",
+                                    "children": [
+                                        {
+                                            "id": "234a4443-5d35-4b2f-8876-3be42c228267",
+                                            "parentId": "9b331039-6b92-4459-a909-341cc41d91a5",
+                                            "text": {
+                                                "caption": "Remote operation invocation",
+                                                "font": {
+                                                    "style": "normal",
+                                                    "weight": "normal",
+                                                    "decoration": "none",
+                                                    "size": 15,
+                                                    "color": "#000000"
+                                                }
+                                            },
+                                            "offset": {
+                                                "x": -185,
+                                                "y": -13
+                                            },
+                                            "foldChildren": false,
+                                            "branchColor": "#058ba5",
+                                            "children": [
+                                                {
+                                                    "id": "6145529b-44bd-4af3-a2fa-71bbb72d16af",
+                                                    "parentId": "234a4443-5d35-4b2f-8876-3be42c228267",
+                                                    "text": {
+                                                        "caption": "Binary Wire Protocol",
+                                                        "font": {
+                                                            "style": "normal",
+                                                            "weight": "normal",
+                                                            "decoration": "none",
+                                                            "size": 15,
+                                                            "color": "#000000"
+                                                        }
+                                                    },
+                                                    "offset": {
+                                                        "x": -164,
+                                                        "y": 17
+                                                    },
+                                                    "foldChildren": false,
+                                                    "branchColor": "#058ba5",
+                                                    "children": [
+
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "ffb50f1d-f3e6-4835-bd44-b05077e66072",
+                                    "parentId": "a9b850a8-7937-4b08-a456-d1427e083d7b",
+                                    "text": {
+                                        "caption": "web application layer",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": -176,
+                                        "y": 65
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#058ba5",
+                                    "children": [
+                                        {
+                                            "id": "a159fedf-2e54-41be-8d35-7a5b33a0421f",
+                                            "parentId": "ffb50f1d-f3e6-4835-bd44-b05077e66072",
+                                            "text": {
+                                                "caption": "Message transport",
+                                                "font": {
+                                                    "style": "normal",
+                                                    "weight": "normal",
+                                                    "decoration": "none",
+                                                    "size": 15,
+                                                    "color": "#000000"
+                                                }
+                                            },
+                                            "offset": {
+                                                "x": -183,
+                                                "y": 0
+                                            },
+                                            "foldChildren": false,
+                                            "branchColor": "#058ba5",
+                                            "children": [
+                                                {
+                                                    "id": "3a36b552-17e0-45d7-b2c3-607a6dd3a42a",
+                                                    "parentId": "a159fedf-2e54-41be-8d35-7a5b33a0421f",
+                                                    "text": {
+                                                        "caption": "WebMUX",
+                                                        "font": {
+                                                            "style": "normal",
+                                                            "weight": "normal",
+                                                            "decoration": "none",
+                                                            "size": 15,
+                                                            "color": "#000000"
+                                                        }
+                                                    },
+                                                    "offset": {
+                                                        "x": -153,
+                                                        "y": 0
+                                                    },
+                                                    "foldChildren": false,
+                                                    "branchColor": "#058ba5",
+                                                    "children": [
+
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "f9b92593-7d66-49c8-8b95-dbf41639ca92",
+                            "parentId": "196cd879-e0f4-4651-9d53-f9c8a489a49c",
+                            "text": {
+                                "caption": "Distributed Objects",
+                                "font": {
+                                    "weight": "normal",
+                                    "style": "normal",
+                                    "decoration": "none",
+                                    "size": 15,
+                                    "color": "#000000"
+                                }
+                            },
+                            "offset": {
+                                "x": -276,
+                                "y": -70
+                            },
+                            "foldChildren": false,
+                            "branchColor": "#058ba5",
+                            "children": [
+
+                            ]
+                        },
+                        {
+                            "id": "bf52e35e-bdbd-49b0-90e8-b71d4da01f33",
+                            "parentId": "196cd879-e0f4-4651-9d53-f9c8a489a49c",
+                            "text": {
+                                "caption": "Layer 1: Messaging",
+                                "font": {
+                                    "style": "normal",
+                                    "weight": "normal",
+                                    "decoration": "none",
+                                    "size": 15,
+                                    "color": "#000000"
+                                }
+                            },
+                            "offset": {
+                                "x": -278,
+                                "y": -18
+                            },
+                            "foldChildren": false,
+                            "branchColor": "#058ba5",
+                            "children": [
+
+                            ]
+                        },
+                        {
+                            "id": "fa33e4e3-481f-40a9-b158-2fba88fd0014",
+                            "parentId": "196cd879-e0f4-4651-9d53-f9c8a489a49c",
+                            "text": {
+                                "caption": "Layer 2: Remote Invocation",
+                                "font": {
+                                    "style": "normal",
+                                    "weight": "normal",
+                                    "decoration": "none",
+                                    "size": 15,
+                                    "color": "#000000"
+                                }
+                            },
+                            "offset": {
+                                "x": -284,
+                                "y": 19
+                            },
+                            "foldChildren": false,
+                            "branchColor": "#058ba5",
+                            "children": [
+
+                            ]
+                        },
+                        {
+                            "id": "60e03d6e-224b-4dad-8b09-aa1570d43789",
+                            "parentId": "196cd879-e0f4-4651-9d53-f9c8a489a49c",
+                            "text": {
+                                "caption": "Layer 3: Web Application",
+                                "font": {
+                                    "style": "normal",
+                                    "weight": "normal",
+                                    "decoration": "none",
+                                    "size": 15,
+                                    "color": "#000000"
+                                }
+                            },
+                            "offset": {
+                                "x": -291,
+                                "y": 70
+                            },
+                            "foldChildren": false,
+                            "branchColor": "#058ba5",
+                            "children": [
+
+                            ]
+                        },
+                        {
+                            "id": "215f82f7-63ae-406b-a3e6-cd97a1510136",
+                            "parentId": "196cd879-e0f4-4651-9d53-f9c8a489a49c",
+                            "text": {
+                                "caption": "WebMUX",
+                                "font": {
+                                    "style": "normal",
+                                    "weight": "normal",
+                                    "decoration": "none",
+                                    "size": 15,
+                                    "color": "#000000"
+                                }
+                            },
+                            "offset": {
+                                "x": -269,
+                                "y": 127
+                            },
+                            "foldChildren": false,
+                            "branchColor": "#058ba5",
+                            "children": [
+
+                            ]
+                        },
+                        {
+                            "id": "93f8949f-2e86-4c7d-afb1-72947a3a48e3",
+                            "parentId": "196cd879-e0f4-4651-9d53-f9c8a489a49c",
+                            "text": {
+                                "caption": "Binary Wire Protocol",
+                                "font": {
+                                    "style": "normal",
+                                    "weight": "normal",
+                                    "decoration": "none",
+                                    "size": 15,
+                                    "color": "#000000"
+                                }
+                            },
+                            "offset": {
+                                "x": -295,
+                                "y": 169
+                            },
+                            "foldChildren": false,
+                            "branchColor": "#058ba5",
+                            "children": [
+
+                            ]
+                        },
+                        {
+                            "id": "7ac5bb6d-09e1-40c1-a5db-913a35ae59fe",
+                            "parentId": "196cd879-e0f4-4651-9d53-f9c8a489a49c",
+                            "text": {
+                                "caption": "Current Status",
+                                "font": {
+                                    "style": "normal",
+                                    "weight": "normal",
+                                    "decoration": "none",
+                                    "size": 15,
+                                    "color": "#000000"
+                                }
+                            },
+                            "offset": {
+                                "x": -271,
+                                "y": 211
+                            },
+                            "foldChildren": false,
+                            "branchColor": "#058ba5",
+                            "children": [
+
+                            ]
+                        }
                     ]
                 }
             ]
@@ -3285,7 +5559,7 @@
     },
     "dates": {
         "created": 1357870363798,
-        "modified": 1357880123249
+        "modified": 1358230917282
     },
     "dimensions": {
         "x": 4000,

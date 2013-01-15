@@ -8,11 +8,12 @@
 
 
 ###Part I. HTTP: The Web’s Foundation
-Part1.json
+- Part I. HTTP: The Web’s Foundation
 ![HTTP:\_The\_Definitive\_Guide\_Part1](https://raw.github.com/luw2007/book_mindmap/master/HTTP:%20The%20Definitive%20Guide/HTTP:_The_Definitive_Guide_Part1.png)
 
-###TODO:
 - Part II. HTTP Architecture
+![HTTP:\_The\_Definitive\_Guide\_Part2](https://raw.github.com/luw2007/book_mindmap/master/HTTP:%20The%20Definitive%20Guide/HTTP:_The_Definitive_Guide_Part2.png)
+###TODO:
 - Part III. Identification, Authorization, and Security
 - Part IV. Entities, Encodings, and Internationalization
 - Part V. Content Publishing and Distribution
