@@ -1,0 +1,947 @@
+{
+    "id": "c89bd336-1d98-4e8a-a315-743cd38e9d7e",
+    "title": "Identification, Authorization,\nand Security",
+    "mindmap": {
+        "root": {
+            "id": "7df69767-1bd5-4066-85d8-e4528de051e1",
+            "parentId": null,
+            "text": {
+                "caption": "Identification, Authorization,\nand Security",
+                "font": {
+                    "style": "normal",
+                    "weight": "bold",
+                    "decoration": "none",
+                    "size": 20,
+                    "color": "#000000"
+                }
+            },
+            "offset": {
+                "x": 0,
+                "y": 0
+            },
+            "foldChildren": false,
+            "branchColor": "#000000",
+            "children": [
+                {
+                    "id": "d8187f68-6b3c-49f9-a060-da7ba9639c33",
+                    "parentId": "7df69767-1bd5-4066-85d8-e4528de051e1",
+                    "text": {
+                        "caption": "Client Identification and Cookies",
+                        "font": {
+                            "style": "normal",
+                            "weight": "normal",
+                            "decoration": "none",
+                            "size": 15,
+                            "color": "#000000"
+                        }
+                    },
+                    "offset": {
+                        "x": 353,
+                        "y": -750
+                    },
+                    "foldChildren": false,
+                    "branchColor": "#c88b82",
+                    "children": [
+                        {
+                            "id": "5b358fca-3141-4fad-9c8b-ed4784c7de44",
+                            "parentId": "d8187f68-6b3c-49f9-a060-da7ba9639c33",
+                            "text": {
+                                "caption": "The Personal Touch",
+                                "font": {
+                                    "style": "normal",
+                                    "weight": "normal",
+                                    "decoration": "none",
+                                    "size": 15,
+                                    "color": "#000000"
+                                }
+                            },
+                            "offset": {
+                                "x": 311,
+                                "y": -228
+                            },
+                            "foldChildren": false,
+                            "branchColor": "#c88b82",
+                            "children": [
+
+                            ]
+                        },
+                        {
+                            "id": "6674422b-9f0a-4178-b8a1-51498b8b1723",
+                            "parentId": "d8187f68-6b3c-49f9-a060-da7ba9639c33",
+                            "text": {
+                                "caption": "HTTP Headers",
+                                "font": {
+                                    "style": "normal",
+                                    "weight": "normal",
+                                    "decoration": "none",
+                                    "size": 15,
+                                    "color": "#000000"
+                                }
+                            },
+                            "offset": {
+                                "x": 328,
+                                "y": -178
+                            },
+                            "foldChildren": false,
+                            "branchColor": "#c88b82",
+                            "children": [
+
+                            ]
+                        },
+                        {
+                            "id": "bcb80b2b-8147-4551-8bb1-40587bff734d",
+                            "parentId": "d8187f68-6b3c-49f9-a060-da7ba9639c33",
+                            "text": {
+                                "caption": "Client IP Address",
+                                "font": {
+                                    "style": "normal",
+                                    "weight": "normal",
+                                    "decoration": "none",
+                                    "size": 15,
+                                    "color": "#000000"
+                                }
+                            },
+                            "offset": {
+                                "x": 331,
+                                "y": -135
+                            },
+                            "foldChildren": false,
+                            "branchColor": "#c88b82",
+                            "children": [
+
+                            ]
+                        },
+                        {
+                            "id": "50e4fdb4-a744-4e70-b9be-ea7b491e5b7f",
+                            "parentId": "d8187f68-6b3c-49f9-a060-da7ba9639c33",
+                            "text": {
+                                "caption": "User Login",
+                                "font": {
+                                    "style": "normal",
+                                    "weight": "normal",
+                                    "decoration": "none",
+                                    "size": 15,
+                                    "color": "#000000"
+                                }
+                            },
+                            "offset": {
+                                "x": 345,
+                                "y": -96
+                            },
+                            "foldChildren": false,
+                            "branchColor": "#c88b82",
+                            "children": [
+
+                            ]
+                        },
+                        {
+                            "id": "f98c37f6-b366-4928-95a4-687d241934b8",
+                            "parentId": "d8187f68-6b3c-49f9-a060-da7ba9639c33",
+                            "text": {
+                                "caption": "Fat URLs",
+                                "font": {
+                                    "style": "normal",
+                                    "weight": "normal",
+                                    "decoration": "none",
+                                    "size": 15,
+                                    "color": "#000000"
+                                }
+                            },
+                            "offset": {
+                                "x": 351,
+                                "y": -45
+                            },
+                            "foldChildren": false,
+                            "branchColor": "#c88b82",
+                            "children": [
+
+                            ]
+                        },
+                        {
+                            "id": "993c527e-ac8c-44a5-854b-02174ea2d394",
+                            "parentId": "d8187f68-6b3c-49f9-a060-da7ba9639c33",
+                            "text": {
+                                "caption": "Cookies",
+                                "font": {
+                                    "style": "normal",
+                                    "weight": "normal",
+                                    "decoration": "none",
+                                    "size": 15,
+                                    "color": "#000000"
+                                }
+                            },
+                            "offset": {
+                                "x": 352,
+                                "y": 21
+                            },
+                            "foldChildren": false,
+                            "branchColor": "#c88b82",
+                            "children": [
+                                {
+                                    "id": "21b8cf14-dc30-42a1-9e7e-c64cfbbaba64",
+                                    "parentId": "993c527e-ac8c-44a5-854b-02174ea2d394",
+                                    "text": {
+                                        "caption": "Types of Cookies",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": 241,
+                                        "y": -236
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#c88b82",
+                                    "children": [
+                                        {
+                                            "id": "f2cdc55f-0c0f-4585-ae73-4f0361c12432",
+                                            "parentId": "21b8cf14-dc30-42a1-9e7e-c64cfbbaba64",
+                                            "text": {
+                                                "caption": "session cookies",
+                                                "font": {
+                                                    "style": "normal",
+                                                    "weight": "normal",
+                                                    "decoration": "none",
+                                                    "size": 15,
+                                                    "color": "#000000"
+                                                }
+                                            },
+                                            "offset": {
+                                                "x": 164,
+                                                "y": -24
+                                            },
+                                            "foldChildren": false,
+                                            "branchColor": "#c88b82",
+                                            "children": [
+
+                                            ]
+                                        },
+                                        {
+                                            "id": "0606bed9-72a7-4a59-8379-c6798d89649a",
+                                            "parentId": "21b8cf14-dc30-42a1-9e7e-c64cfbbaba64",
+                                            "text": {
+                                                "caption": "persistent cookies",
+                                                "font": {
+                                                    "style": "normal",
+                                                    "weight": "normal",
+                                                    "decoration": "none",
+                                                    "size": 15,
+                                                    "color": "#000000"
+                                                }
+                                            },
+                                            "offset": {
+                                                "x": 165,
+                                                "y": 16
+                                            },
+                                            "foldChildren": false,
+                                            "branchColor": "#c88b82",
+                                            "children": [
+
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "a8461536-b778-4c5f-aed5-4eef3c9fd32b",
+                                    "parentId": "993c527e-ac8c-44a5-854b-02174ea2d394",
+                                    "text": {
+                                        "caption": "How Cookies Work",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": 236,
+                                        "y": -197
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#c88b82",
+                                    "children": [
+
+                                    ]
+                                },
+                                {
+                                    "id": "ac7c033a-b5bd-4da3-a7ec-1554e2440716",
+                                    "parentId": "993c527e-ac8c-44a5-854b-02174ea2d394",
+                                    "text": {
+                                        "caption": "Cookie Jar: Client-Side State",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": 213,
+                                        "y": -149
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#c88b82",
+                                    "children": [
+                                        {
+                                            "id": "e0dce673-d9bb-46e2-bab5-7caa7249512e",
+                                            "parentId": "ac7c033a-b5bd-4da3-a7ec-1554e2440716",
+                                            "text": {
+                                                "caption": "Netscape Navigator cookies",
+                                                "font": {
+                                                    "style": "normal",
+                                                    "weight": "normal",
+                                                    "decoration": "none",
+                                                    "size": 15,
+                                                    "color": "#000000"
+                                                }
+                                            },
+                                            "offset": {
+                                                "x": 184,
+                                                "y": -32
+                                            },
+                                            "foldChildren": false,
+                                            "branchColor": "#c88b82",
+                                            "children": [
+
+                                            ]
+                                        },
+                                        {
+                                            "id": "9ff39e95-4c4c-4fd5-875e-19a555d9f712",
+                                            "parentId": "ac7c033a-b5bd-4da3-a7ec-1554e2440716",
+                                            "text": {
+                                                "caption": "Microsoft Internet Explorer cookies",
+                                                "font": {
+                                                    "style": "normal",
+                                                    "weight": "normal",
+                                                    "decoration": "none",
+                                                    "size": 15,
+                                                    "color": "#000000"
+                                                }
+                                            },
+                                            "offset": {
+                                                "x": 189,
+                                                "y": 25
+                                            },
+                                            "foldChildren": false,
+                                            "branchColor": "#c88b82",
+                                            "children": [
+
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "91f122a9-d59a-4090-846e-8968b2baf2a1",
+                                    "parentId": "993c527e-ac8c-44a5-854b-02174ea2d394",
+                                    "text": {
+                                        "caption": "Different Cookies for Different Sites",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": 204,
+                                        "y": -58
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#c88b82",
+                                    "children": [
+                                        {
+                                            "id": "4be58189-2cc9-47b3-a71e-12cbaf790ee6",
+                                            "parentId": "91f122a9-d59a-4090-846e-8968b2baf2a1",
+                                            "text": {
+                                                "caption": "Cookie Domain attribute",
+                                                "font": {
+                                                    "style": "normal",
+                                                    "weight": "normal",
+                                                    "decoration": "none",
+                                                    "size": 15,
+                                                    "color": "#000000"
+                                                }
+                                            },
+                                            "offset": {
+                                                "x": 193,
+                                                "y": -14
+                                            },
+                                            "foldChildren": false,
+                                            "branchColor": "#c88b82",
+                                            "children": [
+
+                                            ]
+                                        },
+                                        {
+                                            "id": "f2b90022-ff82-4831-b968-7428812d257d",
+                                            "parentId": "91f122a9-d59a-4090-846e-8968b2baf2a1",
+                                            "text": {
+                                                "caption": "Cookie Path attribute",
+                                                "font": {
+                                                    "style": "normal",
+                                                    "weight": "normal",
+                                                    "decoration": "none",
+                                                    "size": 15,
+                                                    "color": "#000000"
+                                                }
+                                            },
+                                            "offset": {
+                                                "x": 210,
+                                                "y": 39
+                                            },
+                                            "foldChildren": false,
+                                            "branchColor": "#c88b82",
+                                            "children": [
+
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "e9afe97b-b801-4542-9b51-ec426f938576",
+                                    "parentId": "993c527e-ac8c-44a5-854b-02174ea2d394",
+                                    "text": {
+                                        "caption": "Cookie Ingredients",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": 220,
+                                        "y": 3
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#c88b82",
+                                    "children": [
+
+                                    ]
+                                },
+                                {
+                                    "id": "53fd51cf-f953-4473-af12-7b8570d5599c",
+                                    "parentId": "993c527e-ac8c-44a5-854b-02174ea2d394",
+                                    "text": {
+                                        "caption": "Version 0 (Netscape) Cookies",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": 210,
+                                        "y": 42
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#c88b82",
+                                    "children": [
+                                        {
+                                            "id": "a105db3a-d00c-42dd-a701-ab5d96273f45",
+                                            "parentId": "53fd51cf-f953-4473-af12-7b8570d5599c",
+                                            "text": {
+                                                "caption": "Version 0 Set-Cookie header",
+                                                "font": {
+                                                    "style": "normal",
+                                                    "weight": "normal",
+                                                    "decoration": "none",
+                                                    "size": 15,
+                                                    "color": "#000000"
+                                                }
+                                            },
+                                            "offset": {
+                                                "x": 192,
+                                                "y": -17
+                                            },
+                                            "foldChildren": false,
+                                            "branchColor": "#c88b82",
+                                            "children": [
+
+                                            ]
+                                        },
+                                        {
+                                            "id": "5dcad42d-c6fb-40ce-bfd9-911b1639bf90",
+                                            "parentId": "53fd51cf-f953-4473-af12-7b8570d5599c",
+                                            "text": {
+                                                "caption": "Version 0 Cookie header",
+                                                "font": {
+                                                    "style": "normal",
+                                                    "weight": "normal",
+                                                    "decoration": "none",
+                                                    "size": 15,
+                                                    "color": "#000000"
+                                                }
+                                            },
+                                            "offset": {
+                                                "x": 200,
+                                                "y": 35
+                                            },
+                                            "foldChildren": false,
+                                            "branchColor": "#c88b82",
+                                            "children": [
+
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "248b9182-79d6-48cc-a770-4da6e5ef7179",
+                                    "parentId": "993c527e-ac8c-44a5-854b-02174ea2d394",
+                                    "text": {
+                                        "caption": "Version 1 (RFC 2965) Cookies",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": 188,
+                                        "y": 200
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#c88b82",
+                                    "children": [
+                                        {
+                                            "id": "77b66c2a-fc81-4848-a49f-96732dcfb4ea",
+                                            "parentId": "248b9182-79d6-48cc-a770-4da6e5ef7179",
+                                            "text": {
+                                                "caption": "Version 1 Set-Cookie2 header",
+                                                "font": {
+                                                    "style": "normal",
+                                                    "weight": "normal",
+                                                    "decoration": "none",
+                                                    "size": 15,
+                                                    "color": "#000000"
+                                                }
+                                            },
+                                            "offset": {
+                                                "x": 220,
+                                                "y": -63
+                                            },
+                                            "foldChildren": false,
+                                            "branchColor": "#c88b82",
+                                            "children": [
+
+                                            ]
+                                        },
+                                        {
+                                            "id": "4bc5ccc4-c405-458a-9bb5-cc3dad861fd5",
+                                            "parentId": "248b9182-79d6-48cc-a770-4da6e5ef7179",
+                                            "text": {
+                                                "caption": "Version 1 Cookie header",
+                                                "font": {
+                                                    "style": "normal",
+                                                    "weight": "normal",
+                                                    "decoration": "none",
+                                                    "size": 15,
+                                                    "color": "#000000"
+                                                }
+                                            },
+                                            "offset": {
+                                                "x": 216,
+                                                "y": -9
+                                            },
+                                            "foldChildren": false,
+                                            "branchColor": "#c88b82",
+                                            "children": [
+
+                                            ]
+                                        },
+                                        {
+                                            "id": "776577c8-58a6-4823-b7c9-96c2e2a0ae89",
+                                            "parentId": "248b9182-79d6-48cc-a770-4da6e5ef7179",
+                                            "text": {
+                                                "caption": "Version 1 Cookie2 header and version negotiation",
+                                                "font": {
+                                                    "style": "normal",
+                                                    "weight": "normal",
+                                                    "decoration": "none",
+                                                    "size": 15,
+                                                    "color": "#000000"
+                                                }
+                                            },
+                                            "offset": {
+                                                "x": 223,
+                                                "y": 42
+                                            },
+                                            "foldChildren": false,
+                                            "branchColor": "#c88b82",
+                                            "children": [
+
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "6572076f-f5f5-4cfd-a805-928ef5cf6b91",
+                                    "parentId": "993c527e-ac8c-44a5-854b-02174ea2d394",
+                                    "text": {
+                                        "caption": "Cookies and Session Tracking",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": 203,
+                                        "y": 273
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#c88b82",
+                                    "children": [
+
+                                    ]
+                                },
+                                {
+                                    "id": "84276ec5-72ad-4d1f-a332-146368f8150f",
+                                    "parentId": "993c527e-ac8c-44a5-854b-02174ea2d394",
+                                    "text": {
+                                        "caption": "Cookies and Caching",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": 206,
+                                        "y": 333
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#c88b82",
+                                    "children": [
+
+                                    ]
+                                },
+                                {
+                                    "id": "bceeccde-c502-4fa0-823f-88b61ef42a53",
+                                    "parentId": "993c527e-ac8c-44a5-854b-02174ea2d394",
+                                    "text": {
+                                        "caption": "Cookies, Security, and Privacy",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": 207,
+                                        "y": 374
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#c88b82",
+                                    "children": [
+
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "7c5e65a6-57f8-443e-9c6f-9d2b5e60cfd7",
+                    "parentId": "7df69767-1bd5-4066-85d8-e4528de051e1",
+                    "text": {
+                        "caption": "Basic Authentication",
+                        "font": {
+                            "style": "normal",
+                            "weight": "normal",
+                            "decoration": "none",
+                            "size": 15,
+                            "color": "#000000"
+                        }
+                    },
+                    "offset": {
+                        "x": 234,
+                        "y": -377
+                    },
+                    "foldChildren": false,
+                    "branchColor": "#d2593d",
+                    "children": [
+                        {
+                            "id": "4b13ef97-01c0-43eb-aba2-675343422fcb",
+                            "parentId": "7c5e65a6-57f8-443e-9c6f-9d2b5e60cfd7",
+                            "text": {
+                                "caption": "Authentication",
+                                "font": {
+                                    "style": "normal",
+                                    "weight": "normal",
+                                    "decoration": "none",
+                                    "size": 15,
+                                    "color": "#000000"
+                                }
+                            },
+                            "offset": {
+                                "x": 206,
+                                "y": -127
+                            },
+                            "foldChildren": false,
+                            "branchColor": "#d2593d",
+                            "children": [
+                                {
+                                    "id": "fd33fd3c-a869-4736-a5af-b3ea1ff508ba",
+                                    "parentId": "4b13ef97-01c0-43eb-aba2-675343422fcb",
+                                    "text": {
+                                        "caption": "HTTP’s Challenge/Response Authentication Framework",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": 185,
+                                        "y": -166
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#d2593d",
+                                    "children": [
+
+                                    ]
+                                },
+                                {
+                                    "id": "8b15e253-24a0-4974-b4aa-61b05c642d76",
+                                    "parentId": "4b13ef97-01c0-43eb-aba2-675343422fcb",
+                                    "text": {
+                                        "caption": "Authentication Protocols and Headers",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": 165,
+                                        "y": -64
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#d2593d",
+                                    "children": [
+
+                                    ]
+                                },
+                                {
+                                    "id": "df2ad641-cdc4-4045-af27-62149f2a5949",
+                                    "parentId": "4b13ef97-01c0-43eb-aba2-675343422fcb",
+                                    "text": {
+                                        "caption": "Security Realms",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": 202,
+                                        "y": -10
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#d2593d",
+                                    "children": [
+
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "1e7226fa-5f5e-41bd-8af0-b925afbd23e1",
+                            "parentId": "7c5e65a6-57f8-443e-9c6f-9d2b5e60cfd7",
+                            "text": {
+                                "caption": "Basic Authentication",
+                                "font": {
+                                    "weight": "normal",
+                                    "style": "normal",
+                                    "decoration": "none",
+                                    "size": 15,
+                                    "color": "#000000"
+                                }
+                            },
+                            "offset": {
+                                "x": 204,
+                                "y": -17
+                            },
+                            "foldChildren": false,
+                            "branchColor": "#d2593d",
+                            "children": [
+                                {
+                                    "id": "076bf804-48bd-4a7a-bf48-68db126830ab",
+                                    "parentId": "1e7226fa-5f5e-41bd-8af0-b925afbd23e1",
+                                    "text": {
+                                        "caption": "Proxy Authentication",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": 211,
+                                        "y": 59
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#d2593d",
+                                    "children": [
+
+                                    ]
+                                },
+                                {
+                                    "id": "7bd496fe-0fd1-41ee-ab3f-ebb32802c601",
+                                    "parentId": "1e7226fa-5f5e-41bd-8af0-b925afbd23e1",
+                                    "text": {
+                                        "caption": "Base-64 Username/Password Encoding",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": 197,
+                                        "y": -22
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#d2593d",
+                                    "children": [
+
+                                    ]
+                                },
+                                {
+                                    "id": "4c931108-3eca-479f-93c5-3ba4905c5b08",
+                                    "parentId": "1e7226fa-5f5e-41bd-8af0-b925afbd23e1",
+                                    "text": {
+                                        "caption": "Basic Authentication Example",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": 177,
+                                        "y": -76
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#d2593d",
+                                    "children": [
+
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "fed8f3e0-e4cd-4d4d-a0a9-61abe61efe22",
+                            "parentId": "7c5e65a6-57f8-443e-9c6f-9d2b5e60cfd7",
+                            "text": {
+                                "caption": "The Security Flaws of Basic Authentication",
+                                "font": {
+                                    "style": "normal",
+                                    "weight": "normal",
+                                    "decoration": "none",
+                                    "size": 15,
+                                    "color": "#000000"
+                                }
+                            },
+                            "offset": {
+                                "x": 220,
+                                "y": 52
+                            },
+                            "foldChildren": false,
+                            "branchColor": "#d2593d",
+                            "children": [
+
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "a6574608-bcf2-4b51-952e-af4fcb79f9dd",
+                    "parentId": "7df69767-1bd5-4066-85d8-e4528de051e1",
+                    "text": {
+                        "caption": "Digest Authentication",
+                        "font": {
+                            "style": "normal",
+                            "weight": "normal",
+                            "decoration": "none",
+                            "size": 15,
+                            "color": "#000000"
+                        }
+                    },
+                    "offset": {
+                        "x": 208,
+                        "y": 285
+                    },
+                    "foldChildren": false,
+                    "branchColor": "#4d040f",
+                    "children": [
+
+                    ]
+                },
+                {
+                    "id": "7a78e5d0-f51c-46e7-bc5e-8ff959f7fb9b",
+                    "parentId": "7df69767-1bd5-4066-85d8-e4528de051e1",
+                    "text": {
+                        "caption": "Secure HTTP",
+                        "font": {
+                            "style": "normal",
+                            "weight": "normal",
+                            "decoration": "none",
+                            "size": 15,
+                            "color": "#000000"
+                        }
+                    },
+                    "offset": {
+                        "x": -570,
+                        "y": -76
+                    },
+                    "foldChildren": false,
+                    "branchColor": "#eb0ba1",
+                    "children": [
+
+                    ]
+                }
+            ]
+        }
+    },
+    "dates": {
+        "created": 1359364671525,
+        "modified": 1359366179702
+    },
+    "dimensions": {
+        "x": 4000,
+        "y": 2000
+    },
+    "autosave": true
+}
