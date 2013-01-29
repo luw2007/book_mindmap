@@ -1,0 +1,2581 @@
+{
+    "id": "60f5ee1f-1a8c-4cb5-b39c-13de5c7de217",
+    "title": "西安旅游",
+    "mindmap": {
+        "root": {
+            "id": "c7f16731-9ddf-4378-a04b-f621db2babf9",
+            "parentId": null,
+            "text": {
+                "caption": "西安旅游",
+                "font": {
+                    "style": "normal",
+                    "weight": "bold",
+                    "decoration": "none",
+                    "size": 20,
+                    "color": "#000000"
+                }
+            },
+            "offset": {
+                "x": 0,
+                "y": 0
+            },
+            "foldChildren": false,
+            "branchColor": "#000000",
+            "children": [
+                {
+                    "id": "01519630-d884-49c0-b09b-27721e85b252",
+                    "parentId": "c7f16731-9ddf-4378-a04b-f621db2babf9",
+                    "text": {
+                        "caption": "吃",
+                        "font": {
+                            "style": "normal",
+                            "weight": "normal",
+                            "decoration": "none",
+                            "size": 43,
+                            "color": "#000000"
+                        }
+                    },
+                    "offset": {
+                        "x": 514.300048828125,
+                        "y": -150.433349609375
+                    },
+                    "foldChildren": false,
+                    "branchColor": "#fa1d78",
+                    "children": [
+                        {
+                            "id": "7603c0b4-dfa0-4585-879e-9ee2fe366ad7",
+                            "parentId": "01519630-d884-49c0-b09b-27721e85b252",
+                            "text": {
+                                "caption": "甑糕",
+                                "font": {
+                                    "style": "normal",
+                                    "weight": "normal",
+                                    "decoration": "none",
+                                    "size": 15,
+                                    "color": "#000000"
+                                }
+                            },
+                            "offset": {
+                                "x": 220,
+                                "y": 71
+                            },
+                            "foldChildren": false,
+                            "branchColor": "#fa1d78",
+                            "children": [
+
+                            ]
+                        },
+                        {
+                            "id": "57dc7daa-bb42-43f8-9c76-77c5d088e257",
+                            "parentId": "01519630-d884-49c0-b09b-27721e85b252",
+                            "text": {
+                                "caption": "肉夹馍",
+                                "font": {
+                                    "style": "normal",
+                                    "weight": "normal",
+                                    "decoration": "none",
+                                    "size": 15,
+                                    "color": "#000000"
+                                }
+                            },
+                            "offset": {
+                                "x": 224.666748046875,
+                                "y": -236.566650390625
+                            },
+                            "foldChildren": false,
+                            "branchColor": "#fa1d78",
+                            "children": [
+
+                            ]
+                        },
+                        {
+                            "id": "03968964-c053-4212-b21d-6a74ffbdb62f",
+                            "parentId": "01519630-d884-49c0-b09b-27721e85b252",
+                            "text": {
+                                "caption": "灌汤包",
+                                "font": {
+                                    "style": "normal",
+                                    "weight": "normal",
+                                    "decoration": "none",
+                                    "size": 15,
+                                    "color": "#000000"
+                                }
+                            },
+                            "offset": {
+                                "x": 218.666748046875,
+                                "y": 13.70001220703125
+                            },
+                            "foldChildren": false,
+                            "branchColor": "#fa1d78",
+                            "children": [
+
+                            ]
+                        },
+                        {
+                            "id": "0b547b77-2aac-4904-8c74-a4baa0d4ccad",
+                            "parentId": "01519630-d884-49c0-b09b-27721e85b252",
+                            "text": {
+                                "caption": "米皮/面皮",
+                                "font": {
+                                    "style": "normal",
+                                    "weight": "normal",
+                                    "decoration": "none",
+                                    "size": 15,
+                                    "color": "#000000"
+                                }
+                            },
+                            "offset": {
+                                "x": 216,
+                                "y": -295.566650390625
+                            },
+                            "foldChildren": false,
+                            "branchColor": "#fa1d78",
+                            "children": [
+
+                            ]
+                        },
+                        {
+                            "id": "333a9748-c084-41da-8efb-73f587623fe5",
+                            "parentId": "01519630-d884-49c0-b09b-27721e85b252",
+                            "text": {
+                                "caption": "牛羊肉泡馍",
+                                "font": {
+                                    "style": "normal",
+                                    "weight": "normal",
+                                    "decoration": "none",
+                                    "size": 15,
+                                    "color": "#000000"
+                                }
+                            },
+                            "offset": {
+                                "x": 210.300048828125,
+                                "y": -355
+                            },
+                            "foldChildren": false,
+                            "branchColor": "#fa1d78",
+                            "children": [
+
+                            ]
+                        },
+                        {
+                            "id": "0aa8ecf6-0c1e-4167-b116-d034405f09f8",
+                            "parentId": "01519630-d884-49c0-b09b-27721e85b252",
+                            "text": {
+                                "caption": "biang\nbiang面",
+                                "font": {
+                                    "style": "normal",
+                                    "weight": "normal",
+                                    "decoration": "none",
+                                    "size": 15,
+                                    "color": "#000000"
+                                }
+                            },
+                            "offset": {
+                                "x": 214.666748046875,
+                                "y": -175.5999755859375
+                            },
+                            "foldChildren": false,
+                            "branchColor": "#fa1d78",
+                            "children": [
+
+                            ]
+                        },
+                        {
+                            "id": "c7b58843-cb83-4882-b0d6-2762d7fbfbfa",
+                            "parentId": "01519630-d884-49c0-b09b-27721e85b252",
+                            "text": {
+                                "caption": "臊子面",
+                                "font": {
+                                    "style": "normal",
+                                    "weight": "normal",
+                                    "decoration": "none",
+                                    "size": 15,
+                                    "color": "#000000"
+                                }
+                            },
+                            "offset": {
+                                "x": 222,
+                                "y": -96.5999755859375
+                            },
+                            "foldChildren": false,
+                            "branchColor": "#fa1d78",
+                            "children": [
+
+                            ]
+                        },
+                        {
+                            "id": "9c935b24-f416-4007-993d-237a3233b409",
+                            "parentId": "01519630-d884-49c0-b09b-27721e85b252",
+                            "text": {
+                                "caption": "肉丸胡辣汤",
+                                "font": {
+                                    "style": "normal",
+                                    "weight": "normal",
+                                    "decoration": "none",
+                                    "size": 15,
+                                    "color": "#000000"
+                                }
+                            },
+                            "offset": {
+                                "x": 206.666748046875,
+                                "y": -42.5999755859375
+                            },
+                            "foldChildren": false,
+                            "branchColor": "#fa1d78",
+                            "children": [
+
+                            ]
+                        },
+                        {
+                            "id": "bf4be96a-ca22-431c-92d5-96db6098c031",
+                            "parentId": "01519630-d884-49c0-b09b-27721e85b252",
+                            "text": {
+                                "caption": "荞面饸饹",
+                                "font": {
+                                    "style": "normal",
+                                    "weight": "normal",
+                                    "decoration": "none",
+                                    "size": 15,
+                                    "color": "#000000"
+                                }
+                            },
+                            "offset": {
+                                "x": 214.666748046875,
+                                "y": 122
+                            },
+                            "foldChildren": false,
+                            "branchColor": "#fa1d78",
+                            "children": [
+
+                            ]
+                        },
+                        {
+                            "id": "c5fcf789-ec40-4f12-ac5b-0101eb27a31a",
+                            "parentId": "01519630-d884-49c0-b09b-27721e85b252",
+                            "text": {
+                                "caption": "小炒泡馍",
+                                "font": {
+                                    "style": "normal",
+                                    "weight": "normal",
+                                    "decoration": "none",
+                                    "size": 15,
+                                    "color": "#000000"
+                                }
+                            },
+                            "offset": {
+                                "x": 218,
+                                "y": 176
+                            },
+                            "foldChildren": false,
+                            "branchColor": "#fa1d78",
+                            "children": [
+
+                            ]
+                        },
+                        {
+                            "id": "3054976d-3989-474c-8cb4-02f058b56b9a",
+                            "parentId": "01519630-d884-49c0-b09b-27721e85b252",
+                            "text": {
+                                "caption": "西安饺子宴",
+                                "font": {
+                                    "style": "normal",
+                                    "weight": "normal",
+                                    "decoration": "none",
+                                    "size": 15,
+                                    "color": "#000000"
+                                }
+                            },
+                            "offset": {
+                                "x": 202,
+                                "y": 234
+                            },
+                            "foldChildren": false,
+                            "branchColor": "#fa1d78",
+                            "children": [
+
+                            ]
+                        },
+                        {
+                            "id": "55b3133f-a988-46da-9c6c-f42636b2dd85",
+                            "parentId": "01519630-d884-49c0-b09b-27721e85b252",
+                            "text": {
+                                "caption": "粉汤羊血",
+                                "font": {
+                                    "style": "normal",
+                                    "weight": "normal",
+                                    "decoration": "none",
+                                    "size": 15,
+                                    "color": "#000000"
+                                }
+                            },
+                            "offset": {
+                                "x": 212,
+                                "y": 290
+                            },
+                            "foldChildren": false,
+                            "branchColor": "#fa1d78",
+                            "children": [
+
+                            ]
+                        },
+                        {
+                            "id": "03739511-31e3-4f16-bb01-1d5362618e52",
+                            "parentId": "01519630-d884-49c0-b09b-27721e85b252",
+                            "text": {
+                                "caption": "涮牛肚",
+                                "font": {
+                                    "style": "normal",
+                                    "weight": "normal",
+                                    "decoration": "none",
+                                    "size": 15,
+                                    "color": "#000000"
+                                }
+                            },
+                            "offset": {
+                                "x": 228,
+                                "y": 344
+                            },
+                            "foldChildren": false,
+                            "branchColor": "#fa1d78",
+                            "children": [
+
+                            ]
+                        },
+                        {
+                            "id": "41f2161b-4253-413b-9ea7-2780a78bfe12",
+                            "parentId": "01519630-d884-49c0-b09b-27721e85b252",
+                            "text": {
+                                "caption": "酸菜炒米",
+                                "font": {
+                                    "style": "normal",
+                                    "weight": "normal",
+                                    "decoration": "none",
+                                    "size": 15,
+                                    "color": "#000000"
+                                }
+                            },
+                            "offset": {
+                                "x": 216,
+                                "y": 400
+                            },
+                            "foldChildren": false,
+                            "branchColor": "#fa1d78",
+                            "children": [
+
+                            ]
+                        },
+                        {
+                            "id": "3c92afe7-da41-4b68-b3ee-9e599afc057b",
+                            "parentId": "01519630-d884-49c0-b09b-27721e85b252",
+                            "text": {
+                                "caption": "水盆羊肉",
+                                "font": {
+                                    "style": "normal",
+                                    "weight": "normal",
+                                    "decoration": "none",
+                                    "size": 15,
+                                    "color": "#000000"
+                                }
+                            },
+                            "offset": {
+                                "x": 216,
+                                "y": 460
+                            },
+                            "foldChildren": false,
+                            "branchColor": "#fa1d78",
+                            "children": [
+
+                            ]
+                        },
+                        {
+                            "id": "d1e6634a-5d3e-427e-a5bb-70cb6d3c880e",
+                            "parentId": "01519630-d884-49c0-b09b-27721e85b252",
+                            "text": {
+                                "caption": "葫芦头泡馍",
+                                "font": {
+                                    "style": "normal",
+                                    "weight": "normal",
+                                    "decoration": "none",
+                                    "size": 15,
+                                    "color": "#000000"
+                                }
+                            },
+                            "offset": {
+                                "x": 224,
+                                "y": 524
+                            },
+                            "foldChildren": false,
+                            "branchColor": "#fa1d78",
+                            "children": [
+
+                            ]
+                        },
+                        {
+                            "id": "cb59e535-f85d-48fc-a1e7-0a1bbe24a51b",
+                            "parentId": "01519630-d884-49c0-b09b-27721e85b252",
+                            "text": {
+                                "caption": "粉蒸肉",
+                                "font": {
+                                    "style": "normal",
+                                    "weight": "normal",
+                                    "decoration": "none",
+                                    "size": 15,
+                                    "color": "#000000"
+                                }
+                            },
+                            "offset": {
+                                "x": 252,
+                                "y": 580
+                            },
+                            "foldChildren": false,
+                            "branchColor": "#fa1d78",
+                            "children": [
+
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "ec66a17f-5d6f-453c-b723-ff4bde3a1d0d",
+                    "parentId": "c7f16731-9ddf-4378-a04b-f621db2babf9",
+                    "text": {
+                        "caption": "玩",
+                        "font": {
+                            "style": "normal",
+                            "weight": "bold",
+                            "decoration": "none",
+                            "size": 43,
+                            "color": "#000000"
+                        }
+                    },
+                    "offset": {
+                        "x": -437,
+                        "y": 157
+                    },
+                    "foldChildren": false,
+                    "branchColor": "#470ae9",
+                    "children": [
+                        {
+                            "id": "cb6fc696-7529-43fc-b9d9-0932b873bcd0",
+                            "parentId": "ec66a17f-5d6f-453c-b723-ff4bde3a1d0d",
+                            "text": {
+                                "caption": "古城墙",
+                                "font": {
+                                    "style": "normal",
+                                    "weight": "normal",
+                                    "decoration": "none",
+                                    "size": 15,
+                                    "color": "#000000"
+                                }
+                            },
+                            "offset": {
+                                "x": -220.6666259765625,
+                                "y": 86.63330078125
+                            },
+                            "foldChildren": false,
+                            "branchColor": "#470ae9",
+                            "children": [
+                                {
+                                    "id": "d2f78deb-3813-4323-a012-d7dfe2ff2700",
+                                    "parentId": "cb6fc696-7529-43fc-b9d9-0932b873bcd0",
+                                    "text": {
+                                        "caption": "19的登城门点",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": -233.33333333333334,
+                                        "y": -72
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#470ae9",
+                                    "children": [
+
+                                    ]
+                                },
+                                {
+                                    "id": "f107a075-8868-413b-ae35-51e9b7cd3ed0",
+                                    "parentId": "cb6fc696-7529-43fc-b9d9-0932b873bcd0",
+                                    "text": {
+                                        "caption": "南门",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": -224,
+                                        "y": -21.333333333333332
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#470ae9",
+                                    "children": [
+
+                                    ]
+                                },
+                                {
+                                    "id": "8adc17c4-925c-46d6-b74c-afbbe90d8bac",
+                                    "parentId": "cb6fc696-7529-43fc-b9d9-0932b873bcd0",
+                                    "text": {
+                                        "caption": "朱雀门",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": -222.66666666666666,
+                                        "y": 34.666666666666664
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#470ae9",
+                                    "children": [
+
+                                    ]
+                                },
+                                {
+                                    "id": "f6e790e9-6116-49f1-b004-7aac315447e0",
+                                    "parentId": "cb6fc696-7529-43fc-b9d9-0932b873bcd0",
+                                    "text": {
+                                        "caption": "文昌门",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": -218.66666666666666,
+                                        "y": 81.33333333333333
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#470ae9",
+                                    "children": [
+
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "a7717219-39e8-4d0f-8b11-9a9d5b6da89a",
+                            "parentId": "ec66a17f-5d6f-453c-b723-ff4bde3a1d0d",
+                            "text": {
+                                "caption": "兵马俑",
+                                "font": {
+                                    "style": "normal",
+                                    "weight": "normal",
+                                    "decoration": "none",
+                                    "size": 15,
+                                    "color": "#000000"
+                                }
+                            },
+                            "offset": {
+                                "x": 248.5333251953125,
+                                "y": 76
+                            },
+                            "foldChildren": false,
+                            "branchColor": "#470ae9",
+                            "children": [
+
+                            ]
+                        },
+                        {
+                            "id": "6cf33a82-82fd-4dbb-b24e-87d9e85aeb4e",
+                            "parentId": "ec66a17f-5d6f-453c-b723-ff4bde3a1d0d",
+                            "text": {
+                                "caption": "华清池",
+                                "font": {
+                                    "style": "normal",
+                                    "weight": "normal",
+                                    "decoration": "none",
+                                    "size": 15,
+                                    "color": "#000000"
+                                }
+                            },
+                            "offset": {
+                                "x": 242,
+                                "y": 146
+                            },
+                            "foldChildren": false,
+                            "branchColor": "#470ae9",
+                            "children": [
+
+                            ]
+                        },
+                        {
+                            "id": "e8aaea90-3fe6-4c20-a070-b6eeb12916c0",
+                            "parentId": "ec66a17f-5d6f-453c-b723-ff4bde3a1d0d",
+                            "text": {
+                                "caption": "骊山森林公园",
+                                "font": {
+                                    "style": "normal",
+                                    "weight": "normal",
+                                    "decoration": "none",
+                                    "size": 15,
+                                    "color": "#000000"
+                                }
+                            },
+                            "offset": {
+                                "x": 252,
+                                "y": 598
+                            },
+                            "foldChildren": false,
+                            "branchColor": "#470ae9",
+                            "children": [
+
+                            ]
+                        },
+                        {
+                            "id": "79685ca0-d92d-492e-8f9a-6e63319918d4",
+                            "parentId": "ec66a17f-5d6f-453c-b723-ff4bde3a1d0d",
+                            "text": {
+                                "caption": "翠华山",
+                                "font": {
+                                    "style": "normal",
+                                    "weight": "normal",
+                                    "decoration": "none",
+                                    "size": 15,
+                                    "color": "#000000"
+                                }
+                            },
+                            "offset": {
+                                "x": 266,
+                                "y": 400.566650390625
+                            },
+                            "foldChildren": false,
+                            "branchColor": "#470ae9",
+                            "children": [
+
+                            ]
+                        },
+                        {
+                            "id": "e8ca6809-7128-4df3-8e96-bea319f2ed4e",
+                            "parentId": "ec66a17f-5d6f-453c-b723-ff4bde3a1d0d",
+                            "text": {
+                                "caption": "钟楼/鼓楼",
+                                "font": {
+                                    "style": "normal",
+                                    "weight": "normal",
+                                    "decoration": "none",
+                                    "size": 15,
+                                    "color": "#000000"
+                                }
+                            },
+                            "offset": {
+                                "x": -242,
+                                "y": -149.29998779296875
+                            },
+                            "foldChildren": false,
+                            "branchColor": "#470ae9",
+                            "children": [
+
+                            ]
+                        },
+                        {
+                            "id": "cdcc3b4f-ca2e-48db-a078-0806686da6bd",
+                            "parentId": "ec66a17f-5d6f-453c-b723-ff4bde3a1d0d",
+                            "text": {
+                                "caption": "陕西历史博物馆",
+                                "font": {
+                                    "style": "normal",
+                                    "weight": "normal",
+                                    "decoration": "none",
+                                    "size": 15,
+                                    "color": "#000000"
+                                }
+                            },
+                            "offset": {
+                                "x": -240,
+                                "y": 716.666748046875
+                            },
+                            "foldChildren": false,
+                            "branchColor": "#470ae9",
+                            "children": [
+
+                            ]
+                        },
+                        {
+                            "id": "19c304a9-3edf-4d15-97a1-f744cf9a94f9",
+                            "parentId": "ec66a17f-5d6f-453c-b723-ff4bde3a1d0d",
+                            "text": {
+                                "caption": "大唐不夜城",
+                                "font": {
+                                    "style": "normal",
+                                    "weight": "normal",
+                                    "decoration": "none",
+                                    "size": 15,
+                                    "color": "#000000"
+                                }
+                            },
+                            "offset": {
+                                "x": -246,
+                                "y": 211.333251953125
+                            },
+                            "foldChildren": false,
+                            "branchColor": "#470ae9",
+                            "children": [
+
+                            ]
+                        },
+                        {
+                            "id": "3f8ae0c1-f5f9-4ff4-a581-2214acde9e33",
+                            "parentId": "ec66a17f-5d6f-453c-b723-ff4bde3a1d0d",
+                            "text": {
+                                "caption": "大雁塔",
+                                "font": {
+                                    "style": "normal",
+                                    "weight": "normal",
+                                    "decoration": "none",
+                                    "size": 15,
+                                    "color": "#000000"
+                                }
+                            },
+                            "offset": {
+                                "x": -224,
+                                "y": 18.63330078125
+                            },
+                            "foldChildren": false,
+                            "branchColor": "#470ae9",
+                            "children": [
+
+                            ]
+                        },
+                        {
+                            "id": "58c1c132-5e2f-47f6-99d3-41af4beb2fbf",
+                            "parentId": "ec66a17f-5d6f-453c-b723-ff4bde3a1d0d",
+                            "text": {
+                                "caption": "小雁塔",
+                                "font": {
+                                    "style": "normal",
+                                    "weight": "normal",
+                                    "decoration": "none",
+                                    "size": 15,
+                                    "color": "#000000"
+                                }
+                            },
+                            "offset": {
+                                "x": -217.300048828125,
+                                "y": -96.566650390625
+                            },
+                            "foldChildren": false,
+                            "branchColor": "#470ae9",
+                            "children": [
+
+                            ]
+                        },
+                        {
+                            "id": "61bc4d06-c1d4-4b55-bbf3-5620ef5971a1",
+                            "parentId": "ec66a17f-5d6f-453c-b723-ff4bde3a1d0d",
+                            "text": {
+                                "caption": "大雁塔北广场",
+                                "font": {
+                                    "style": "normal",
+                                    "weight": "normal",
+                                    "decoration": "none",
+                                    "size": 15,
+                                    "color": "#000000"
+                                }
+                            },
+                            "offset": {
+                                "x": -242.5333251953125,
+                                "y": -32.5999755859375
+                            },
+                            "foldChildren": false,
+                            "branchColor": "#470ae9",
+                            "children": [
+
+                            ]
+                        },
+                        {
+                            "id": "38d07d7b-08b9-4ec8-8182-37ca7726ed39",
+                            "parentId": "ec66a17f-5d6f-453c-b723-ff4bde3a1d0d",
+                            "text": {
+                                "caption": "大唐芙蓉园",
+                                "font": {
+                                    "style": "normal",
+                                    "weight": "normal",
+                                    "decoration": "none",
+                                    "size": 15,
+                                    "color": "#000000"
+                                }
+                            },
+                            "offset": {
+                                "x": -224,
+                                "y": 272.63330078125
+                            },
+                            "foldChildren": false,
+                            "branchColor": "#470ae9",
+                            "children": [
+
+                            ]
+                        },
+                        {
+                            "id": "750d0527-e9fe-40c2-80af-e4701927d4d6",
+                            "parentId": "ec66a17f-5d6f-453c-b723-ff4bde3a1d0d",
+                            "text": {
+                                "caption": "曲江海洋公园",
+                                "font": {
+                                    "style": "normal",
+                                    "weight": "normal",
+                                    "decoration": "none",
+                                    "size": 15,
+                                    "color": "#000000"
+                                }
+                            },
+                            "offset": {
+                                "x": -233.300048828125,
+                                "y": 600.63330078125
+                            },
+                            "foldChildren": false,
+                            "branchColor": "#470ae9",
+                            "children": [
+
+                            ]
+                        },
+                        {
+                            "id": "de8cb781-dcfd-4fc5-ae2f-e56561c4610f",
+                            "parentId": "ec66a17f-5d6f-453c-b723-ff4bde3a1d0d",
+                            "text": {
+                                "caption": "青龙寺",
+                                "font": {
+                                    "style": "normal",
+                                    "weight": "normal",
+                                    "decoration": "none",
+                                    "size": 15,
+                                    "color": "#000000"
+                                }
+                            },
+                            "offset": {
+                                "x": -207.300048828125,
+                                "y": 399.3333740234375
+                            },
+                            "foldChildren": false,
+                            "branchColor": "#470ae9",
+                            "children": [
+
+                            ]
+                        },
+                        {
+                            "id": "e3982a2e-738f-4b5e-9e09-2604866efae0",
+                            "parentId": "ec66a17f-5d6f-453c-b723-ff4bde3a1d0d",
+                            "text": {
+                                "caption": "曲江遗址公园",
+                                "font": {
+                                    "style": "normal",
+                                    "weight": "normal",
+                                    "decoration": "none",
+                                    "size": 15,
+                                    "color": "#000000"
+                                }
+                            },
+                            "offset": {
+                                "x": -238,
+                                "y": 660.63330078125
+                            },
+                            "foldChildren": false,
+                            "branchColor": "#470ae9",
+                            "children": [
+
+                            ]
+                        },
+                        {
+                            "id": "7f34686a-30cf-44d2-a9f1-8c6b48620368",
+                            "parentId": "ec66a17f-5d6f-453c-b723-ff4bde3a1d0d",
+                            "text": {
+                                "caption": "阿房宫",
+                                "font": {
+                                    "style": "normal",
+                                    "weight": "normal",
+                                    "decoration": "none",
+                                    "size": 15,
+                                    "color": "#000000"
+                                }
+                            },
+                            "offset": {
+                                "x": 280.5999755859375,
+                                "y": 466.6666259765625
+                            },
+                            "foldChildren": false,
+                            "branchColor": "#470ae9",
+                            "children": [
+
+                            ]
+                        },
+                        {
+                            "id": "462074bb-05b8-4684-af53-a6b81e22ed46",
+                            "parentId": "ec66a17f-5d6f-453c-b723-ff4bde3a1d0d",
+                            "text": {
+                                "caption": "碑林博物馆",
+                                "font": {
+                                    "style": "normal",
+                                    "weight": "normal",
+                                    "decoration": "none",
+                                    "size": 15,
+                                    "color": "#000000"
+                                }
+                            },
+                            "offset": {
+                                "x": -224.666748046875,
+                                "y": 337.3333740234375
+                            },
+                            "foldChildren": false,
+                            "branchColor": "#470ae9",
+                            "children": [
+
+                            ]
+                        },
+                        {
+                            "id": "cfd0d1d0-a757-43c1-957b-c594f5084915",
+                            "parentId": "ec66a17f-5d6f-453c-b723-ff4bde3a1d0d",
+                            "text": {
+                                "caption": "唐大明宫遗址",
+                                "font": {
+                                    "style": "normal",
+                                    "weight": "normal",
+                                    "decoration": "none",
+                                    "size": 15,
+                                    "color": "#000000"
+                                }
+                            },
+                            "offset": {
+                                "x": -234.666748046875,
+                                "y": 527.300048828125
+                            },
+                            "foldChildren": false,
+                            "branchColor": "#470ae9",
+                            "children": [
+
+                            ]
+                        },
+                        {
+                            "id": "1ffaa9f2-ed3f-4aa7-9a36-2aa3b23e93f1",
+                            "parentId": "ec66a17f-5d6f-453c-b723-ff4bde3a1d0d",
+                            "text": {
+                                "caption": "乾陵",
+                                "font": {
+                                    "style": "normal",
+                                    "weight": "normal",
+                                    "decoration": "none",
+                                    "size": 15,
+                                    "color": "#000000"
+                                }
+                            },
+                            "offset": {
+                                "x": 279.3333740234375,
+                                "y": 531.300048828125
+                            },
+                            "foldChildren": false,
+                            "branchColor": "#470ae9",
+                            "children": [
+
+                            ]
+                        },
+                        {
+                            "id": "8d10b10f-f3c0-4105-a172-864a43ffd1c6",
+                            "parentId": "ec66a17f-5d6f-453c-b723-ff4bde3a1d0d",
+                            "text": {
+                                "caption": "秦陵地宫",
+                                "font": {
+                                    "style": "normal",
+                                    "weight": "normal",
+                                    "decoration": "none",
+                                    "size": 15,
+                                    "color": "#000000"
+                                }
+                            },
+                            "offset": {
+                                "x": 242,
+                                "y": 278
+                            },
+                            "foldChildren": false,
+                            "branchColor": "#470ae9",
+                            "children": [
+
+                            ]
+                        },
+                        {
+                            "id": "0640817a-fad0-45c8-96ab-d0e273be9a7e",
+                            "parentId": "ec66a17f-5d6f-453c-b723-ff4bde3a1d0d",
+                            "text": {
+                                "caption": "昭陵",
+                                "font": {
+                                    "style": "normal",
+                                    "weight": "normal",
+                                    "decoration": "none",
+                                    "size": 15,
+                                    "color": "#000000"
+                                }
+                            },
+                            "offset": {
+                                "x": 262.5333251953125,
+                                "y": 339.300048828125
+                            },
+                            "foldChildren": false,
+                            "branchColor": "#470ae9",
+                            "children": [
+
+                            ]
+                        },
+                        {
+                            "id": "bc54d5a5-ae55-4bd2-bc11-91e7bb31e6db",
+                            "parentId": "ec66a17f-5d6f-453c-b723-ff4bde3a1d0d",
+                            "text": {
+                                "caption": "秦岭野生动物园",
+                                "font": {
+                                    "style": "normal",
+                                    "weight": "normal",
+                                    "decoration": "none",
+                                    "size": 15,
+                                    "color": "#000000"
+                                }
+                            },
+                            "offset": {
+                                "x": 247.3333740234375,
+                                "y": 720
+                            },
+                            "foldChildren": false,
+                            "branchColor": "#470ae9",
+                            "children": [
+
+                            ]
+                        },
+                        {
+                            "id": "4eb6e2a4-9dbb-4009-ba81-7ded6ac2a2b2",
+                            "parentId": "ec66a17f-5d6f-453c-b723-ff4bde3a1d0d",
+                            "text": {
+                                "caption": "太平森林公园",
+                                "font": {
+                                    "style": "normal",
+                                    "weight": "normal",
+                                    "decoration": "none",
+                                    "size": 15,
+                                    "color": "#000000"
+                                }
+                            },
+                            "offset": {
+                                "x": 257.3333740234375,
+                                "y": 658
+                            },
+                            "foldChildren": false,
+                            "branchColor": "#470ae9",
+                            "children": [
+
+                            ]
+                        },
+                        {
+                            "id": "9fd1820a-87a8-4a37-a9a7-84737f5cb7ab",
+                            "parentId": "ec66a17f-5d6f-453c-b723-ff4bde3a1d0d",
+                            "text": {
+                                "caption": "华山",
+                                "font": {
+                                    "style": "normal",
+                                    "weight": "normal",
+                                    "decoration": "none",
+                                    "size": 15,
+                                    "color": "#000000"
+                                }
+                            },
+                            "offset": {
+                                "x": 259.3333740234375,
+                                "y": 17.433349609375
+                            },
+                            "foldChildren": false,
+                            "branchColor": "#470ae9",
+                            "children": [
+
+                            ]
+                        },
+                        {
+                            "id": "1cb29a4b-0fc6-423d-b975-e0e7c6bd1a1f",
+                            "parentId": "ec66a17f-5d6f-453c-b723-ff4bde3a1d0d",
+                            "text": {
+                                "caption": "法门寺",
+                                "font": {
+                                    "style": "normal",
+                                    "weight": "normal",
+                                    "decoration": "none",
+                                    "size": 15,
+                                    "color": "#000000"
+                                }
+                            },
+                            "offset": {
+                                "x": 246.5333251953125,
+                                "y": 212
+                            },
+                            "foldChildren": false,
+                            "branchColor": "#470ae9",
+                            "children": [
+
+                            ]
+                        },
+                        {
+                            "id": "0e005eb6-6cfe-4366-8290-f9d7548039c3",
+                            "parentId": "ec66a17f-5d6f-453c-b723-ff4bde3a1d0d",
+                            "text": {
+                                "caption": "大清真寺",
+                                "font": {
+                                    "style": "normal",
+                                    "weight": "normal",
+                                    "decoration": "none",
+                                    "size": 15,
+                                    "color": "#000000"
+                                }
+                            },
+                            "offset": {
+                                "x": -218.666748046875,
+                                "y": 457.300048828125
+                            },
+                            "foldChildren": false,
+                            "branchColor": "#470ae9",
+                            "children": [
+
+                            ]
+                        },
+                        {
+                            "id": "fb6bc8e2-2a0d-4f79-b3f3-d88813126a8c",
+                            "parentId": "ec66a17f-5d6f-453c-b723-ff4bde3a1d0d",
+                            "text": {
+                                "caption": "回民街",
+                                "font": {
+                                    "style": "normal",
+                                    "weight": "normal",
+                                    "decoration": "none",
+                                    "size": 15,
+                                    "color": "#000000"
+                                }
+                            },
+                            "offset": {
+                                "x": -215.300048828125,
+                                "y": 148
+                            },
+                            "foldChildren": false,
+                            "branchColor": "#470ae9",
+                            "children": [
+
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "c5828b3f-ff19-48fe-bba3-008649041542",
+                    "parentId": "c7f16731-9ddf-4378-a04b-f621db2babf9",
+                    "text": {
+                        "caption": "土特产",
+                        "font": {
+                            "style": "normal",
+                            "weight": "bold",
+                            "decoration": "none",
+                            "size": 15,
+                            "color": "#000000"
+                        }
+                    },
+                    "offset": {
+                        "x": -235.3333740234375,
+                        "y": -52.66668701171875
+                    },
+                    "foldChildren": false,
+                    "branchColor": "#1cb8d5",
+                    "children": [
+                        {
+                            "id": "f17c5da1-f2fc-4337-a6eb-8166bf991fef",
+                            "parentId": "c5828b3f-ff19-48fe-bba3-008649041542",
+                            "text": {
+                                "caption": "陕北大红枣",
+                                "font": {
+                                    "style": "normal",
+                                    "weight": "normal",
+                                    "decoration": "none",
+                                    "size": 15,
+                                    "color": "#000000"
+                                }
+                            },
+                            "offset": {
+                                "x": -204.566650390625,
+                                "y": -48.566650390625
+                            },
+                            "foldChildren": false,
+                            "branchColor": "#1cb8d5",
+                            "children": [
+
+                            ]
+                        },
+                        {
+                            "id": "037a696c-1ca5-4755-8f7a-196e3dc165e6",
+                            "parentId": "c5828b3f-ff19-48fe-bba3-008649041542",
+                            "text": {
+                                "caption": "腊牛羊肉",
+                                "font": {
+                                    "style": "normal",
+                                    "weight": "normal",
+                                    "decoration": "none",
+                                    "size": 15,
+                                    "color": "#000000"
+                                }
+                            },
+                            "offset": {
+                                "x": -204.6666259765625,
+                                "y": 16
+                            },
+                            "foldChildren": false,
+                            "branchColor": "#1cb8d5",
+                            "children": [
+
+                            ]
+                        },
+                        {
+                            "id": "018b26f4-6d1a-4d2f-80f2-c5e1d24430a0",
+                            "parentId": "c5828b3f-ff19-48fe-bba3-008649041542",
+                            "text": {
+                                "caption": "黄桂柿子饼",
+                                "font": {
+                                    "style": "normal",
+                                    "weight": "normal",
+                                    "decoration": "none",
+                                    "size": 15,
+                                    "color": "#000000"
+                                }
+                            },
+                            "offset": {
+                                "x": -207.9998779296875,
+                                "y": 70.00006103515625
+                            },
+                            "foldChildren": false,
+                            "branchColor": "#1cb8d5",
+                            "children": [
+
+                            ]
+                        },
+                        {
+                            "id": "d2f66ef4-8131-4f3a-a117-978b9b7243e5",
+                            "parentId": "c5828b3f-ff19-48fe-bba3-008649041542",
+                            "text": {
+                                "caption": "黄桂稠酒",
+                                "font": {
+                                    "style": "normal",
+                                    "weight": "normal",
+                                    "decoration": "none",
+                                    "size": 15,
+                                    "color": "#000000"
+                                }
+                            },
+                            "offset": {
+                                "x": -205.9666748046875,
+                                "y": 129.29998779296875
+                            },
+                            "foldChildren": false,
+                            "branchColor": "#1cb8d5",
+                            "children": [
+
+                            ]
+                        },
+                        {
+                            "id": "b0168978-3815-4cac-b1c7-4dc1695c1d7a",
+                            "parentId": "c5828b3f-ff19-48fe-bba3-008649041542",
+                            "text": {
+                                "caption": "水晶饼",
+                                "font": {
+                                    "style": "normal",
+                                    "weight": "normal",
+                                    "decoration": "none",
+                                    "size": 15,
+                                    "color": "#000000"
+                                }
+                            },
+                            "offset": {
+                                "x": -189.9666748046875,
+                                "y": -121.99993896484375
+                            },
+                            "foldChildren": false,
+                            "branchColor": "#1cb8d5",
+                            "children": [
+
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "59c724a0-f2b7-4916-bfb2-98a26bb88604",
+                    "parentId": "c7f16731-9ddf-4378-a04b-f621db2babf9",
+                    "text": {
+                        "caption": "纪念品",
+                        "font": {
+                            "style": "normal",
+                            "weight": "bold",
+                            "decoration": "none",
+                            "size": 15,
+                            "color": "#000000"
+                        }
+                    },
+                    "offset": {
+                        "x": -416.566650390625,
+                        "y": -294.5333251953125
+                    },
+                    "foldChildren": false,
+                    "branchColor": "#59d09a",
+                    "children": [
+                        {
+                            "id": "c44ab91f-50f3-4f0a-8d70-d9b63aab0e04",
+                            "parentId": "59c724a0-f2b7-4916-bfb2-98a26bb88604",
+                            "text": {
+                                "caption": "兵马俑复制品",
+                                "font": {
+                                    "style": "normal",
+                                    "weight": "normal",
+                                    "decoration": "none",
+                                    "size": 15,
+                                    "color": "#000000"
+                                }
+                            },
+                            "offset": {
+                                "x": -285.3333333333333,
+                                "y": -204
+                            },
+                            "foldChildren": false,
+                            "branchColor": "#59d09a",
+                            "children": [
+
+                            ]
+                        },
+                        {
+                            "id": "a21f96c2-cdeb-4cff-a7b1-b1de4b651ea5",
+                            "parentId": "59c724a0-f2b7-4916-bfb2-98a26bb88604",
+                            "text": {
+                                "caption": "仿秦铜车马",
+                                "font": {
+                                    "style": "normal",
+                                    "weight": "normal",
+                                    "decoration": "none",
+                                    "size": 15,
+                                    "color": "#000000"
+                                }
+                            },
+                            "offset": {
+                                "x": -285.3333740234375,
+                                "y": -144.66668701171875
+                            },
+                            "foldChildren": false,
+                            "branchColor": "#59d09a",
+                            "children": [
+
+                            ]
+                        },
+                        {
+                            "id": "d697fa7f-8cf8-467f-8f99-b288aa3b7f08",
+                            "parentId": "59c724a0-f2b7-4916-bfb2-98a26bb88604",
+                            "text": {
+                                "caption": "仿唐三彩",
+                                "font": {
+                                    "style": "normal",
+                                    "weight": "normal",
+                                    "decoration": "none",
+                                    "size": 15,
+                                    "color": "#000000"
+                                }
+                            },
+                            "offset": {
+                                "x": -282,
+                                "y": -20.66668701171875
+                            },
+                            "foldChildren": false,
+                            "branchColor": "#59d09a",
+                            "children": [
+
+                            ]
+                        },
+                        {
+                            "id": "2f9a6102-4ecc-4375-bebb-fcb37287a992",
+                            "parentId": "59c724a0-f2b7-4916-bfb2-98a26bb88604",
+                            "text": {
+                                "caption": "剪纸",
+                                "font": {
+                                    "style": "normal",
+                                    "weight": "normal",
+                                    "decoration": "none",
+                                    "size": 15,
+                                    "color": "#000000"
+                                }
+                            },
+                            "offset": {
+                                "x": -282.666748046875,
+                                "y": 23.33331298828125
+                            },
+                            "foldChildren": false,
+                            "branchColor": "#59d09a",
+                            "children": [
+
+                            ]
+                        },
+                        {
+                            "id": "2ee0fadc-5ab8-4b32-b018-4d65c67955ec",
+                            "parentId": "59c724a0-f2b7-4916-bfb2-98a26bb88604",
+                            "text": {
+                                "caption": "西安刺绣",
+                                "font": {
+                                    "style": "normal",
+                                    "weight": "normal",
+                                    "decoration": "none",
+                                    "size": 15,
+                                    "color": "#000000"
+                                }
+                            },
+                            "offset": {
+                                "x": -282.666748046875,
+                                "y": 79.2666015625
+                            },
+                            "foldChildren": false,
+                            "branchColor": "#59d09a",
+                            "children": [
+
+                            ]
+                        },
+                        {
+                            "id": "3db432f1-fc14-42d5-a67f-5e642851ffd2",
+                            "parentId": "59c724a0-f2b7-4916-bfb2-98a26bb88604",
+                            "text": {
+                                "caption": "皮影",
+                                "font": {
+                                    "style": "normal",
+                                    "weight": "normal",
+                                    "decoration": "none",
+                                    "size": 15,
+                                    "color": "#000000"
+                                }
+                            },
+                            "offset": {
+                                "x": -273.3333740234375,
+                                "y": 137.2666015625
+                            },
+                            "foldChildren": false,
+                            "branchColor": "#59d09a",
+                            "children": [
+
+                            ]
+                        },
+                        {
+                            "id": "2b46f4bf-57fa-489e-a83f-9eecb04bc148",
+                            "parentId": "59c724a0-f2b7-4916-bfb2-98a26bb88604",
+                            "text": {
+                                "caption": "彩绘泥塑",
+                                "font": {
+                                    "style": "normal",
+                                    "weight": "normal",
+                                    "decoration": "none",
+                                    "size": 15,
+                                    "color": "#000000"
+                                }
+                            },
+                            "offset": {
+                                "x": -286,
+                                "y": 194.63330078125
+                            },
+                            "foldChildren": false,
+                            "branchColor": "#59d09a",
+                            "children": [
+
+                            ]
+                        },
+                        {
+                            "id": "a8415fe7-a5fc-4735-a542-c5f5baf14e14",
+                            "parentId": "59c724a0-f2b7-4916-bfb2-98a26bb88604",
+                            "text": {
+                                "caption": "碑林拓片",
+                                "font": {
+                                    "style": "normal",
+                                    "weight": "normal",
+                                    "decoration": "none",
+                                    "size": 15,
+                                    "color": "#000000"
+                                }
+                            },
+                            "offset": {
+                                "x": -278.666748046875,
+                                "y": -86
+                            },
+                            "foldChildren": false,
+                            "branchColor": "#59d09a",
+                            "children": [
+
+                            ]
+                        },
+                        {
+                            "id": "3eec1b94-060a-4bd5-9828-a59dd68346f0",
+                            "parentId": "59c724a0-f2b7-4916-bfb2-98a26bb88604",
+                            "text": {
+                                "caption": "户县农民画",
+                                "font": {
+                                    "style": "normal",
+                                    "weight": "normal",
+                                    "decoration": "none",
+                                    "size": 15,
+                                    "color": "#000000"
+                                }
+                            },
+                            "offset": {
+                                "x": -294.666748046875,
+                                "y": 244
+                            },
+                            "foldChildren": false,
+                            "branchColor": "#59d09a",
+                            "children": [
+
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "68237dbc-f440-4a25-8231-9194729a531b",
+                    "parentId": "c7f16731-9ddf-4378-a04b-f621db2babf9",
+                    "text": {
+                        "caption": "民俗",
+                        "font": {
+                            "weight": "bold",
+                            "style": "normal",
+                            "decoration": "none",
+                            "size": 15,
+                            "color": "#000000"
+                        }
+                    },
+                    "offset": {
+                        "x": 155.300048828125,
+                        "y": 99.300048828125
+                    },
+                    "foldChildren": false,
+                    "branchColor": "#444e1b",
+                    "children": [
+                        {
+                            "id": "4470f281-beca-4805-b393-1bea6bbf4e48",
+                            "parentId": "68237dbc-f440-4a25-8231-9194729a531b",
+                            "text": {
+                                "caption": "秦腔",
+                                "font": {
+                                    "weight": "normal",
+                                    "style": "normal",
+                                    "decoration": "none",
+                                    "size": 15,
+                                    "color": "#000000"
+                                }
+                            },
+                            "offset": {
+                                "x": 128,
+                                "y": -44
+                            },
+                            "foldChildren": false,
+                            "branchColor": "#444e1b",
+                            "children": [
+
+                            ]
+                        },
+                        {
+                            "id": "0c9dc2b1-abe6-4245-8151-a0915b52712e",
+                            "parentId": "68237dbc-f440-4a25-8231-9194729a531b",
+                            "text": {
+                                "caption": "关中八大怪",
+                                "font": {
+                                    "weight": "normal",
+                                    "style": "normal",
+                                    "decoration": "none",
+                                    "size": 15,
+                                    "color": "#000000"
+                                }
+                            },
+                            "offset": {
+                                "x": 129.300048828125,
+                                "y": 44.66668701171875
+                            },
+                            "foldChildren": false,
+                            "branchColor": "#444e1b",
+                            "children": [
+                                {
+                                    "id": "10ca0c8e-898c-4925-8304-8d6187d0e3dd",
+                                    "parentId": "0c9dc2b1-abe6-4245-8151-a0915b52712e",
+                                    "text": {
+                                        "caption": "房子半边盖",
+                                        "font": {
+                                            "weight": "normal",
+                                            "style": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": 186,
+                                        "y": -189
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#444e1b",
+                                    "children": [
+
+                                    ]
+                                },
+                                {
+                                    "id": "77129566-5f19-47a3-bc7f-0530210e6118",
+                                    "parentId": "0c9dc2b1-abe6-4245-8151-a0915b52712e",
+                                    "text": {
+                                        "caption": "手帕头上戴",
+                                        "font": {
+                                            "weight": "normal",
+                                            "style": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": 182,
+                                        "y": -134
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#444e1b",
+                                    "children": [
+
+                                    ]
+                                },
+                                {
+                                    "id": "64fc7930-f7cf-4db8-abb5-d5bd07f3a041",
+                                    "parentId": "0c9dc2b1-abe6-4245-8151-a0915b52712e",
+                                    "text": {
+                                        "caption": "碗盆难分开",
+                                        "font": {
+                                            "weight": "normal",
+                                            "style": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": 185,
+                                        "y": -82
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#444e1b",
+                                    "children": [
+
+                                    ]
+                                },
+                                {
+                                    "id": "965bf47f-a458-41d6-b0ee-1720787d8082",
+                                    "parentId": "0c9dc2b1-abe6-4245-8151-a0915b52712e",
+                                    "text": {
+                                        "caption": "面条像腰带",
+                                        "font": {
+                                            "weight": "normal",
+                                            "style": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": 185,
+                                        "y": -30
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#444e1b",
+                                    "children": [
+
+                                    ]
+                                },
+                                {
+                                    "id": "9a564e4c-0d14-4e46-986f-99b929dcdb76",
+                                    "parentId": "0c9dc2b1-abe6-4245-8151-a0915b52712e",
+                                    "text": {
+                                        "caption": "锅盔赛锅盖",
+                                        "font": {
+                                            "weight": "normal",
+                                            "style": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": 188,
+                                        "y": 22
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#444e1b",
+                                    "children": [
+
+                                    ]
+                                },
+                                {
+                                    "id": "473ff879-d6b1-49bd-af11-4a1295b19fcf",
+                                    "parentId": "0c9dc2b1-abe6-4245-8151-a0915b52712e",
+                                    "text": {
+                                        "caption": "油泼辣子一道菜",
+                                        "font": {
+                                            "weight": "normal",
+                                            "style": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": 176,
+                                        "y": 73
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#444e1b",
+                                    "children": [
+
+                                    ]
+                                },
+                                {
+                                    "id": "6827028d-6ae3-4d6d-b507-c275884d1ef3",
+                                    "parentId": "0c9dc2b1-abe6-4245-8151-a0915b52712e",
+                                    "text": {
+                                        "caption": "唱戏吼起来",
+                                        "font": {
+                                            "weight": "normal",
+                                            "style": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": 182,
+                                        "y": 151
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#444e1b",
+                                    "children": [
+
+                                    ]
+                                },
+                                {
+                                    "id": "a249ee7a-3990-4cb4-a92b-db91cd0eaf8e",
+                                    "parentId": "0c9dc2b1-abe6-4245-8151-a0915b52712e",
+                                    "text": {
+                                        "caption": "板凳不坐蹲起来",
+                                        "font": {
+                                            "weight": "normal",
+                                            "style": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": 169,
+                                        "y": 204
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#444e1b",
+                                    "children": [
+
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "a2fcf6b6-1776-4f22-87e7-1744d22c1333",
+                    "parentId": "c7f16731-9ddf-4378-a04b-f621db2babf9",
+                    "text": {
+                        "caption": "两日游",
+                        "font": {
+                            "style": "normal",
+                            "weight": "normal",
+                            "decoration": "none",
+                            "size": 15,
+                            "color": "#000000"
+                        }
+                    },
+                    "offset": {
+                        "x": 153.2333984375,
+                        "y": 760.666748046875
+                    },
+                    "foldChildren": false,
+                    "branchColor": "#175ad1",
+                    "children": [
+                        {
+                            "id": "6dad4072-3ba7-4150-8fa7-b4415706b3fb",
+                            "parentId": "a2fcf6b6-1776-4f22-87e7-1744d22c1333",
+                            "text": {
+                                "caption": "西安古城墙",
+                                "font": {
+                                    "style": "normal",
+                                    "weight": "normal",
+                                    "decoration": "none",
+                                    "size": 15,
+                                    "color": "#000000"
+                                }
+                            },
+                            "offset": {
+                                "x": 186.66666666666666,
+                                "y": -97.33333333333333
+                            },
+                            "foldChildren": false,
+                            "branchColor": "#175ad1",
+                            "children": [
+                                {
+                                    "id": "918c64f5-d48b-4423-9228-e53bb44a6c06",
+                                    "parentId": "6dad4072-3ba7-4150-8fa7-b4415706b3fb",
+                                    "text": {
+                                        "caption": "书院门",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": 144,
+                                        "y": 2.6666666666666665
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#175ad1",
+                                    "children": [
+                                        {
+                                            "id": "1786625d-d63d-4d21-a2b2-235e72e10b62",
+                                            "parentId": "918c64f5-d48b-4423-9228-e53bb44a6c06",
+                                            "text": {
+                                                "caption": "碑林博物馆",
+                                                "font": {
+                                                    "style": "normal",
+                                                    "weight": "normal",
+                                                    "decoration": "none",
+                                                    "size": 15,
+                                                    "color": "#000000"
+                                                }
+                                            },
+                                            "offset": {
+                                                "x": 114.66666666666667,
+                                                "y": 2.6666666666666665
+                                            },
+                                            "foldChildren": false,
+                                            "branchColor": "#175ad1",
+                                            "children": [
+                                                {
+                                                    "id": "3acf341f-23e7-4221-97e2-7bbe26710443",
+                                                    "parentId": "1786625d-d63d-4d21-a2b2-235e72e10b62",
+                                                    "text": {
+                                                        "caption": "北院门(回民街)",
+                                                        "font": {
+                                                            "style": "normal",
+                                                            "weight": "normal",
+                                                            "decoration": "none",
+                                                            "size": 15,
+                                                            "color": "#000000"
+                                                        }
+                                                    },
+                                                    "offset": {
+                                                        "x": 155.300048828125,
+                                                        "y": -24.666748046875
+                                                    },
+                                                    "foldChildren": false,
+                                                    "branchColor": "#175ad1",
+                                                    "children": [
+                                                        {
+                                                            "id": "dcb53da8-1a08-465a-abad-664101939c53",
+                                                            "parentId": "3acf341f-23e7-4221-97e2-7bbe26710443",
+                                                            "text": {
+                                                                "caption": "鼓楼",
+                                                                "font": {
+                                                                    "style": "normal",
+                                                                    "weight": "normal",
+                                                                    "decoration": "none",
+                                                                    "size": 15,
+                                                                    "color": "#000000"
+                                                                }
+                                                            },
+                                                            "offset": {
+                                                                "x": 223.333251953125,
+                                                                "y": 24
+                                                            },
+                                                            "foldChildren": false,
+                                                            "branchColor": "#175ad1",
+                                                            "children": [
+                                                                {
+                                                                    "id": "d6dd5498-75e5-4439-84ac-aa037fc520ee",
+                                                                    "parentId": "dcb53da8-1a08-465a-abad-664101939c53",
+                                                                    "text": {
+                                                                        "caption": "钟楼",
+                                                                        "font": {
+                                                                            "style": "normal",
+                                                                            "weight": "normal",
+                                                                            "decoration": "none",
+                                                                            "size": 15,
+                                                                            "color": "#000000"
+                                                                        }
+                                                                    },
+                                                                    "offset": {
+                                                                        "x": -114.666748046875,
+                                                                        "y": 81.3333740234375
+                                                                    },
+                                                                    "foldChildren": false,
+                                                                    "branchColor": "#175ad1",
+                                                                    "children": [
+                                                                        {
+                                                                            "id": "f91befe5-78ff-4cf7-83c6-8809537edebf",
+                                                                            "parentId": "d6dd5498-75e5-4439-84ac-aa037fc520ee",
+                                                                            "text": {
+                                                                                "caption": "陕西历史博物馆",
+                                                                                "font": {
+                                                                                    "style": "normal",
+                                                                                    "weight": "normal",
+                                                                                    "decoration": "none",
+                                                                                    "size": 15,
+                                                                                    "color": "#000000"
+                                                                                }
+                                                                            },
+                                                                            "offset": {
+                                                                                "x": -177.300048828125,
+                                                                                "y": -24
+                                                                            },
+                                                                            "foldChildren": false,
+                                                                            "branchColor": "#175ad1",
+                                                                            "children": [
+                                                                                {
+                                                                                    "id": "77250ee2-50d5-4404-8d1a-f0e9456c8ac8",
+                                                                                    "parentId": "f91befe5-78ff-4cf7-83c6-8809537edebf",
+                                                                                    "text": {
+                                                                                        "caption": "大雁塔",
+                                                                                        "font": {
+                                                                                            "style": "normal",
+                                                                                            "weight": "normal",
+                                                                                            "decoration": "none",
+                                                                                            "size": 15,
+                                                                                            "color": "#000000"
+                                                                                        }
+                                                                                    },
+                                                                                    "offset": {
+                                                                                        "x": -140.666748046875,
+                                                                                        "y": 22
+                                                                                    },
+                                                                                    "foldChildren": false,
+                                                                                    "branchColor": "#175ad1",
+                                                                                    "children": [
+                                                                                        {
+                                                                                            "id": "cd79761d-905d-4ffe-9e15-3077ea5fbd77",
+                                                                                            "parentId": "77250ee2-50d5-4404-8d1a-f0e9456c8ac8",
+                                                                                            "text": {
+                                                                                                "caption": "大雁塔广场",
+                                                                                                "font": {
+                                                                                                    "style": "normal",
+                                                                                                    "weight": "normal",
+                                                                                                    "decoration": "none",
+                                                                                                    "size": 15,
+                                                                                                    "color": "#000000"
+                                                                                                }
+                                                                                            },
+                                                                                            "offset": {
+                                                                                                "x": -182.63330078125,
+                                                                                                "y": -2
+                                                                                            },
+                                                                                            "foldChildren": false,
+                                                                                            "branchColor": "#175ad1",
+                                                                                            "children": [
+
+                                                                                            ]
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "3dc2b245-c8d6-47c1-bebc-e7d6882835d8",
+                            "parentId": "a2fcf6b6-1776-4f22-87e7-1744d22c1333",
+                            "text": {
+                                "caption": "兵马俑",
+                                "font": {
+                                    "style": "normal",
+                                    "weight": "normal",
+                                    "decoration": "none",
+                                    "size": 15,
+                                    "color": "#000000"
+                                }
+                            },
+                            "offset": {
+                                "x": 195.333251953125,
+                                "y": 78
+                            },
+                            "foldChildren": false,
+                            "branchColor": "#175ad1",
+                            "children": [
+                                {
+                                    "id": "86669e4a-3128-424a-8260-a47e04243112",
+                                    "parentId": "3dc2b245-c8d6-47c1-bebc-e7d6882835d8",
+                                    "text": {
+                                        "caption": "秦始皇陵",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": 100.666748046875,
+                                        "y": -0.666748046875
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#175ad1",
+                                    "children": [
+                                        {
+                                            "id": "6c394d77-2cb1-416d-b795-72a408f7324e",
+                                            "parentId": "86669e4a-3128-424a-8260-a47e04243112",
+                                            "text": {
+                                                "caption": "临潼博物馆",
+                                                "font": {
+                                                    "style": "normal",
+                                                    "weight": "normal",
+                                                    "decoration": "none",
+                                                    "size": 15,
+                                                    "color": "#000000"
+                                                }
+                                            },
+                                            "offset": {
+                                                "x": 119.333251953125,
+                                                "y": 2
+                                            },
+                                            "foldChildren": false,
+                                            "branchColor": "#175ad1",
+                                            "children": [
+                                                {
+                                                    "id": "16d6e25c-04a5-4093-85eb-c8d7673f5912",
+                                                    "parentId": "6c394d77-2cb1-416d-b795-72a408f7324e",
+                                                    "text": {
+                                                        "caption": "华清池",
+                                                        "font": {
+                                                            "style": "normal",
+                                                            "weight": "normal",
+                                                            "decoration": "none",
+                                                            "size": 15,
+                                                            "color": "#000000"
+                                                        }
+                                                    },
+                                                    "offset": {
+                                                        "x": 150,
+                                                        "y": 2
+                                                    },
+                                                    "foldChildren": false,
+                                                    "branchColor": "#175ad1",
+                                                    "children": [
+                                                        {
+                                                            "id": "1888e4c1-5092-4c07-936f-179b2368eaf7",
+                                                            "parentId": "16d6e25c-04a5-4093-85eb-c8d7673f5912",
+                                                            "text": {
+                                                                "caption": "骊山森林公园",
+                                                                "font": {
+                                                                    "style": "normal",
+                                                                    "weight": "normal",
+                                                                    "decoration": "none",
+                                                                    "size": 15,
+                                                                    "color": "#000000"
+                                                                }
+                                                            },
+                                                            "offset": {
+                                                                "x": 92,
+                                                                "y": 0
+                                                            },
+                                                            "foldChildren": false,
+                                                            "branchColor": "#175ad1",
+                                                            "children": [
+
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "2083529e-16af-4a2c-8b90-dd62785bc932",
+                    "parentId": "c7f16731-9ddf-4378-a04b-f621db2babf9",
+                    "text": {
+                        "caption": "历史",
+                        "font": {
+                            "weight": "bold",
+                            "style": "normal",
+                            "decoration": "none",
+                            "size": 15,
+                            "color": "#000000"
+                        }
+                    },
+                    "offset": {
+                        "x": 110,
+                        "y": -224.566650390625
+                    },
+                    "foldChildren": false,
+                    "branchColor": "#530ea8",
+                    "children": [
+                        {
+                            "id": "a409240d-ae5d-4336-9626-0509fb6049b3",
+                            "parentId": "2083529e-16af-4a2c-8b90-dd62785bc932",
+                            "text": {
+                                "caption": "名称演变",
+                                "font": {
+                                    "weight": "normal",
+                                    "style": "normal",
+                                    "decoration": "none",
+                                    "size": 15,
+                                    "color": "#000000"
+                                }
+                            },
+                            "offset": {
+                                "x": 155.666748046875,
+                                "y": -119.66668701171875
+                            },
+                            "foldChildren": false,
+                            "branchColor": "#530ea8",
+                            "children": [
+                                {
+                                    "id": "de651b4e-fdd1-46e9-83b6-061eb3b2b3c3",
+                                    "parentId": "a409240d-ae5d-4336-9626-0509fb6049b3",
+                                    "text": {
+                                        "caption": "西周-丰镐",
+                                        "font": {
+                                            "weight": "normal",
+                                            "style": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": 200,
+                                        "y": -132
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#530ea8",
+                                    "children": [
+
+                                    ]
+                                },
+                                {
+                                    "id": "0a5e793f-fc39-4fa1-84b2-69b2e377a370",
+                                    "parentId": "a409240d-ae5d-4336-9626-0509fb6049b3",
+                                    "text": {
+                                        "caption": "西汉-长安",
+                                        "font": {
+                                            "weight": "normal",
+                                            "style": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": 206.300048828125,
+                                        "y": -74.66668701171875
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#530ea8",
+                                    "children": [
+
+                                    ]
+                                },
+                                {
+                                    "id": "e7009bfb-d009-4f19-8113-31736f90ebfe",
+                                    "parentId": "a409240d-ae5d-4336-9626-0509fb6049b3",
+                                    "text": {
+                                        "caption": "隋-大兴城",
+                                        "font": {
+                                            "weight": "normal",
+                                            "style": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": 203,
+                                        "y": -20.29998779296875
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#530ea8",
+                                    "children": [
+
+                                    ]
+                                },
+                                {
+                                    "id": "9001b3ae-34d8-4a52-b4a4-34ddec6e5d30",
+                                    "parentId": "a409240d-ae5d-4336-9626-0509fb6049b3",
+                                    "text": {
+                                        "caption": "唐*元-长安",
+                                        "font": {
+                                            "weight": "normal",
+                                            "style": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": 203.300048828125,
+                                        "y": 32
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#530ea8",
+                                    "children": [
+
+                                    ]
+                                },
+                                {
+                                    "id": "2b409bd5-720c-4a1f-941f-a13ebcff6a5a",
+                                    "parentId": "a409240d-ae5d-4336-9626-0509fb6049b3",
+                                    "text": {
+                                        "caption": "元-奉元城",
+                                        "font": {
+                                            "weight": "normal",
+                                            "style": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": 208,
+                                        "y": 81.33331298828125
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#530ea8",
+                                    "children": [
+
+                                    ]
+                                },
+                                {
+                                    "id": "92adb3dc-0b2d-419a-bbc6-c1a4c40b1263",
+                                    "parentId": "a409240d-ae5d-4336-9626-0509fb6049b3",
+                                    "text": {
+                                        "caption": "明*清-西安府",
+                                        "font": {
+                                            "weight": "normal",
+                                            "style": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": 193.300048828125,
+                                        "y": 134
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#530ea8",
+                                    "children": [
+
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "a993ec00-26f6-43a4-bb5b-7e3f80a072f3",
+                            "parentId": "2083529e-16af-4a2c-8b90-dd62785bc932",
+                            "text": {
+                                "caption": "丝绸之路起点",
+                                "font": {
+                                    "style": "normal",
+                                    "weight": "normal",
+                                    "decoration": "none",
+                                    "size": 15,
+                                    "color": "#000000"
+                                }
+                            },
+                            "offset": {
+                                "x": 126.666748046875,
+                                "y": 22
+                            },
+                            "foldChildren": false,
+                            "branchColor": "#530ea8",
+                            "children": [
+
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "dc377cea-e9fa-4a60-887a-dba8fa1fcb22",
+                    "parentId": "c7f16731-9ddf-4378-a04b-f621db2babf9",
+                    "text": {
+                        "caption": "一日游",
+                        "font": {
+                            "style": "normal",
+                            "weight": "normal",
+                            "decoration": "none",
+                            "size": 15,
+                            "color": "#000000"
+                        }
+                    },
+                    "offset": {
+                        "x": 156.666748046875,
+                        "y": 518.6666259765625
+                    },
+                    "foldChildren": false,
+                    "branchColor": "#03769b",
+                    "children": [
+                        {
+                            "id": "edb261ac-34c6-4c31-b3ab-ec387f9185a7",
+                            "parentId": "dc377cea-e9fa-4a60-887a-dba8fa1fcb22",
+                            "text": {
+                                "caption": "大雁塔",
+                                "font": {
+                                    "style": "normal",
+                                    "weight": "normal",
+                                    "decoration": "none",
+                                    "size": 15,
+                                    "color": "#000000"
+                                }
+                            },
+                            "offset": {
+                                "x": 136,
+                                "y": -30.666666666666668
+                            },
+                            "foldChildren": false,
+                            "branchColor": "#03769b",
+                            "children": [
+                                {
+                                    "id": "70eca195-4fa3-43f8-8cf0-1f659dfdc02f",
+                                    "parentId": "edb261ac-34c6-4c31-b3ab-ec387f9185a7",
+                                    "text": {
+                                        "caption": "大雁塔北广场",
+                                        "font": {
+                                            "style": "normal",
+                                            "weight": "normal",
+                                            "decoration": "none",
+                                            "size": 15,
+                                            "color": "#000000"
+                                        }
+                                    },
+                                    "offset": {
+                                        "x": 102.66666666666667,
+                                        "y": 1.3333333333333333
+                                    },
+                                    "foldChildren": false,
+                                    "branchColor": "#03769b",
+                                    "children": [
+                                        {
+                                            "id": "7d561037-ee86-4bb4-b7f7-971de2863880",
+                                            "parentId": "70eca195-4fa3-43f8-8cf0-1f659dfdc02f",
+                                            "text": {
+                                                "caption": "陕西历史博物馆",
+                                                "font": {
+                                                    "style": "normal",
+                                                    "weight": "normal",
+                                                    "decoration": "none",
+                                                    "size": 15,
+                                                    "color": "#000000"
+                                                }
+                                            },
+                                            "offset": {
+                                                "x": 180.666748046875,
+                                                "y": -22.666748046875
+                                            },
+                                            "foldChildren": false,
+                                            "branchColor": "#03769b",
+                                            "children": [
+                                                {
+                                                    "id": "4918d6b0-43e1-4b09-8c01-1475b7579e6d",
+                                                    "parentId": "7d561037-ee86-4bb4-b7f7-971de2863880",
+                                                    "text": {
+                                                        "caption": "碑林",
+                                                        "font": {
+                                                            "style": "normal",
+                                                            "weight": "normal",
+                                                            "decoration": "none",
+                                                            "size": 15,
+                                                            "color": "#000000"
+                                                        }
+                                                    },
+                                                    "offset": {
+                                                        "x": 180,
+                                                        "y": 23.3333740234375
+                                                    },
+                                                    "foldChildren": false,
+                                                    "branchColor": "#03769b",
+                                                    "children": [
+                                                        {
+                                                            "id": "1fd39d5b-212d-446c-828f-baec3601d958",
+                                                            "parentId": "4918d6b0-43e1-4b09-8c01-1475b7579e6d",
+                                                            "text": {
+                                                                "caption": "关中书院",
+                                                                "font": {
+                                                                    "style": "normal",
+                                                                    "weight": "normal",
+                                                                    "decoration": "none",
+                                                                    "size": 15,
+                                                                    "color": "#000000"
+                                                                }
+                                                            },
+                                                            "offset": {
+                                                                "x": 84,
+                                                                "y": 0
+                                                            },
+                                                            "foldChildren": false,
+                                                            "branchColor": "#03769b",
+                                                            "children": [
+                                                                {
+                                                                    "id": "65c83e36-e589-470b-bebd-0980e88c5e75",
+                                                                    "parentId": "1fd39d5b-212d-446c-828f-baec3601d958",
+                                                                    "text": {
+                                                                        "caption": "西安古城墙",
+                                                                        "font": {
+                                                                            "style": "normal",
+                                                                            "weight": "normal",
+                                                                            "decoration": "none",
+                                                                            "size": 15,
+                                                                            "color": "#000000"
+                                                                        }
+                                                                    },
+                                                                    "offset": {
+                                                                        "x": 117.33333333333333,
+                                                                        "y": 1.3333333333333333
+                                                                    },
+                                                                    "foldChildren": false,
+                                                                    "branchColor": "#03769b",
+                                                                    "children": [
+                                                                        {
+                                                                            "id": "584518df-d3fc-45b0-8d25-4429b63f8f07",
+                                                                            "parentId": "65c83e36-e589-470b-bebd-0980e88c5e75",
+                                                                            "text": {
+                                                                                "caption": "钟楼",
+                                                                                "font": {
+                                                                                    "style": "normal",
+                                                                                    "weight": "normal",
+                                                                                    "decoration": "none",
+                                                                                    "size": 15,
+                                                                                    "color": "#000000"
+                                                                                }
+                                                                            },
+                                                                            "offset": {
+                                                                                "x": -110.666748046875,
+                                                                                "y": 77.333251953125
+                                                                            },
+                                                                            "foldChildren": false,
+                                                                            "branchColor": "#03769b",
+                                                                            "children": [
+                                                                                {
+                                                                                    "id": "999742b6-4031-4087-90ab-846dccfbe5d5",
+                                                                                    "parentId": "584518df-d3fc-45b0-8d25-4429b63f8f07",
+                                                                                    "text": {
+                                                                                        "caption": "鼓楼",
+                                                                                        "font": {
+                                                                                            "style": "normal",
+                                                                                            "weight": "normal",
+                                                                                            "decoration": "none",
+                                                                                            "size": 15,
+                                                                                            "color": "#000000"
+                                                                                        }
+                                                                                    },
+                                                                                    "offset": {
+                                                                                        "x": -118.66666666666667,
+                                                                                        "y": 0
+                                                                                    },
+                                                                                    "foldChildren": false,
+                                                                                    "branchColor": "#03769b",
+                                                                                    "children": [
+                                                                                        {
+                                                                                            "id": "1d9452a7-e6f9-4f40-9049-7a54261bd4a7",
+                                                                                            "parentId": "999742b6-4031-4087-90ab-846dccfbe5d5",
+                                                                                            "text": {
+                                                                                                "caption": "回民街",
+                                                                                                "font": {
+                                                                                                    "style": "normal",
+                                                                                                    "weight": "normal",
+                                                                                                    "decoration": "none",
+                                                                                                    "size": 15,
+                                                                                                    "color": "#000000"
+                                                                                                }
+                                                                                            },
+                                                                                            "offset": {
+                                                                                                "x": -114.66666666666667,
+                                                                                                "y": 0
+                                                                                            },
+                                                                                            "foldChildren": false,
+                                                                                            "branchColor": "#03769b",
+                                                                                            "children": [
+                                                                                                {
+                                                                                                    "id": "7dd0be83-0202-4790-b03f-9a37b7661ce5",
+                                                                                                    "parentId": "1d9452a7-e6f9-4f40-9049-7a54261bd4a7",
+                                                                                                    "text": {
+                                                                                                        "caption": "化觉巷大清真寺",
+                                                                                                        "font": {
+                                                                                                            "style": "normal",
+                                                                                                            "weight": "normal",
+                                                                                                            "decoration": "none",
+                                                                                                            "size": 15,
+                                                                                                            "color": "#000000"
+                                                                                                        }
+                                                                                                    },
+                                                                                                    "offset": {
+                                                                                                        "x": -216,
+                                                                                                        "y": -20
+                                                                                                    },
+                                                                                                    "foldChildren": false,
+                                                                                                    "branchColor": "#03769b",
+                                                                                                    "children": [
+
+                                                                                                    ]
+                                                                                                }
+                                                                                            ]
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "dates": {
+        "created": 1359427360017,
+        "modified": 1359434999148
+    },
+    "dimensions": {
+        "x": 4000,
+        "y": 2000
+    },
+    "autosave": true
+}
